@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Principais Lançamentos",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/principais-lancamentos.json"
+    },
+    {
+      "name": "Filmes por Gêneros",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-por-generos.json"
+    },
+    {
+      "name": "Filmes em 4K",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-em-4k.json"
+    },
+    {
+      "name": "Coleções",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/colecoes.json"
+    },
+    {
+      "name": "Top 250 IMDb",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/top-250-imdb.json"
+    }
+  ]
+}
