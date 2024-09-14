@@ -1,0 +1,14 @@
+{
+  "videos": [
+    {
+      "id": 646097,
+      "title": "Rebel Ridge",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+    },
+    {
+      "id": 693134,
+      "title": "Duna: Parte Dois",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+    }
+  ]
+}
