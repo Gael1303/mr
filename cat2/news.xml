@@ -5,6 +5,6 @@
     </video>
     <video>
         <tmdb_id>120</tmdb_id>
-        <url>https://example.com/video2.mp4</url>
+        <url>plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb</url>
     </video>
 </videos>
