@@ -1,7 +1,7 @@
 <videos>
     <video>
         <tmdb_id>646097</tmdb_id>
-        <url>https://example.com/video1.mp4</url>
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb</url>
     </video>
     <video>
         <tmdb_id>120</tmdb_id>
