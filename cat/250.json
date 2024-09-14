@@ -1,25 +1,22 @@
-{
-    "category": "Top 250 IMDb",
-    "movies": [
-        {
-            "id": "238",
-            "title": "O Poderoso Chefão",
-            "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-            "plot": "O patriarca envelhecido de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
-            "year": "1972",
-            "fanart": "https://image.tmdb.org/t/p/original/dtJiCWxs4TsMzDUHCHTz2dvvSle.jpg",
-            "genre": "Crime, Drama",
-            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
-        },
-        {
-            "id": "424",
-            "title": "Um Sonho de Liberdade",
-            "poster": "https://image.tmdb.org/t/p/w500/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
-            "plot": "Dois homens presos se unem ao longo de vários anos, encontrando consolo e redenção através de atos de decência comum.",
-            "year": "1994",
-            "fanart": "https://image.tmdb.org/t/p/original/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
-            "genre": "Drama, Crime",
-            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
-        }
-    ]
-}
+[
+    {
+        "id": "238",
+        "title": "O Poderoso Chefão",
+        "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "plot": "O patriarca envelhecido de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+        "year": "1972",
+        "fanart": "https://image.tmdb.org/t/p/original/dtJiCWxs4TsMzDUHCHTz2dvvSle.jpg",
+        "genre": "Crime, Drama",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+    },
+    {
+        "id": "424",
+        "title": "Um Sonho de Liberdade",
+        "poster": "https://image.tmdb.org/t/p/w500/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
+        "plot": "Dois homens presos se unem ao longo de vários anos, encontrando consolo e redenção através de atos de decência comum.",
+        "year": "1994",
+        "fanart": "https://image.tmdb.org/t/p/original/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+        "genre": "Drama, Crime",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+    }
+]
