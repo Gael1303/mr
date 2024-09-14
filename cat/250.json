@@ -3,15 +3,15 @@
     {
       "id": "238",
       "title": "O Poderoso Chefão",
-      "poster": "https://example.com/path/to/default_poster.jpg",  # Placeholder
-      "fanart": "https://example.com/path/to/default_fanart.jpg",  # Placeholder
+      "poster": "https://example.com/path/to/default_poster.jpg",  
+      "fanart": "https://example.com/path/to/default_fanart.jpg", 
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     },
     {
       "id": "424",
       "title": "Um Sonho de Liberdade",
-      "poster": "https://example.com/path/to/default_poster.jpg",  # Placeholder
-      "fanart": "https://example.com/path/to/default_fanart.jpg",  # Placeholder
+      "poster": "https://example.com/path/to/default_poster.jpg",
+      "fanart": "https://example.com/path/to/default_fanart.jpg",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     }
   ]
