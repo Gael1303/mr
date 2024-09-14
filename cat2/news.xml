@@ -1,0 +1,10 @@
+<videos>
+    <video>
+        <tmdb_id>646097</tmdb_id>
+        <url>https://example.com/video1.mp4</url>
+    </video>
+    <video>
+        <tmdb_id>120</tmdb_id>
+        <url>https://example.com/video2.mp4</url>
+    </video>
+</videos>
