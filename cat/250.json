@@ -3,13 +3,21 @@
     {
       "id": "238",
       "title": "O Poderoso Chefão",
-      "year": 1901,
+      "year": 1900,
+      "poster":"https://exemple.png",
+      "fanart":"https://exemple.png",
+      "genre": "teste",
+      "plot": "teste",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     },
     {
       "id": 424,
       "title": "Um Sonho de Liberdade",
       "year": 1900,
+      "poster":"https://exemple.png",
+      "fanart":"https://exemple.png",
+      "genre": "teste",
+      "plot": "teste",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     }
   ]
