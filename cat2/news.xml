@@ -1,10 +1,10 @@
 <videos>
     <video>
-        <tmdb_id>646097</tmdb_id>
+        <imdb_id>tt11301886</imdb_id>
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb</url>
     </video>
     <video>
-        <tmdb_id>120</tmdb_id>
+        <imdb_id>tt1160419</imdb_id>
         <url>https://animezey.xyz/1:/Filmes/Filmes%20recentes%20(2599)/Duna%202021%201080p%20WEB-DL%20FULL%20HD%20DUAL%205.1/Duna%202021%201080p%20WEB-DL%20FULL%20HD%20DUAL%205.1.mkv</url>
     </video>
 </videos>
