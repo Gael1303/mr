@@ -1,4 +1,5 @@
-[
+{
+"videos": [
     {
         "id": "238",
         "title": "O Poderoso Chefão",
@@ -20,3 +21,4 @@
         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     }
 ]
+}    
