@@ -1,12 +1,12 @@
 {
   "videos": [
     {
-      "id": "238",  # ID do filme no TMDb
+      "id": 238,
       "title": "O Poderoso Chefão",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     },
     {
-      "id": "424",  # ID do filme no TMDb
+      "id": 424,
       "title": "Um Sonho de Liberdade",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     }
