@@ -1,52 +1,54 @@
-[
-    {
-        "collection": "The Lord of the Rings",
-        "icon": "https://link-para-icon/LOTR.png",
-        "fanart": "https://link-para-fanart/LOTR.jpg",
-        "movies": [
-            {
-                "id": 120,
-                "title": "The Fellowship of the Ring",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            },
-            {
-                "id": 121,
-                "title": "The Two Towers",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            },
-            {
-                "id": 122,
-                "title": "The Return of the King",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            }
-        ]
-    },
-    {
-        "collection": "John Wick",
-        "icon": "https://link-para-icon/JohnWick.png",
-        "fanart": "https://link-para-fanart/JohnWick.jpg",
-        "movies": [
-            {
-                "id": 123,
-                "title": "John Wick",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            },
-            {
-                "id": 124,
-                "title": "John Wick 2",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            },
-            {
-                "id": 125,
-                "title": "John Wick 3",
-                "poster": "https://thumb.png",
-                "url": "plugin://plugin.video.elementum/play?uri="
-            }
-        ]
-    }
-]
+{
+    "collections": [
+        {
+            "name": "The Lord of the Rings",
+            "icon": "https://link-para-icon/LOTR.png",
+            "fanart": "https://link-para-fanart/LOTR.jpg",
+            "movies": [
+                {
+                    "id": 120,
+                    "title": "The Fellowship of the Ring",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                },
+                {
+                    "id": 121,
+                    "title": "The Two Towers",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                },
+                {
+                    "id": 122,
+                    "title": "The Return of the King",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                }
+            ]
+        },
+        {
+            "name": "John Wick",
+            "icon": "https://link-para-icon/JohnWick.png",
+            "fanart": "https://link-para-fanart/JohnWick.jpg",
+            "movies": [
+                {
+                    "id": 123,
+                    "title": "John Wick",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                },
+                {
+                    "id": 124,
+                    "title": "John Wick 2",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                },
+                {
+                    "id": 125,
+                    "title": "John Wick 3",
+                    "poster": "https://thumb.png",
+                    "url": "plugin://plugin.video.elementum/play?uri="
+                }
+            ]
+        }
+    ]
+}
