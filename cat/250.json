@@ -3,17 +3,11 @@
     {
       "id": "238",
       "title": "O Poderoso Chefão",
-      "poster": "https://example.com/path/to/default_poster.jpg",  
-      "fanart": "https://example.com/path/to/default_fanart.jpg", 
-      "genre":"teste",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     },
     {
       "id": "424",
       "title": "Um Sonho de Liberdade",
-      "poster": "https://example.com/path/to/default_poster.jpg",
-      "fanart": "https://example.com/path/to/default_fanart.jpg",
-      "genre":"teste",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
     }
   ]
