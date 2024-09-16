@@ -1,14 +1,20 @@
 {
   "videos": [
     {
-      "id": 646097,
-      "title": "Rebel Ridge",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+      "imdb_id": "tt1323594",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088"
     },
     {
-      "id": 693134,
-      "title": "Duna: Parte Dois",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:<hash>"
+      "imdb_id": "tt4919268",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46"
+    },
+    {
+      "imdb_id": "tt17279496",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6"
+    },
+    {
+      "imdb_id": "tt11389872",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c"
     }
   ]
 }
