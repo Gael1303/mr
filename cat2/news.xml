@@ -1,10 +1,10 @@
-<movies>
-    <movie>
-        <imdb_id>tt11301886</imdb_id>
+<videos>
+    <video>
+        <imdb_id>tt1677720</imdb_id>
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb</url>
-    </movie>
-    <movie>
-        <imdb_id>tt0468569</imdb_id>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:another-magnet-link-here</url>
-    </movie>
-</movies>
+    </video>
+    <video>
+        <imdb_id>tt1877832</imdb_id>
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a05b839cbd9e20e40b34b1817440a04c63fae88</url>
+    </video>
+</videos>
