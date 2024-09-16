@@ -1,0 +1,20 @@
+<videos>
+    <video>
+        <imdb_id>tt1323594</imdb_id>
+        <title>Filme Exemplo 1</title>
+        <poster>https://example.com/poster1.jpg</poster>
+        <fanart>https://example.com/fanart1.jpg</fanart>
+        <plot>Descrição do Filme Exemplo 1</plot>
+        <genre>Ação</genre>
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
+    </video>
+    <video>
+        <imdb_id>tt4919268</imdb_id>
+        <title>Filme Exemplo 2</title>
+        <poster>https://example.com/poster2.jpg</poster>
+        <fanart>https://example.com/fanart2.jpg</fanart>
+        <plot>Descrição do Filme Exemplo 2</plot>
+        <genre>Comédia</genre>
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46</url>
+    </video>
+</videos>
