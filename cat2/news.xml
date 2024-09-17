@@ -1,18 +1,50 @@
 <videos>
-    <video>
-        <tmdb_id>519182</tmdb_id>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
-    </video>
-    <video>
-        <tmdb_id>573435</tmdb_id>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46</url>
-    </video>
 	<video>
-        <tmdb_id>929590</tmdb_id>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6</url>
-    </video>
+		<tmdb_id>519182</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
+	</video>
 	<video>
-        <tmdb_id>653346</tmdb_id>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c</url>
-    </video>
+		<tmdb_id>573435</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46</url>
+	</video>
+	<video>
+		<tmdb_id>929590</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6</url>
+	</video>
+	<video>
+		<tmdb_id>653346</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c</url>
+	</video>
+	<video>
+		<tmdb_id>762441</tmdb_id> #um lugar silencioso 3
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f474e968c10fda02fff5e1fd31ab94c16e9409b</url>
+	</video>
+	<video>
+		<tmdb_id>533535</tmdb_id> #rebel Ridge
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6464fce97c27c2069220636e163e1e170a69c115</url>
+	</video>
+	<video>
+		<tmdb_id>365177</tmdb_id> #Borderlands: O Destino do Universo Está em Jogo
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802678414ef3fc438b67fbf6ad4232909a2d4c0f</url>
+	</video>
+	<video>
+		<tmdb_id>718821</tmdb_id> #Twisters
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6e60181a3b1cb924cc3d208ddae3e238b250e82</url>
+	</video>
+	<video>
+		<tmdb_id>693134</tmdb_id> #Duna 2
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1</url>
+	</video>
+	<video>
+		<tmdb_id>786892</tmdb_id> #Furiosa
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81</url>
+	</video>
+	<video>
+		<tmdb_id>1022789</tmdb_id> #Divertida Mente 2
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3e430350a5c0eebd08de78b8d5592639feb444</url>
+	</video>
+	<video>
+		<tmdb_id>938614</tmdb_id> #Entrevista com o Demônio
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0</url>
+	</video>
 </videos>
