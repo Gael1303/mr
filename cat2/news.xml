@@ -12,7 +12,7 @@
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6</url>
     </video>
 	<video>
-        <imdb_id>653346</imdb_id>
+        <tmdb_id>653346</tmdb_id>
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c</url>
     </video>
 </videos>
