@@ -8,11 +8,11 @@
 	<videos>
 		<video>
 			<tmdb_id>324857</tmdb_id>
-			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</url>
+			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d7cad98100cfdcab7b0a409bf0b0465c18630dc</url>
 		</video>
 		<video>
 			<tmdb_id>569094</tmdb_id>
-			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</url>
+			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</url>
 		</video>
 	</videos>
 </collection>
