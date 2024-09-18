@@ -1,0 +1,50 @@
+<videos>
+	<video>
+        <tmdb_id>278</tmdb_id> #Um sonho de liberdade
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</url>
+    </video>
+	<video>
+        <tmdb_id>238</tmdb_id> #O poderoso chefão
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f0d311cc3be3c19f9566fc49662e59ba302614a</url>
+    </video>
+	<video>
+        <tmdb_id>240</tmdb_id> #O poderoso chefão 2
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543201f979804dcb0429e9a7d867ca40b56fdadf</url>
+    </video>
+	<video>
+        <tmdb_id>389</tmdb_id> 12 Homens e uma Sentença
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5228d2f2f60272c11b5e49f8e0c3d52d3b3c8026</url>
+    </video>
+	<video>
+        <tmdb_id>129</tmdb_id> A Viagem de Chihiro
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65ccb003b36b4ee3604292750aa5ba0c15fc4e82</url>
+    </video>
+	<video>
+        <tmdb_id>155</tmdb_id> Batman: O Cavaleiro das Trevas
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923</url>
+    </video>
+	<video>
+        <tmdb_id>496243</tmdb_id> Parasita
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc33008ab9b2fefa78cf264d3124b841875d5c11</url>
+    </video>
+	<video>
+        <tmdb_id>497</tmdb_id> À Espera de um Milagre
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2721ea4c1bdb4867c99540c9884194ab5efa9fc</url>
+    </video>
+	<video>
+        <tmdb_id>680</tmdb_id> Pulp Fiction
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b87da5216a5da49da6b5de7095872bbd192104d8</url>
+    </video>
+	<video>
+        <tmdb_id>372058</tmdb_id> Your Name.
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2373ec52de3ffba6eaa84e28eb582b6bd3b1229</url>
+    </video>
+	<video>
+        <tmdb_id>122</tmdb_id> O Senhor dos Anéis: O Retorno do Rei
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9296e20f76469fabe7e55731dba540174a7282a</url>
+    </video>
+	<video>
+        <tmdb_id>13</tmdb_id> Forrest Gump: O Contador de Histórias
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a56d708883721739840c5a10f31ce81be7188902</url>
+    </video>
+</videos>
