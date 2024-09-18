@@ -47,4 +47,52 @@
         <tmdb_id>13</tmdb_id> Forrest Gump: O Contador de Histórias
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a56d708883721739840c5a10f31ce81be7188902</url>
     </video>
+	<video>
+        <tmdb_id>769</tmdb_id> Os Bons Companheiros
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b099c67d743d61821714e0121fe8f127e553d38</url>
+    </video>
+	<video>
+        <tmdb_id>429</tmdb_id> Três Homens em Conflito
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfd45b477f644f62921e511a7b301343b14ab003</url>
+    </video>
+	<video>
+        <tmdb_id>346</tmdb_id> Os Sete Samurais
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cabf9830ba0d213686927e4ff3beb6eb9c29e65</url>
+    </video>
+	<video>
+        <tmdb_id>12477</tmdb_id> O Túmulo dos Vagalumes
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be33f205d05cfa34fa49de443cf93ec2ca0c56a5</url>
+    </video>
+	<video>
+        <tmdb_id>11216</tmdb_id> Cinema Paradiso
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7295114c711a6f9ded6a92870600d45a2b07641</url>
+    </video>
+	<video>
+        <tmdb_id>637</tmdb_id> A Vida é Bela
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a0f948c7b4a339af3d2bf09f07155edfe9fd28</url>
+    </video>
+	<video>
+        <tmdb_id>157336</tmdb_id> Interestelar
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c041a3e511bcf55987ad1b00c261cbc8e8b02735</url>
+    </video>
+	<video>
+        <tmdb_id>550</tmdb_id> Clube da Luta
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40c0b1324e338c7794488a8e9613d23675064730</url>
+    </video>
+	<video>
+        <tmdb_id>1084736</tmdb_id> O Conde de Monte Cristo
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f566e6b3c64956842f7528b1325e426b31537d6e</url>
+    </video>
+	<video>
+        <tmdb_id>539</tmdb_id> Psicose
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81</url>
+    </video>
+	<video>
+        <tmdb_id>598</tmdb_id> Cidade de Deus
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9579acfdf48fcb241edf331529d039e8a23ecf3</url>
+    </video>
+	<video>
+        <tmdb_id>510</tmdb_id> Um Estranho no Ninho
+        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1a0ad8e9547022e99825fb3a840ea9fed3cdde</url>
+    </video>
 </videos>
