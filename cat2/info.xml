@@ -1,0 +1,12 @@
+<messages>
+    <message>
+        <title>Atualização Importante</title>
+        <content>Novos filmes adicionados à coleção!</content>
+        <date>2024-09-18</date>
+    </message>
+    <message>
+        <title>Manutenção Programada</title>
+        <content>O servidor estará em manutenção no dia 20/09.</content>
+        <date>2024-09-19</date>
+    </message>
+</messages>
