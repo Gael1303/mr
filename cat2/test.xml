@@ -1,20 +1,22 @@
-<videos>
-    <video>
-        <imdb_id>tt1323594</imdb_id>
-        <title>Filme Exemplo 1</title>
-        <poster>https://example.com/poster1.jpg</poster>
-        <fanart>https://example.com/fanart1.jpg</fanart>
-        <plot>Descrição do Filme Exemplo 1</plot>
-        <genre>Ação</genre>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
-    </video>
-    <video>
-        <imdb_id>tt4919268</imdb_id>
-        <title>Filme Exemplo 2</title>
-        <poster>https://example.com/poster2.jpg</poster>
-        <fanart>https://example.com/fanart2.jpg</fanart>
-        <plot>Descrição do Filme Exemplo 2</plot>
-        <genre>Comédia</genre>
-        <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46</url>
-    </video>
-</videos>
+<channel>
+	<name>Homem-Aranha: Aranhaverso Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg</fanart>
+	<date>10.01.2019</date>
+	<genre>Adventure, Animation, Action, Science Fiction</genre>
+	<info>Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.</info>
+	<items>
+		<item>
+			<title>Homem-Aranha: No Aranhaverso (2019) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7d7cad98100cfdcab7b0a409bf0b0465c18630dc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejqquyk7r3GLXPir62rksUmPKj5.jpg</thumbnail>
+			<genre>Adventure, Animation, Action, Science Fiction</genre>
+		</item>
+		<item>
+			<title>Homem-Aranha: Através do Aranhaverso (2023) (Dublado)</title>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg</thumbnail>
+			<genre>Adventure, Animation, Action, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
