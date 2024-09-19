@@ -1,8 +1,5 @@
-Bem-vindo ao Cine Room!
+Bem-vindo ao [COLOR green]Movie Room[/COLOR]
 
-Versão: 1.0.0
-Desenvolvedor: Gael
+Estamos em uma versão de testes! Todas as novidades serão publicadas aqui, Fiquem Atentos!
 
-Este plugin é focado em filmes e oferece várias categorias como Lançamentos, Melhores Notas, e Coleções.
-
-Para mais informações, visite nosso TELEGRAM
+By: GAEL
