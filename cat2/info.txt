@@ -1,0 +1,8 @@
+Bem-vindo ao Cine Room!
+
+Versão: 1.0.0
+Desenvolvedor: Gael
+
+Este plugin é focado em filmes e oferece várias categorias como Lançamentos, Melhores Notas, e Coleções.
+
+Para mais informações, visite nosso TELEGRAM
