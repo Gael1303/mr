@@ -803,4 +803,484 @@
 		<tmdb_id>10386</tmdb_id> O Gigante de Ferro
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b65f940e17607f77350a68611d0fc51e6c66df48</url>
 	</video>
+	<video>
+		<tmdb_id>679</tmdb_id> Aliens: O Resgate
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a897bd47b83f9994bc6a4209a28cb242b4780bd</url>
+	</video>
+	<video>
+		<tmdb_id>1010581</tmdb_id> Minha Culpa
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce98b7600125c34c4384d9233bbfb3e4f17e9477</url>
+	</video>
+	<video>
+		<tmdb_id>37797</tmdb_id> Sussurros do Coração
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcdcb86e71118f2a914bc8a1f3df88b8ce340d3e</url>
+	</video>
+	<video>
+		<tmdb_id>6977</tmdb_id> Onde os Fracos Não Têm Vez
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2493e8fdfb5fa64aba0b033346101240704417db</url>
+	</video>
+	<video>
+		<tmdb_id>770</tmdb_id> ...E o Vento Levou
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad042dc56bb602117106e020a7738080f2478ff</url>
+	</video>
+	<video>
+		<tmdb_id>149</tmdb_id> Akira
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a5f0c603d827f115196fa9f703c9cc48cd57205</url>
+	</video>
+	<video>
+		<tmdb_id>76203</tmdb_id> 12 Anos de Escravidão
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6a44fbb9ba5f09fa8390e3bf5da91e9675a235a</url>
+	</video>
+	<video>
+		<tmdb_id>197</tmdb_id> Coração Valente
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb91302ba9d3ac950ed694f1050a5793e49e42e</url>
+	</video>
+	<video>
+		<tmdb_id>81</tmdb_id> Nausicaä do Vale do Vento
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89801c0c0c5ce328f378217dce025b2ff13e51d6</url>
+	</video>
+	<video>
+		<tmdb_id>78</tmdb_id> Blade Runner: O Caçador de Andróides
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3861b2a0959a8119378ac104a19779f5e41f28c2</url>
+	</video>10
+	<video>
+		<tmdb_id>426618</tmdb_id> Amor em Tempos de Ódio
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4879ca753b8bd195553c572132d36cbd89670602</url>
+	</video>
+	<video>
+		<tmdb_id>776503</tmdb_id> No Ritmo do Coração
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46488a8fae1b665d5a961429172320f4a476e9</url>
+	</video>
+	<video>
+		<tmdb_id>1578</tmdb_id> Touro Indomável
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:860eab5e63f75028920d2f092199cb84c05aff07</url>
+	</video>
+	<video>
+		<tmdb_id>626332</tmdb_id> Flamin' Hot: O Sabor que Mudou a História
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22bf2ff2bdfe1a85c0af3fa2e79f302e44ef61a5</url>
+	</video>
+	<video>
+		<tmdb_id>296096</tmdb_id> Como Eu Era Antes de Você
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e70c916a1c9e2f5186f18e2d7bb393055aaf4d</url>
+	</video>
+	<video>
+		<tmdb_id>152532</tmdb_id> Clube de Compras Dallas
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3cf6591e7356c20bcb00a5484bd80c2e38f0ad</url>
+	</video>
+	<video>
+		<tmdb_id>85</tmdb_id> Indiana Jones e os Caçadores da Arca Perdida
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52da55739a2229b4cbad0023d9cf49afa9c5a7c</url>
+	</video>
+	<video>
+		<tmdb_id>920394</tmdb_id> O Violino do Meu Pai
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1886a18fbccfc9966f788bddc3e8f3bddd5da3be</url>
+	</video>
+	<video>
+		<tmdb_id>122906</tmdb_id> Questão de Tempo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b02e99ceb43a150498f9028cb259ca6c899c6d18</url>
+	</video>
+	<video>
+		<tmdb_id>1092</tmdb_id> O Terceiro Homem
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:074be130981dc339c6fb70a5e711f30bac210169</url>
+	</video>20
+	<video>
+		<tmdb_id>1646</tmdb_id> Escritores da Liberdade
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:965aa0b5393b3313cdd5653fca844d7d34dbe314</url>
+	</video>
+	<video>
+		<tmdb_id>949</tmdb_id> Fogo Contra Fogo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a29c40433798d7100ea06b5289fb4b31ec5d47</url>
+	</video>
+	<video>
+		<tmdb_id>407806</tmdb_id> A 13ª Emenda
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382249404793a3de26d018414943d8a24b650943</url>
+	</video>
+	<video>
+		<tmdb_id>829</tmdb_id> Chinatown
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ba15a2a7c1e0a5754ee68b4407f55b770b9995</url>
+	</video>
+	<video>
+		<tmdb_id>491480</tmdb_id> O Menino que Descobriu o Vento
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aecf2eda1281c3978156aa706a99c025a8107d13</url>
+	</video>
+	<video>
+		<tmdb_id>142061</tmdb_id> Batman: O Cavaleiro das Trevas, Parte 2
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d50e61a01d579f666938fda06d1fc7f53f6ce0</url>
+	</video>
+	<video>
+		<tmdb_id>150540</tmdb_id> Divertida Mente
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3335411e7602e0b46197d6deff28c70f2964c81</url>
+	</video>
+	<video>
+		<tmdb_id>671</tmdb_id> Harry Potter e a Pedra Filosofal
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20288b27c8a957b056af012f7283b7433364daa1</url>
+	</video>
+	<video>
+		<tmdb_id>505262</tmdb_id> My Hero Academia: O Filme - 2 Heróis
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bfae4be9ed3e8cbbbc6a63c539dc73fee537f3</url>
+	</video>
+	<video>
+		<tmdb_id>33</tmdb_id> Os Imperdoáveis
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b236a04b945b0615056f0be01cc997deeb52fac0</url>
+	</video>30
+	<video>
+		<tmdb_id>10674</tmdb_id> Mulan
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6e7ecf9671d7902b59f743e796cfef8fc018f2f</url>
+	</video>
+	<video>
+		<tmdb_id>194</tmdb_id> O Fabuloso Destino de Amélie Poulain
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fe2f28999f9ab63fc2283999227785eb430b46</url>
+	</video>
+	<video>
+		<tmdb_id>334533</tmdb_id> Capitão Fantástico
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:572079e6fac66497106e5e8c5f042461f656422d</url>
+	</video>
+	<video>
+		<tmdb_id>118340</tmdb_id> Guardiões da Galáxia
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92e8293f9c506a7e0cd3014473bbd8a371e89188</url>
+	</video>
+	<video>
+		<tmdb_id>726684</tmdb_id> Miraculous World: Xangai, a Lenda de Ladydragon
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ebcc51822b8e21588e702f46f839d183ced9b88c</url>
+	</video>
+	<video>
+		<tmdb_id>482321</tmdb_id> Ron Bugado
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:779b0a5d2e10319206d3777493614f5e2abb2ea3</url>
+	</video>
+	<video>
+		<tmdb_id>597</tmdb_id> Titanic
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e</url>
+	</video>
+	<video>
+		<tmdb_id>7984</tmdb_id> Em Nome do Pai
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28f35fad77067f56a0ceb82967123654e45d0aa8</url>
+	</video>
+	<video>
+		<tmdb_id>501929</tmdb_id> A Família Mitchell e a Revolta das Máquinas
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6341c28f3fc4fbe30544c30f8736d5e79455458</url>
+	</video>
+	<video>
+		<tmdb_id>550205</tmdb_id> Din e o Dragão Genial
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d51fa9b64d4cf917bebae10dcfaa265e99e9</url>
+	</video>40
+	<video>
+		<tmdb_id>313369</tmdb_id> La La Land: Cantando Estações
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0207e566e11046c6b272873f7dd586cc0837e819</url>
+	</video>
+	<video>
+		<tmdb_id>1402</tmdb_id> À Procura da Felicidade
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cfaf8c62cf18e5499eed6119c7192a3e8cfa9d6</url>
+	</video>
+	<video>
+		<tmdb_id>698948</tmdb_id> Treze Vidas: O Resgate
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc65e601a0dcc5d709893d8acc8b20ddc4cd6831</url>
+	</video>
+	<video>
+		<tmdb_id>1892</tmdb_id> Guerra nas Estrelas: O Retorno de Jedi
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11aaf674b591a765e57561d5b3120951bba7c71a</url>
+	</video>
+	<video>
+		<tmdb_id>752</tmdb_id> V de Vingança
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05a9552e461e35f174f0b60bf16fa95f04127bd</url>
+	</video>
+	<video>
+		<tmdb_id>610150</tmdb_id> Dragon Ball Super: Super Hero
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd866583a2e47f99cd09eaab98bd84b716ba5aa</url>
+	</video>
+	<video>
+		<tmdb_id>961323</tmdb_id> Nimona
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0dffcc06eb30cab6205b69a86d47ed9dc703d64</url>
+	</video>
+	<video>
+		<tmdb_id>210577</tmdb_id> Garota Exemplar
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:056e536dc0df1cda52124424f192abb97e31479f</url>
+	</video>
+	<video>
+		<tmdb_id>503314</tmdb_id> Dragon Ball Super: Broly
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bed4d5112f9c061cee2e3bbcdc4835d894519111</url>
+	</video>
+	<video>
+		<tmdb_id>316029</tmdb_id> O Rei do Show
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bebdcc6fb03338a83282c9d98ae3f4ac3eb1df9b</url>
+	</video>50
+	<video>
+		<tmdb_id>11036</tmdb_id> Diário de uma Paixão
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78da7250caf06902c2b3d7a2bacae85dd6085641</url>
+	</video>
+	<video>
+		<tmdb_id>183011</tmdb_id> Liga da Justiça: Ponto de Ignição
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eef2742f1b0807abc3c359f506ab918f34c5963a</url>
+	</video>
+	<video>
+		<tmdb_id>944401</tmdb_id> Dogman
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d21630d74e2fa4bac8f06b5a8d105495aa8d0a4</url>
+	</video>
+	<video>
+		<tmdb_id>14836</tmdb_id> Coraline e o Mundo Secreto
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e59d3d3a7a6bc9837f8a63f340d5f774ae08331</url>
+	</video>
+	<video>
+		<tmdb_id>522402</tmdb_id> Finch
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3e18dbe7fde04e513a7998c0deee3d37e9dfb2</url>
+	</video>
+	<video>
+		<tmdb_id>331482</tmdb_id> Adoráveis Mulheres
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34ef610e99851b7c4a29a8ffa14884146aa9dc23</url>
+	</video>
+	<video>
+		<tmdb_id>522212</tmdb_id> Luta por Justiça
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e43f62f7e9ff61246319cb3270fd181f3d5fea56</url>
+	</video>
+	<video>
+		<tmdb_id>354857</tmdb_id> Apenas um Show: O Filme
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ccf7dcdeb832fbf501c909318c032c9fbdec30</url>
+	</video>
+	<video>
+		<tmdb_id>393</tmdb_id> Kill Bill: Volume 2
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d30d104f2ca7a4a3bbf90eb3afb27aa027a223b</url>
+	</video>
+	<video>
+		<tmdb_id>265195</tmdb_id> Relatos Selvagens
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522309da30e2aa2e894c05c67068cfcfb1972690</url>
+	</video>60
+	<video>
+		<tmdb_id>438695</tmdb_id> Sing 2
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c90ef78db8b3a5164c4faaa30003e83eab7d26a8</url>
+	</video>
+	<video>
+		<tmdb_id>381341</tmdb_id> Perfeitos Desconhecidos
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7b086d6d2c0b1f7ddd82caafa0b004ed58ed7d5</url>
+	</video>
+	<video>
+		<tmdb_id>158999</tmdb_id> Blackfish: Fúria Animal
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4905b54467476ba8f1691c302470e6291824ae5c</url>
+	</video>
+	<video>
+		<tmdb_id>613</tmdb_id> A Queda! As Últimas Horas de Hitler
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e6b06629b410b606cfb442e8f73b442eac25e6b</url>
+	</video>
+	<video>
+		<tmdb_id>453</tmdb_id> Uma Mente Brilhante
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0b9cce9b79a08a72129b0928ff9ff25facccd59</url>
+	</video>
+	<video>
+		<tmdb_id>785084</tmdb_id> A Baleia
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837</url>
+	</video>
+	<video>
+		<tmdb_id>152601</tmdb_id> Ela
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f8bd23ee2a6b4f808b15cb19bec970bd18329b</url>
+	</video>
+	<video>
+		<tmdb_id>266856</tmdb_id> A Teoria de Tudo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80037432556246c8f6539271ea842a4822148595</url>
+	</video>
+	<video>
+		<tmdb_id>573164</tmdb_id> Cantando de Galo: O Resgate dos Ovinhos
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:479689abec09a58955d21fcb00ec4a6efc7cee06</url>
+	</video>
+	<video>
+		<tmdb_id>89</tmdb_id> Indiana Jones e a Última Cruzada
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3ea9934af8beda99d3af8f842917e418a79a30</url>
+	</video>70
+	<video>
+		<tmdb_id>527774</tmdb_id> Raya e o Último Dragão
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:493f7c6c0d096a846e06c9a7a8f400547c28c3d5</url>
+	</video>
+	<video>
+		<tmdb_id>399174</tmdb_id> Ilha dos Cachorros
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95a75937c2e249d1e46bd39790417483e3522081</url>
+	</video>
+	<video>
+		<tmdb_id>59440</tmdb_id> Guerreiro
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bad9b37b00ed80533a9293970f3be12a557bf9f0</url>
+	</video>
+	<video>
+		<tmdb_id>24238</tmdb_id> Mary e Max: Uma Amizade Diferente
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f7ef7a8e37e066251cae52a2aaf11fd89d0c29c</url>
+	</video>
+	<video>
+		<tmdb_id>546554</tmdb_id> Entre Facas e Segredos
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518b2cc2b695b55ad24f233ca127094b6d95d181</url>
+	</video>
+	<video>
+		<tmdb_id>581</tmdb_id> Dança com Lobos
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6be178ba3e7cf9218e36b631b079efacd95a50b</url>
+	</video>
+	<video>
+		<tmdb_id>698508</tmdb_id> Amor de Redenção
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15a3276e195aa79d00e04ee198be486badea1851</url>
+	</video>
+	<video>
+		<tmdb_id>585</tmdb_id> Monstros S.A.
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae64eb917a16d99b6029158e8b4836994d80ee80</url>
+	</video>
+	<video>
+		<tmdb_id>579245</tmdb_id> Mais que Especiais
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c159620331c20b60becf810387210bf4b74f1ca4</url>
+	</video>
+	<video>
+		<tmdb_id>115</tmdb_id> O Grande Lebowski
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd026e93d8d6a09b198dcf25ba8304de12ac5d3</url>
+	</video>80
+	<video>
+		<tmdb_id>14574</tmdb_id> O Menino do Pijama Listrado
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916d5e4758a74eb6596e59c9f13d6b5cb91e575d</url>
+	</video>
+	<video>
+		<tmdb_id>968</tmdb_id> Um Dia de Cão
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cea36319e8bfcf0a101206d17e993158288e0140</url>
+	</video>
+	<video>
+		<tmdb_id>391</tmdb_id> Por um Punhado de Dólares
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c3d705b86e555d651b35a7f450db11426eae9cd</url>
+	</video>
+	<video>
+		<tmdb_id>200727</tmdb_id> Simplesmente Acontece
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4900cc864edd0aaf288cfc447c921cb7a6d4a72</url>
+	</video>
+	<video>
+		<tmdb_id>6075</tmdb_id> O Pagamento Final
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621c13088af144adcac59520763f165670b939fa</url>
+	</video>
+	<video>
+		<tmdb_id>9479</tmdb_id> O Estranho Mundo de Jack
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d93a5dd8bb04dd71a5ff81c1f19fc8de42f6dc4</url>
+	</video>
+	<video>
+		<tmdb_id>712454</tmdb_id> Viagem ao Topo da Terra
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56b2b4c2b72629fcfa0a175ef1c8848288f7f1a6</url>
+	</video>
+	<video>
+		<tmdb_id>826</tmdb_id> A Ponte do Rio Kwai
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f87edf0700062eda0c90529d164cd30e102e8df</url>
+	</video>
+	<video>
+		<tmdb_id>980489</tmdb_id> Gran Turismo: De Jogador a Corredor
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f68a991c2f2b7967b559a127678f77df6b3bd7b</url>
+	</video>
+	<video>
+		<tmdb_id>10191</tmdb_id> Como Treinar o Seu Dragão
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:945a19ac16f2bfe8967092bb10f8a12f285e3360</url>
+	</video>90
+	<video>
+		<tmdb_id>805</tmdb_id> O Bebê de Rosemary
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d008d8b020a708e988cc69c11e6b2ac69b326021</url>
+	</video>
+	<video>
+		<tmdb_id>398924</tmdb_id> Os Meninos Que Enganavam Nazistas
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d373230fb8d0d501e26ca0eb994fa1a6acaa124f</url>
+	</video>
+	<video>
+		<tmdb_id>715931</tmdb_id> Emancipation: Uma História de Liberdade
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e85f65416f1fa30d8dd89b69418ddd93ac1462</url>
+	</video>
+	<video>
+		<tmdb_id>16859</tmdb_id> O Serviço de Entregas da Kiki
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fc4bcdf52c533b500045326a37aebf23f4369f5</url>
+	</video>
+	<video>
+		<tmdb_id>323272</tmdb_id> Quarto de Guerra
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:253acfd7e7a111a96f4b8425c792a7cd273b10ef</url>
+	</video>
+	<video>
+		<tmdb_id>2062</tmdb_id> Ratatouille
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:293bb627804281b179572f917ef0fedf405266d6</url>
+	</video>
+	<video>
+		<tmdb_id>618588</tmdb_id> Uma Prova de Coragem
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012f9a95b534a7386ce381f2da4a43a1d29789ae</url>
+	</video>
+	<video>
+		<tmdb_id>508943</tmdb_id> Luca
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7</url>
+	</video>
+	<video>
+		<tmdb_id>263115</tmdb_id> Logan
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef30ab4cf8ab1ec1f9968755d52e6f50b1fb7657</url>
+	</video>
+	<video>
+		<tmdb_id>10774</tmdb_id> Rede de Intrigas
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7166f31fe1a528b81f4c0029c5f85201a550eab2</url>
+	</video>100
+	<video>
+		<tmdb_id>650031</tmdb_id> O Bombardeio
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296ee9db58be9ca0c1a794f0f3c9d632740da207</url>
+	</video>
+	<video>
+		<tmdb_id>779047</tmdb_id> Juntos Novamente
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db5f6127390c9fddb753158b3920d089233cfe57</url>
+	</video>
+	<video>
+		<tmdb_id>677638</tmdb_id> Ursos Sem Curso: O Filme
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2191df75b7f28015bf77879cfbdb247d2a03ba39</url>
+	</video>
+	<video>
+		<tmdb_id>31011</tmdb_id> Sr. Ninguém
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:319d5e978c1e9354ad362cfaae1b25df76b63367</url>
+	</video>
+	<video>
+		<tmdb_id>12</tmdb_id> Procurando Nemo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a0fb7a352132f866c0e7766888d87c68cf01ddc</url>
+	</video>
+	<video>
+		<tmdb_id>314365</tmdb_id> Spotlight: Segredos Revelados
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b19333b97200b4929640b1a7f86f9424429ebf33</url>
+	</video>
+	<video>
+		<tmdb_id>3078</tmdb_id> Aconteceu Naquela Noite
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:548467c60c344d1225ca3174d722490f3eb40cbe</url>
+	</video>
+	<video>
+		<tmdb_id>674</tmdb_id> Harry Potter e o Cálice de Fogo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae56a714d5f687edb9e93ec73d6d632ca8395f3b</url>
+	</video>
+	<video>
+		<tmdb_id>52345</tmdb_id> Lisbela e o Prisioneiro
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9308d6f4b3932635787009ff1278eb6e0f33e982</url>
+	</video>
+	<video>
+		<tmdb_id>523781</tmdb_id> Palavras nas Paredes do Banheiro
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3b7e7ba7ab14768bc92af5b713477e3cdeae8b9</url>
+	</video>110
+	<video>
+		<tmdb_id>47931</tmdb_id> Tropa de Elite 2: O Inimigo Agora é Outro
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5cfd968723632c797c3b188c3f5f2fc414599e</url>
+	</video>
+	<video>
+		<tmdb_id>1018</tmdb_id> Cidade dos Sonhos
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b02c409d1658e0d98a0db5dacc2e1c105fdafef</url>
+	</video>
+	<video>
+		<tmdb_id>107</tmdb_id> Snatch: Porcos e Diamantes
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f095d1ba02f12b2a51ffd143e38f2749456e4038</url>
+	</video>
+	<video>
+		<tmdb_id>393559</tmdb_id> Minha Vida de Abobrinha
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e48443439701ef6e977273061ed2ebd83081e091</url>
+	</video>
+	<video>
+		<tmdb_id>10315</tmdb_id> O Fantástico Sr. Raposo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247f1e858de4cdb1ff5ff35f446942a48462aed7</url>
+	</video>
+	<video>
+		<tmdb_id>5915</tmdb_id> Na Natureza Selvagem
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:108495317ca7f3c6e98e30899a6d670e23b878c9</url>
+	</video>
+	<video>
+		<tmdb_id>22</tmdb_id> Piratas do Caribe: A Maldição do Pérola Negra
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2782e7c161c25f4ffa5eb7afa92c488dbd29a65d</url>
+	</video>
+	<video>
+		<tmdb_id>49797</tmdb_id> Eu Vi o Diabo
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e570775bb8fa61298800a0800282e634bba65882</url>
+	</video>
+	<video>
+		<tmdb_id>901563</tmdb_id> Close
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a42ecc805c0b5c634f0430ed66e1e48f6f65ee1</url>
+	</video>
+	<video>
+		<tmdb_id>22683</tmdb_id> Mãos Talentosas: A História de Ben Carson
+	   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75a6903410ddf91636d39e0eecc333c0d2f9bc2e</url>
+	</video>
 </videos>
