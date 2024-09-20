@@ -69,22 +69,23 @@
 	</video>
 	<video>
 		<imdb_id>tt10676048</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf67f2d11d2d9bd5abf5eaf9ba0e06f344009204
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf67f2d11d2d9bd5abf5eaf9ba0e06f344009204</url>
 	</video>
 	<video>
 		<imdb_id>tt9663764</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG</video>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG</url>
+	</video>
 	<video>
 		<imdb_id>tt6166392</imdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5A2QORKHNJYP4QTESJJHET47K2ZSTRB</url>
 	</video>
 	<video>
 		<imdb_id>tt13287846</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN</url>
 	</video>
 	<video>
 		<imdb_id>tt6914122</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBLCNJWOSSEYBXNSZ25MUDJECSRVL4Z
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBLCNJWOSSEYBXNSZ25MUDJECSRVL4Z</url>
 	</video>
 	<video>
 		<imdb_id>tt10545296</imdb_id>
@@ -104,7 +105,7 @@
 	</video>
 	<video>
 		<imdb_id>tt15398776</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c6a496187daad1610e9d08071ca8bea73005a1a
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c6a496187daad1610e9d08071ca8bea73005a1a</url>
 	</video>
 	<video>
 		<imdb_id>tt0816692</imdb_id>
@@ -116,7 +117,7 @@
 	</video>
 	<video>
 		<imdb_id>tt17024450</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e947df0a8f96d6b23f05cb5c6d493965bc1dfff
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e947df0a8f96d6b23f05cb5c6d493965bc1dfff</url>
 	</video>
 	<video>
 		<imdb_id>tt9603212</imdb_id>
@@ -164,7 +165,7 @@
 	</video>
 	<video>
 		<imdb_id>tt6791350</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d</url>
 	</video>
 	<video>
 		<imdb_id>tt5090568</imdb_id>
@@ -172,8 +173,8 @@
 	</video>
 	<video>
 		<imdb_id>tt0439572</imdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3b76921ad2edb2971a64def46e3f57d2436f990
-		</video>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3b76921ad2edb2971a64def46e3f57d2436f990</url>
+	</video>
 	<video>
 		<imdb_id>tt5433140</imdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c01859ac1335d63771bc4b1157af1be248cda59a</url>
