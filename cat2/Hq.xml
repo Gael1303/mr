@@ -127,5 +127,53 @@
 		<imdb_id>tt1695843</imdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8703c22660a32cb3714d523fd22bfe3a4018beae</url>
 	</video>
+	<video>
+		<imdb_id>tt10160976</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9e9ace5837b3851eea7cdd6f162701ab36c83d6</url>
+	</video>
+	<video>
+		<imdb_id>tt4495098</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5204989498d8001b2822d3423f493fc64d5a0b33</url>
+	</video>
+	<video>
+		<imdb_id>tt9362930</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e22defe6c98f2451a536ada1a87b419aaa936bff</url>
+	</video>
+	<video>
+		<imdb_id>tt8589698</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bbced5391019df6a154b5ce5fe7ecae3b97f921</url>
+	</video>
+	<video>
+		<imdb_id>tt15789038</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ef5d817b262186557cd62ed1e799be8695d896</url>
+	</video>
+	<video>
+		<imdb_id>tt1517268</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7b973f237c1902d345e4239f4cbad709f77b76c</url>
+	</video>
+	<video>
+		<imdb_id>tt5171474</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3fc138735bf5ac46112a77cd099d491e1cc5312</url>
+	</video>
+	<video>
+		<imdb_id>tt9362722</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5874a93880ec22d4422230364f61ac9360a6442b</url>
+	</video>
+	<video>
+		<imdb_id>tt13405778</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9b40ad59118e43000b1beee06d762058623d6a</url>
+	</video>
+	<video>
+		<imdb_id>tt6791350</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d</url>
+	</video>
+	<video>
+		<imdb_id>tt5090568</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34363705cc85d6c12c4d180f9b5cf50821f5dd52</url>
+	</video>
+	<video>
+		<imdb_id>tt0439572</imdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3b76921ad2edb2971a64def46e3f57d2436f990</url>
+	</video>
 
 </videos>
