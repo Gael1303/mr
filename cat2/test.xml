@@ -1,18 +1,25 @@
-<collection>
-	<name>Homem-Aranha: Aranhaverso Coleção</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg</fanart>
-	<date>10.01.2019</date>
-	<genre>Adventure, Animation, Action, Science Fiction</genre>
-	<info>Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.</info>
-	<videos>
+<genres>
+	<genre>
+		<name>Ação</name>
 		<video>
-			<tmdb_id>324857</tmdb_id>
-			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d7cad98100cfdcab7b0a409bf0b0465c18630dc</url>
+			<tmdb_id>155</tmdb_id> #
+   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923</url>
 		</video>
+	</genre>
+	<genre>
+		<name>Animação</name>
 		<video>
-			<tmdb_id>569094</tmdb_id>
-			<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</url>
+			<title>A Viagem de Chihiro</title>
+			<tmdb_id>129</tmdb_id> #
+   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0745fd55b90ba0205ff45c476da3fc0b6bf97762</url>
 		</video>
-	</videos>
-</collection>
+	</genre>
+	<genre>
+		<name>Comédia</name>
+		<video>
+			<tmdb_id>40096</tmdb_id> #
+   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4299faf9cf5e223796c3b23f98e9647538f59acd</url>
+		</video>
+	</genre>
+</genre>
+</genres>
