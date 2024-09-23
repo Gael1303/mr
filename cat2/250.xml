@@ -1,10 +1,12 @@
 <videos>
 	<video>
-		<tmdb_id>278</tmdb_id> #Um sonho de liberdade
+		<tmdb_id>278</tmdb_id> 
+		<title>Um sonho de liberdade</title>
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</url>
 	</video>
 	<video>
-		<tmdb_id>238</tmdb_id> #O poderoso chefão
+		<tmdb_id>238</tmdb_id> 
+		<title>O poderoso chefão</title>
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f0d311cc3be3c19f9566fc49662e59ba302614a</url>
 	</video>
 	<video>
