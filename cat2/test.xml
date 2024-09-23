@@ -1,25 +1,24 @@
-<genres>
-	<genre>
-		<name>Ação</name>
-		<video>
-			<tmdb_id>155</tmdb_id> #
-   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923</url>
-		</video>
-	</genre>
-	<genre>
-		<name>Animação</name>
-		<video>
-			<title>A Viagem de Chihiro</title>
-			<tmdb_id>129</tmdb_id> #
-   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0745fd55b90ba0205ff45c476da3fc0b6bf97762</url>
-		</video>
-	</genre>
-	<genre>
-		<name>Comédia</name>
-		<video>
-			<tmdb_id>40096</tmdb_id> #
-   <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4299faf9cf5e223796c3b23f98e9647538f59acd</url>
-		</video>
-	</genre>
-</genre>
-</genres>
+<collections>
+    <collection>
+        <name>Duna: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg</fanart>
+        <date>21.10.2021</date>
+        <genre>Adventure, Science Fiction</genre>
+        <info>A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.</info>
+        <items>
+            <item>
+                <title>Duna (2021) (Dublado)</title>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=07a694b2fd46edb8c1393881b7704be9be52fda9</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg</thumbnail>
+                <genre>Adventure, Science Fiction</genre>
+            </item>
+            <item>
+                <title>Duna (2024) (Dublado)</title>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=e0c333546c675319f508318a92673d26fe6145f1</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
+                <genre>Adventure, Science Fiction</genre>
+            </item>
+        </items>
+    </collection>
+</collections>
