@@ -1,10 +1,10 @@
 <collections>
     <collection>
-        <name>Nome da Coleção</name>
+        <title>Nome da Coleção</title>
         <url>URL_externa_da_colecao</url>
     </collection>
     <collection>
-        <name>Outra Coleção</name>
+        <title>Outra Coleção</title>
         <url>URL_externa_da_outra_colecao</url>
     </collection>
     <!-- Mais coleções -->
