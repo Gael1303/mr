@@ -1,24 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <collections>
     <collection>
-        <name>Duna: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg</fanart>
-        <date>21.10.2021</date>
-        <genre>Adventure, Science Fiction</genre>
-        <info>A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.</info>
-        <items>
-            <item>
-                <title>Duna (2021) (Dublado)</title>
-                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=07a694b2fd46edb8c1393881b7704be9be52fda9</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg</thumbnail>
-                <genre>Adventure, Science Fiction</genre>
-            </item>
-            <item>
-                <title>Duna (2024) (Dublado)</title>
-                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=e0c333546c675319f508318a92673d26fe6145f1</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg</thumbnail>
-                <genre>Adventure, Science Fiction</genre>
-            </item>
-        </items>
+        <title>Coleção de Ação</title>
+        <video>
+            <tmdb_id>12345</tmdb_id>
+            <imdb_id>tt0123456</imdb_id>
+            <url>https://link-para-o-video1.com</url>
+        </video>
+        <video>
+            <tmdb_id>67890</tmdb_id>
+            <imdb_id>tt0987654</imdb_id>
+            <url>https://link-para-o-video2.com</url>
+        </video>
+    </collection>
+    <collection>
+        <title>Coleção de Comédia</title>
+        <video>
+            <tmdb_id>54321</tmdb_id>
+            <imdb_id>tt6543210</imdb_id>
+            <url>https://link-para-o-video3.com</url>
+        </video>
+        <video>
+            <tmdb_id>98765</tmdb_id>
+            <imdb_id>tt3210987</imdb_id>
+            <url>https://link-para-o-video4.com</url>
+        </video>
     </collection>
 </collections>
