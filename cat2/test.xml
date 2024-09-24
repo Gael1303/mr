@@ -1,34 +1,11 @@
 <collections>
     <collection>
-        <name>Coleção 1</name>
-        <thumbnail>url_da_imagem_thumbnail_1.jpg</thumbnail>
-        <fanart>url_da_imagem_fanart_1.jpg</fanart>
-        <date>2024-09-24</date>
-        <genre>Ação</genre>
-        <info>Descrição da Coleção 1.</info>
-        <videos>
-            <video>
-                <tmdb_id>12345</tmdb_id>
-                <url>http://link_para_o_video_1.mp4</url>
-            </video>
-            <video>
-                <tmdb_id>67890</tmdb_id>
-                <url>http://link_para_o_video_2.mp4</url>
-            </video>
-        </videos>
+        <name>Nome da Coleção</name>
+        <url>URL_externa_da_colecao</url>
     </collection>
     <collection>
-        <name>Coleção 2</name>
-        <thumbnail>url_da_imagem_thumbnail_2.jpg</thumbnail>
-        <fanart>url_da_imagem_fanart_2.jpg</fanart>
-        <date>2024-09-25</date>
-        <genre>Comédia</genre>
-        <info>Descrição da Coleção 2.</info>
-        <videos>
-            <video>
-                <tmdb_id>54321</tmdb_id>
-                <url>http://link_para_o_video_3.mp4</url>
-            </video>
-        </videos>
+        <name>Outra Coleção</name>
+        <url>URL_externa_da_outra_colecao</url>
     </collection>
+    <!-- Mais coleções -->
 </collections>
