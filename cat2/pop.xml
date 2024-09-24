@@ -1,7 +1,7 @@
 <videos>
 	<video>
 		<title>O Corvo</title>
-		<tmdb_id>57452</tmdb_id>
+		<tmdb_id>957452</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fac1cbd18c85d3b38bc9837be20ed913960957a3</url>
 	</video>
 	<video>
@@ -98,5 +98,405 @@
 		<title>Um Lugar Silencioso: Dia Um</title>
 		<tmdb_id>762441</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f474e968c10fda02fff5e1fd31ab94c16e9409b</url>
+	</video>
+	<video>
+		<title>Os Fantasmas se Divertem</title>
+		<tmdb_id>4011</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34d534a0c034c17c02f927ec241644ed5f30194e</url>
+	</video>
+	<video>
+		<title>Planeta dos Macacos: O Reinado</title>
+		<tmdb_id>653346</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c</url>
+	</video>
+	<video>
+		<title>The Killer</title>
+		<tmdb_id>970347</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb0821dad4982854a5aff7e338f70b56171ed84</url>
+	</video>
+	<video>
+		<title>A Liga</title>
+		<tmdb_id>704239</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b806aa375b9630b8683471e8a2a410c4929b7da</url>
+	</video>
+	<video>
+		<title>A Libertação</title>
+		<tmdb_id>930600</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85af253f16c51ead4df448666b3d9f17a53300ff</url>
+	</video>
+	<video>
+		<title>The Convert</title>
+		<tmdb_id>1066262</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67726dccf5c2d4cbcf76ef53a67d632e08b0d62</url>
+	</video>
+	<video>
+		<title>Feios</title>
+		<tmdb_id>748167</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60220f713ae93d6b52966f44ff08a5fb84caecd8</url>
+	</video>
+	<video>
+		<title>A Menina e o Dragão</title>
+		<tmdb_id>588648</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</url>
+	</video>
+	<video>
+		<title>Furiosa: Uma Saga Mad Max</title>
+		<tmdb_id>786892</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81</url>
+	</video>
+	<video>
+		<title>Armadilha</title>
+		<tmdb_id>1032823</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe74a0df67a06cb2d8882712b0a6e079ae51ea9c</url>
+	</video>
+	<video>
+		<title>Guerra Civil</title>
+		<tmdb_id>929590</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:634daa6a13aef09c166685715b5d8957d8505036</url>
+	</video>
+	<video>
+		<title>Godzilla e Kong: O Novo Império</title>
+		<tmdb_id>823464</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b150340f78fd0292c3a0ae1c5df175b5e33499b</url>
+	</video>
+	<video>
+		<title>Colateral</title>
+		<tmdb_id>1049574</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37085ab8433625d247aac06b62a61c92e6f2ecce</url>
+	</video>
+	<video>
+		<title>Minha Culpa</title>
+		<tmdb_id>1010581</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce98b7600125c34c4384d9233bbfb3e4f17e9477</url>
+	</video>
+	<video>
+		<title>Kung Fu Panda 4</title>
+		<tmdb_id>1011985</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e844d28bf15aba4436c74718c57a0b88941f9da4</url>
+	</video>
+	<video>
+		<title>Transformers: O Despertar das Feras</title>
+		<tmdb_id>667538</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fc9dd9fe03b4454ffd24ce099d54c420f441ba7</url>
+	</video>
+	<video>
+		<title>Cães de Guerra</title>
+		<tmdb_id>949484</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:664c67bfc1b38164129a21f6fa7af13d2555c13c</url>
+	</video>
+	<video>
+		<title>Descendentes: A Ascensão de Copas</title>
+		<tmdb_id>974262</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e69e70428ee9d9a852c9aa147ae66bb98fb5824</url>
+	</video>
+	<video>
+		<title>O Exorcismo</title>
+		<tmdb_id>646683</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdd85e38f8081ccc653ef3ce0b182e084f42bc6</url>
+	</video>
+	<video>
+		<title>Liga da Justiça: Crise nas Infinitas Terras - Parte Três</title>
+		<tmdb_id>1209290</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c772b2bc1650a83ff7ad6927d2c12f1ab1df8e8</url>
+	</video>	40
+<video>
+		<title>Shang-Chi e a Lenda dos Dez Anéis</title>
+		<tmdb_id>566525</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363</url>
+	</video>
+	<video>
+		<title>Entrevista com o Demônio</title>
+		<tmdb_id>938614</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0</url>
+	</video>
+	<video>
+		<title>Guerra Sem Regras</title>
+		<tmdb_id>799583</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c3fe1022557035b6589d4933208c00a829f099</url>
+	</video>
+	<video>
+		<title>Patos!</title>
+		<tmdb_id>940551</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:288262465fd5fc663b7e5dcf2393e89a9dbc8a65</url>
+	</video>
+	<video>
+		<title>Os Provocadores</title>
+		<tmdb_id>1059064</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6efaadfa8319092a6d6700761ea882b3255dd003</url>
+	</video>
+	<video>
+		<title>Velozes e Furiosos 10</title>
+		<tmdb_id>385687</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd493c5d64ece7cf27bc4b109e390887625b32a1</url>
+	</video>
+	<video>
+		<title>Aprendiz de Espiã: Na Cidade Eterna</title>
+		<tmdb_id>1048241</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121896fd5ef5454f7f93e8431fd3d4939229540f</url>
+	</video>
+	<video>
+		<title>O Podcast</title>
+		<tmdb_id>1024721</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d70515102d392a4a4ba25c23e924f176b036ae</url>
+	</video>
+	<video>
+		<title>Vingadores: Guerra Infinita</title>
+		<tmdb_id>299536</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6412fecbd42264a37b3e214d9c860b0a60f85bf0</url>
+	</video>
+	<video>
+		<title>Coraline e o Mundo Secreto</title>
+		<tmdb_id>14836</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e59d3d3a7a6bc9837f8a63f340d5f774ae08331</url>
+	</video>
+	<video>
+		<title>De Volta ao Crime</title>
+		<tmdb_id>729165</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ebc50f83e92ab62a164718f51c94299e5303c63</url>
+	</video>
+	<video>
+		<title>Isca</title>
+		<tmdb_id>804616</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6086846f3430a9997ef0322d79610e01d48c5f1c</url>
+	</video>
+	<video>
+		<title>Um Sonho de Liberdade</title>
+		<tmdb_id>278</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</url>
+	</video>
+	<video>
+		<title>Divertida Mente</title>
+		<tmdb_id>150540</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c93301d2be5b854f665f5f323602b53d19a1d73a</url>
+	</video>
+	<video>
+		<title>As Marvels</title>
+		<tmdb_id>609681</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4df997597c57d96719788a07017c044b97a97829</url>
+	</video>
+	<video>
+		<title>Sob as Águas do Sena</title>
+		<tmdb_id>1001311</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6164a462457ea76ba9bbe8b90ae715126ac01762</url>
+	</video>
+	<video>
+		<title>Nem Tudo é Negociável</title>
+		<tmdb_id>1309923</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea0e73893f4552cabed07e22f6470e33f69a949e</url>
+	</video>
+	<video>
+		<title>Oddity - Objetos Obscuros</title>
+		<tmdb_id>1216191</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba10f9394e6340d5c8beac8f4b3564207e202095</url>
+	</video>
+	<video>
+		<title>Duna: Parte Dois</title>
+		<tmdb_id>693134</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1</url>
+	</video>
+	<video>
+		<title>Back to Black</title>
+		<tmdb_id>998846</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:047d04ccce8778ecd33d28dafcee896030c040cf</url>
+	</video>	60
+<video>
+		<title>Harry Potter e a Pedra Filosofal</title>
+		<tmdb_id>671</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20288b27c8a957b056af012f7283b7433364daa1</url>
+	</video>
+	<video>
+		<title>Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir</title>
+		<tmdb_id>1147400</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfe8d463cc5d9feaf7ab874da4b54e4953c261d9</url>
+	</video>
+	<video>
+		<title>John Wick 4: Baba Yaga</title>
+		<tmdb_id>603692</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655e12bc64229f2345be2258a8080142ba460d68</url>
+	</video>
+	<video>
+		<title>Operação Big Hero</title>
+		<tmdb_id>177572</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feefca42e390807152a3e59510822f8abababff9</url>
+	</video>
+	<video>
+		<title>Um Tira da Pesada 4: Axel Foley</title>
+		<tmdb_id>280180</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56680da4038a3d07b22f69880c65ea8fe0817da5</url>
+	</video>
+	<video>
+		<title>1992</title>
+		<tmdb_id>413846</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46a52e99299651274cb9bbf6e21c03291060d437</url>
+	</video>
+	<video>
+		<title>Homem-Aranha: Sem Volta Para Casa</title>
+		<tmdb_id>634649</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa26f6a979036145055809dd016f25f1c5571a4</url>
+	</video>
+	<video>
+		<title>Os Observadores</title>
+		<tmdb_id>1086747</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa1349cdf70ce8149c462464461809a8f587a039</url>
+	</video>
+	<video>
+		<title>Alien: O Oitavo Passageiro</title>
+		<tmdb_id>348</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee0296d2aea4847fbd6db44a1712efcd101d7bb</url>
+	</video>
+	<video>
+		<title>Super Mario Bros. O Filme</title>
+		<tmdb_id>502356</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6fe68f1677f25d39af1c051024e83124a78eded</url>
+	</video>
+	<video>
+		<title>Slingshot</title>
+		<tmdb_id>916728</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5968c80cdd2bcdecb79cc59abaa9527772f626f</url>
+	</video>
+	<video>
+		<title>Corações de Ferro</title>
+		<tmdb_id>228150</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0030652307b13d07476b6a08bef2930e90900ca6</url>
+	</video>
+	<video>
+		<title>Interestelar</title>
+		<tmdb_id>157336</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b8302c5e59b36671858f9bf0a7049093e25a22f</url>
+	</video>
+	<video>
+		<title>O Senhor dos Anéis: A Sociedade do Anel</title>
+		<tmdb_id>120</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed</url>
+	</video>
+	<video>
+		<title>O Senhor dos Anéis: O Retorno do Rei</title>
+		<tmdb_id>122</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26f7e4106b72a0a9a746b313935648a2231fe608</url>
+	</video>
+	<video>
+		<title>Homem-Aranha: Através do Aranhaverso</title>
+		<tmdb_id>569094</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</url>
+	</video>
+	<video>
+		<title>Coringa: Delírio a Dois</title>
+		<tmdb_id>889737</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</url>
+	</video>
+	<video>
+		<title>Coringa</title>
+		<tmdb_id>475557</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54206b4e24527d88302048335395e053d0ba73dc</url>
+	</video>
+	<video>
+		<title>Missão Cruzada</title>
+		<tmdb_id>1002088</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f361799a6a327b353708da279b5f6657ed38f03b</url>
+	</video>
+	<video>
+		<title>Gato de Botas 2: O Último Pedido</title>
+		<tmdb_id>315162</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a473ca64418feff64808ebe17474e785b3ebc416</url>
+	</video>
+	<video>
+		<title>Deadpool</title>
+		<tmdb_id>293660</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44147456d5aad8c0c026ea0b0ec2f54ec59d8c8f</url>
+	</video>
+	<video>
+		<title>Venom: Tempo de Carnificina</title>
+		<tmdb_id>580489</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80649c1322524442af1a8b08e3145a616dd22af5</url>
+	</video>
+	<video>
+		<title>MR-9: Missão Mortal</title>
+		<tmdb_id>1016346</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de7047540ee18d149dd7f09cf5fea26f43f897c3</url>
+	</video>
+	<video>
+		<title>O Dublê</title>
+		<tmdb_id>746036</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996cbcec7335d4d6f0407e284ec3c5d1cf49a770</url>
+	</video>
+	<video>
+		<title>Batman</title>
+		<tmdb_id>414906</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33cfee01191628e44c41e48f207cca3983dc1df</url>
+	</video>
+	<video>
+		<title>O Tarô da Morte</title>
+		<tmdb_id>719221</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdfe16ed31b7dfe2cb4ab093e2f14e799cbcbbcd</url>
+	</video>
+	<video>
+		<title>365 Dias: Hoje</title>
+		<tmdb_id>829557</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</url>
+	</video>
+	<video>
+		<title>Sonic 2: O Filme</title>
+		<tmdb_id>675353</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3</url>
+	</video>
+	<video>
+		<title>Os Estranhos: Capítulo 1</title>
+		<tmdb_id>1010600</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6818228f411b589414ad7db185188ee1a19bf784</url>
+	</video>
+	<video>
+		<title>MaXXXine</title>
+		<tmdb_id>1023922</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:580ad6b5b9e0d448b68438f17cf8a99e8f69fad6</url>
+	</video>
+	<video>
+		<title>Avatar: O Caminho da Água</title>
+		<tmdb_id>76600</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73884e1bec0a286dd080c8d4664d05c67f730cf3</url>
+	</video>
+	<video>
+		<title>Desespero Profundo</title>
+		<tmdb_id>1096197</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6588dc4ac173e3d464770070590d3fdd41a6a076</url>
+	</video>
+	<video>
+		<title>Matador de Aluguel</title>
+		<tmdb_id>359410</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a620a44b2613238faf03c0e4b23836520f23a78</url>
+	</video>
+	<video>
+		<title>Wonka</title>
+		<tmdb_id>787699</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1735e103802ef0d0598ac01fe83fbbe1f3aa0ec5</url>
+	</video>
+	<video>
+		<title>A Noiva Cadáver</title>
+		<tmdb_id>3933</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453</url>
+	</video>
+	<video>
+		<title>O Hobbit: A Batalha dos Cinco Exércitos</title>
+		<tmdb_id>122917</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbeb690be146d9c96a1454146381966bca9e071d</url>
+	</video>
+	<video>
+		<title>Zona de Risco</title>
+		<tmdb_id>969492</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84e8215771e213192e17c3d3de3ed8064577aad0</url>
+	</video>
+	<video>
+		<title>Elementos</title>
+		<tmdb_id>976573</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed20ebd0a4950d10b79fe018268502055084c98a</url>
+	</video>
+	<video>
+		<title>Oppenheimer</title>
+		<tmdb_id>872585</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fe29883af17567a6e92d927875c0e9fd7fe2887</url>
+	</video>
+	<video>
+		<title>Transformers: A Era da Extinção</title>
+		<tmdb_id>91314</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5866dccfcd599509332a4445d43a788c6bdbf36a</url>
 	</video>
 </videos>
