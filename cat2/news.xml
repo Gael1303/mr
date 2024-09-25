@@ -1,5 +1,21 @@
-<watch_later>
+
 <videos>
+
+	<video>
+		<title>É Assim Que Acaba</title>
+		<tmdb_id>1079091</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109de078fc5fa842f457d5768ebd6213017526e8</url>
+	</video>
+	<video>
+		<title>Divertida Mente 2</title>
+		<tmdb_id>1022789</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a4072068b9fc5261a365012f33ba8d94ce2117</url>
+	</video>
+	<video>
+		<title>O Vingador da Iugoslávia 2</title>
+		<tmdb_id>1215162</tmdb_id>
+		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daf4b146e145d9b1ab243aad4d49a6292025f65b</url>
+	</video>
 	<video>
 		<tmdb_id>519182</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
@@ -109,4 +125,4 @@
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4acec1582bac2b0b23e0986d961eed4706ced2dd</url>
     </video>	
 </videos>
-</watch_later>	
+
