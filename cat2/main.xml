@@ -2,11 +2,11 @@
     <categories>
         <category>
             <name>Lançamentos</name>
-            <url>https://link_para_categoria_lancamentos.xml</url>
+            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/new.xml</url>
         </category>
         <category>
             <name>Top MR</name>
-            <url>https://link_para_categoria_top_mr.xml</url>
+            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/pop.xml</url>
         </category>
         <category>
             <name>HQ</name>
