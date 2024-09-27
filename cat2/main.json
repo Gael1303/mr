@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "releases": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/categories/releases.xml",
+        "popular": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/categories/popular.xml",
+        "top": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/categories/top.xml",
+        "hq": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/categories/hq.xml",
+        "collections": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/categories/collections.xml"
+    }
+}
