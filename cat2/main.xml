@@ -2,7 +2,7 @@
     <categories>
         <category>
             <name>Lançamentos</name>
-            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/new.xml</url>
+            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/news.xml</url>
         </category>
         <category>
             <name>Top MR</name>
@@ -10,7 +10,7 @@
         </category>
         <category>
             <name>HQ</name>
-            <url>https://link_para_categoria_hq.xml</url>
+            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/Hq.xml</url>
         </category>
     </categories>
 </root>
