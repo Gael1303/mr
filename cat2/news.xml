@@ -1,128 +1,110 @@
-
-<videos>
-
-	<video>
-		<title>É Assim Que Acaba</title>
-		<tmdb_id>1079091</tmdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109de078fc5fa842f457d5768ebd6213017526e8</url>
-	</video>
-	<video>
-		<title>Divertida Mente 2</title>
-		<tmdb_id>1022789</tmdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a4072068b9fc5261a365012f33ba8d94ce2117</url>
-	</video>
-	<video>
-		<title>O Vingador da Iugoslávia 2</title>
-		<tmdb_id>1215162</tmdb_id>
-		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daf4b146e145d9b1ab243aad4d49a6292025f65b</url>
-	</video>
-	<video>
+<movies>
+	<movie>
 		<tmdb_id>519182</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>573435</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>929590</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>653346</tmdb_id>
 		<url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>762441</tmdb_id> #um lugar silencioso 3
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f474e968c10fda02fff5e1fd31ab94c16e9409b</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>533535</tmdb_id> #rebel Ridge
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6464fce97c27c2069220636e163e1e170a69c115</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>365177</tmdb_id> #Borderlands: O Destino do Universo Está em Jogo
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802678414ef3fc438b67fbf6ad4232909a2d4c0f</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>718821</tmdb_id> #Twisters
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6e60181a3b1cb924cc3d208ddae3e238b250e82</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>693134</tmdb_id> #Duna 2
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>786892</tmdb_id> #Furiosa
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>1022789</tmdb_id> #Divertida Mente 2
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3e430350a5c0eebd08de78b8d5592639feb444</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
 		<tmdb_id>938614</tmdb_id> #Entrevista com o Demônio
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0</url>
-	</video>
-	<video>
+	</movie>
+	<movie>
         <tmdb_id>799583</tmdb_id> #Guerra Sem Regras
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c3fe1022557035b6589d4933208c00a829f099</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>1048241</tmdb_id> #Aprendiz de Espiã: Na Cidade Eterna
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121896fd5ef5454f7f93e8431fd3d4939229540f</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>748783</tmdb_id> #Garfield
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7f56d96cb0f7b74cec918e7874b4ee5fbbe881</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>746036</tmdb_id> #O Duble
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996cbcec7335d4d6f0407e284ec3c5d1cf49a770</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>774531</tmdb_id> #A Jovem e o Mar
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0005917e7d09053af257c1fa16f562264e6d318a</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>1008409</tmdb_id> #Clube dos Vandalos
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1d41ea9a9d5833a75faad6efc4739a504fb816</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>280180</tmdb_id> #Um Tira da Pesada 4
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56680da4038a3d07b22f69880c65ea8fe0817da5</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>823464</tmdb_id> #Godzilla e Kong: O Novo Império
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b150340f78fd0292c3a0ae1c5df175b5e33499b</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>969492</tmdb_id> #Zona de Risco
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84e8215771e213192e17c3d3de3ed8064577aad0</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>872585</tmdb_id> #Oppenheimer
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fe29883af17567a6e92d927875c0e9fd7fe2887</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>1011985</tmdb_id> #Kung Fu Panda 4
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e844d28bf15aba4436c74718c57a0b88941f9da4</url>
-    </video>
-    <video>
+    </movie>
+    <movie>
         <tmdb_id>1041613</tmdb_id> #Imaculada
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88b486bde46b3a601c751ba5629e679ffef954ed</url>
-    </video>
-	<video>
+    </movie>
+	<movie>
         <tmdb_id>866398</tmdb_id> #Beekeeper
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f5d1c3e91e3e4a9aaec5b8595c4bca1aa060635</url>
-    </video>
-	<video>
+    </movie>
+	<movie>
         <tmdb_id>937287</tmdb_id> #Rivais
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:700adbd3fd723fbc9bb6c0480724c7346df3d611</url>
-    </video>
-	<video>
+    </movie>
+	<movie>
         <tmdb_id>948549</tmdb_id> #Love Lies Bleeding: O Amor Sangra
         <url>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4acec1582bac2b0b23e0986d961eed4706ced2dd</url>
-    </video>	
-</videos>
-
+    </movie>	
+</movies>
