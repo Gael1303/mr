@@ -1,0 +1,16 @@
+<root>
+    <categories>
+        <category>
+            <name>Lançamentos</name>
+            <url>https://link_para_categoria_lancamentos.xml</url>
+        </category>
+        <category>
+            <name>Top MR</name>
+            <url>https://link_para_categoria_top_mr.xml</url>
+        </category>
+        <category>
+            <name>HQ</name>
+            <url>https://link_para_categoria_hq.xml</url>
+        </category>
+    </categories>
+</root>
