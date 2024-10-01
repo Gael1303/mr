@@ -1,108 +1,524 @@
 {
     "videos": [
-      {
-        "tmdb_id": 519182,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088"
-      },
-      {
-        "tmdb_id": 573435,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46"
-      },
-      {
-        "tmdb_id": 929590,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9aebdba514402f6c299a132592825631ddef6"
-      },
-      {
-        "tmdb_id": 653346,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd5dede91f8a1b662dfea2dc02812605f139c9c"
-      },
-      {
-        "tmdb_id": 762441,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f474e968c10fda02fff5e1fd31ab94c16e9409b"
-      },
-      {
-        "tmdb_id": 533535,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6464fce97c27c2069220636e163e1e170a69c115"
-      },
-      {
-        "tmdb_id": 365177,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802678414ef3fc438b67fbf6ad4232909a2d4c0f"
-      },
-      {
-        "tmdb_id": 718821,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6e60181a3b1cb924cc3d208ddae3e238b250e82"
-      },
-      {
-        "tmdb_id": 693134,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1"
-      },
-      {
-        "tmdb_id": 786892,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4799848d6c71253bb4d7f0e759cc055a99def81"
-      },
-      {
-        "tmdb_id": 938614,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d11337d9c34716fae0d3ab6442e127fb450451f0"
-      },
-      {
-        "tmdb_id": 799583,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c3fe1022557035b6589d4933208c00a829f099"
-      },
-      {
-        "tmdb_id": 1048241,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121896fd5ef5454f7f93e8431fd3d4939229540f"
-      },
-      {
-        "tmdb_id": 748783,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f7f56d96cb0f7b74cec918e7874b4ee5fbbe881"
-      },
-      {
-        "tmdb_id": 746036,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996cbcec7335d4d6f0407e284ec3c5d1cf49a770"
-      },
-      {
-        "tmdb_id": 774531,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0005917e7d09053af257c1fa16f562264e6d318a"
-      },
-      {
-        "tmdb_id": 1008409,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1d41ea9a9d5833a75faad6efc4739a504fb816"
-      },
-      {
-        "tmdb_id": 280180,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56680da4038a3d07b22f69880c65ea8fe0817da5"
-      },
-      {
-        "tmdb_id": 823464,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b150340f78fd0292c3a0ae1c5df175b5e33499b"
-      },
-      {
-        "tmdb_id": 969492,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84e8215771e213192e17c3d3de3ed8064577aad0"
-      },
-      {
-        "tmdb_id": 872585,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fe29883af17567a6e92d927875c0e9fd7fe2887"
-      },
-      {
-        "tmdb_id": 1011985,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e844d28bf15aba4436c74718c57a0b88941f9da4"
-      },
-      {
-        "tmdb_id": 1041613,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88b486bde46b3a601c751ba5629e679ffef954ed"
-      },
-      {
-        "tmdb_id": 866398,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f5d1c3e91e3e4a9aaec5b8595c4bca1aa060635"
-      },
-      {
-        "tmdb_id": 937287,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:700adbd3fd723fbc9bb6c0480724c7346df3d611"
-      },
-      {
-        "tmdb_id": 948549,
-        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4acec1582bac2b0b23e0986d961eed4706ced2dd"
-      }
+        {
+            "imdb_id": 533535,
+            "title": "Deadpool & Wolverine",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d5de41440647689b5d69c930bcafa8135c115bf2"
+        },
+        {
+            "imdb_id": 693134,
+            "title": "Duna: Parte Dois",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
+        },
+        {
+            "imdb_id": 1022789,
+            "title": "Divertida Mente 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e3a4072068b9fc5261a365012f33ba8d94ce2117"
+        },
+        {
+            "imdb_id": 519182,
+            "title": "Meu Malvado Favorito 4",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d3ea5871d6cbac6cbcd0d45d72448273e4284088"
+        },
+        {
+            "imdb_id": 1079091,
+            "title": "É Assim Que Acaba",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=109de078fc5fa842f457d5768ebd6213017526e8"
+        },
+        {
+            "imdb_id": 807339,
+            "title": "Apartamento 7A",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=19583217444864ef31be91050d6f8f4b35c48285"
+        },
+        {
+            "imdb_id": 858414,
+            "title": "Guerreiros do Basquete",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ed3b641150980d2f79df97d5a387cf9840a8cbc7"
+        },
+        {
+            "imdb_id": 840705,
+            "title": "Pisque Duas Vezes",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a12a20f5b6635035049ce05f0d1b5d6339450be"
+        },
+        {
+            "imdb_id": 949484,
+            "title": "Cães de Guerra",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=664c67bfc1b38164129a21f6fa7af13d2555c13c"
+        },
+        {
+            "imdb_id": 365177,
+            "title": "Borderlands: O Destino do Universo Está em Jogo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=802678414ef3fc438b67fbf6ad4232909a2d4c0f"
+        },
+        {
+            "imdb_id": 573435,
+            "title": "Bad Boys: Até o Fim",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46"
+        },
+        {
+            "imdb_id": 1062215,
+            "title": "Diabólica",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ddb1890d4e84478088571dd0a88adedf02d21d2c"
+        },
+        {
+            "imdb_id": 1139817,
+            "title": "O Agente Faixa-Preta",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0b1e8c86c1bfb3d9bb04a9a3113b9643463fbfca"
+        },
+        {
+            "imdb_id": 1186947,
+            "title": "Bandida - A Número Um",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=46b3d258386421f4d8d8d280d467841f28dc15e5"
+        },
+        {
+            "imdb_id": 1012148,
+            "title": "O Suspeito",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4efafcda32e8fa920b48bf5eddd859659cbf922c"
+        },
+        {
+            "imdb_id": 762441,
+            "title": "Um Lugar Silencioso: Dia Um",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f474e968c10fda02fff5e1fd31ab94c16e9409b"
+        },
+        {
+            "imdb_id": 718821,
+            "title": "Twisters",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d6e60181a3b1cb924cc3d208ddae3e238b250e82"
+        },
+        {
+            "imdb_id": 831815,
+            "title": "A Missão de Sandy Bochechas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4c3dfca079f0325672ee736f070bbb14bebd6a22"
+        },
+        {
+            "imdb_id": 646097,
+            "title": "Rebel Ridge",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6464fce97c27c2069220636e163e1e170a69c115"
+        },
+        {
+            "imdb_id": 748783,
+            "title": "Garfield - Fora de Casa",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f7f56d96cb0f7b74cec918e7874b4ee5fbbe881"
+        },
+        {
+            "imdb_id": 653346,
+            "title": "Planeta dos Macacos: O Reinado",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5bd5dede91f8a1b662dfea2dc02812605f139c9c"
+        },
+        {
+            "imdb_id": 1005076,
+            "title": "Duchess",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d8d9be1451d0d6a5a78e4a0d199f7ee269ff334d"
+        },
+        {
+            "imdb_id": 1215162,
+            "title": "O Vingador da Iugoslávia 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=daf4b146e145d9b1ab243aad4d49a6292025f65b"
+        },
+        {
+            "imdb_id": 1155058,
+            "title": "Watchmen: Capítulo 1",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4d1b74aed5c9c9968e35715f7ee17d76dca46ce9"
+        },
+        {
+            "imdb_id": 930600,
+            "title": "A Libertação",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=85af253f16c51ead4df448666b3d9f17a53300ffA"
+        },
+        {
+            "imdb_id": 786892,
+            "title": "Furiosa: Uma Saga Mad Max",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b4799848d6c71253bb4d7f0e759cc055a99def81"
+        },
+        {
+            "imdb_id": 974262,
+            "title": "Descendentes: A Ascensão de Copas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0e69e70428ee9d9a852c9aa147ae66bb98fb5824"
+        },
+        {
+            "imdb_id": 929590,
+            "title": "Guerra Civil",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=62e9aebdba514402f6c299a132592825631ddef6"
+        },
+        {
+            "imdb_id": 970347,
+            "title": "The Killer",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5fb0821dad4982854a5aff7e338f70b56171ed84"
+        },
+        {
+            "imdb_id": 1011985,
+            "title": "Kung Fu Panda 4",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e844d28bf15aba4436c74718c57a0b88941f9da4"
+        },
+        {
+            "imdb_id": 1032823,
+            "title": "Armadilha",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fe74a0df67a06cb2d8882712b0a6e079ae51ea9c"
+        },
+        {
+            "imdb_id": 823464,
+            "title": "Godzilla e Kong: O Novo Império",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9b150340f78fd0292c3a0ae1c5df175b5e33499b"
+        },
+        {
+            "imdb_id": 567811,
+            "title": "Um Gato de Sorte",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e9887e31177c665378bdb75a0003a0b5f267d2dd"
+        },
+        {
+            "imdb_id": 1094138,
+            "title": "Jackpot: Loteria Mortal!",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5d2a1ed9606757dc5eb15fc81e679f9501868dd2"
+        },
+        {
+            "imdb_id": 704239,
+            "title": "A Liga",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3b806aa375b9630b8683471e8a2a410c4929b7da"
+        },
+        {
+            "imdb_id": 1225377,
+            "title": "The Mouse Trap",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=aa0b294b46df97f22bec861133e3a41fe5459c31"
+        },
+        {
+            "imdb_id": 1311550,
+            "title": "Casa de Ga'a",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3757a4999cfacd7a0a9d4cfc6a4c6e575c42b5c2"
+        },
+        {
+            "imdb_id": 646683,
+            "title": "O Exorcismo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ecdd85e38f8081ccc653ef3ce0b182e084f42bc6"
+        },
+        {
+            "imdb_id": 1049574,
+            "title": "Colateral",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=37085ab8433625d247aac06b62a61c92e6f2ecce"
+        },
+        {
+            "imdb_id": 938614,
+            "title": "Entrevista com o Demônio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d11337d9c34716fae0d3ab6442e127fb450451f0"
+        },
+        {
+            "imdb_id": 799583,
+            "title": "Guerra Sem Regras",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=34c3fe1022557035b6589d4933208c00a829f099"
+        },
+        {
+            "imdb_id": 1209290,
+            "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8c772b2bc1650a83ff7ad6927d2c12f1ab1df8e8"
+        },
+        {
+            "imdb_id": 1298238,
+            "title": "Príncipes Perigosos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fb32b638e0ff9e0b890eccf1ecd700036dd1cfa9"
+        },
+        {
+            "imdb_id": 1001311,
+            "title": "Sob as Águas do Sena",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6164a462457ea76ba9bbe8b90ae715126ac01762"
+        },
+        {
+            "imdb_id": 1281826,
+            "title": "Manobra Arriscada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b7d355aee1ac420a557ab31f9422885ae233d891"
+        },
+        {
+            "imdb_id": 804616,
+            "title": "Isca",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6086846f3430a9997ef0322d79610e01d48c5f1c"
+        },
+        {
+            "imdb_id": 748167,
+            "title": "Feios",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=60220f713ae93d6b52966f44ff08a5fb84caecd8"
+        },
+        {
+            "imdb_id": 639720,
+            "title": "Amigos Imaginários",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dee6b801314fcf33d81d245c98ac847e109797e6"
+        },
+        {
+            "imdb_id": 1059064,
+            "title": "Os Provocadores",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6efaadfa8319092a6d6700761ea882b3255dd003"
+        },
+        {
+            "imdb_id": 998846,
+            "title": "Back to Black",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=047d04ccce8778ecd33d28dafcee896030c040cf"
+        },
+        {
+            "imdb_id": 1048241,
+            "title": "Aprendiz de Espiã: Na Cidade Eterna",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=121896fd5ef5454f7f93e8431fd3d4939229540f"
+        },
+        {
+            "imdb_id": 1227624,
+            "title": "Melhor Viúva Do Que Mal Acompanhada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e4e367091359c9c0ec5cd7d12e0d9c12bab10ede"
+        },
+        {
+            "imdb_id": 719221,
+            "title": "O Tarô da Morte",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bdfe16ed31b7dfe2cb4ab093e2f14e799cbcbbcd"
+        },
+        {
+            "imdb_id": 1108566,
+            "title": "Calor Mortífero",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=741e13c92ddcf59046d0736b2d742541ef61ebf5"
+        },
+        {
+            "imdb_id": 916728,
+            "title": "Slingshot",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7f6445c04f55b88c176c8d0f5d568394d540e52d"
+        },
+        {
+            "imdb_id": 1010600,
+            "title": "Os Estranhos: Capítulo 1",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6818228f411b589414ad7db185188ee1a19bf784"
+        },
+        {
+            "imdb_id": 280180,
+            "title": "Um Tira da Pesada 4: Axel Foley",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=56680da4038a3d07b22f69880c65ea8fe0817da5"
+        },
+        {
+            "imdb_id": 1023922,
+            "title": "MaXXXine",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=580ad6b5b9e0d448b68438f17cf8a99e8f69fad6"
+        },
+        {
+            "imdb_id": 1096197,
+            "title": "Desespero Profundo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=af018f8d6c425e2630e220f8a390c1a0b909876c"
+        },
+        {
+            "imdb_id": 1309923,
+            "title": "Nem Tudo é Negociável",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ea0e73893f4552cabed07e22f6470e33f69a949e"
+        },
+        {
+            "imdb_id": 746036,
+            "title": "O Dublê",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=996cbcec7335d4d6f0407e284ec3c5d1cf49a770"
+        },
+        {
+            "imdb_id": 1086747,
+            "title": "Os Observadores",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=aa1349cdf70ce8149c462464461809a8f587a039"
+        },
+        {
+            "imdb_id": 614933,
+            "title": "Atlas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=babe0d1baa491a3469d85cb2d7221c16c2a91d2c"
+        },
+        {
+            "imdb_id": 1159477,
+            "title": "A Menina do Mar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f89c42549ac0245b28c2d2dfaecab260597508f9"
+        },
+        {
+            "imdb_id": 634492,
+            "title": "Madame Teia",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7a6a79cff99d320c5c7135aac3926163a07d502e"
+        },
+        {
+            "imdb_id": 1041613,
+            "title": "Imaculada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=88b486bde46b3a601c751ba5629e679ffef954ed"
+        },
+        {
+            "imdb_id": 1154762,
+            "title": "As Três Filhas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=01847d159c285ee946f944af3c0359845f8e7ff5"
+        },
+        {
+            "imdb_id": 437342,
+            "title": "A Primeira Profecia",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=421041119f3349121db0acd372bc565e1af9efa0"
+        },
+        {
+            "imdb_id": 1214509,
+            "title": "Uma Natureza Violenta",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c905e53ef70f6b74c556f48cf3d15dac1a1946ad"
+        },
+        {
+            "imdb_id": 1051891,
+            "title": "Thelma",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8e63e984a12335ffab685d119ed91871e38fc6f5"
+        },
+        {
+            "imdb_id": 1093995,
+            "title": "Missão Suicida",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e5dd59a987d9c574bb0b96a473d941ed400fb62b"
+        },
+        {
+            "imdb_id": 1291559,
+            "title": "Até que as Cores Acabem",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3d4e8fd5ff5bf5ad550d1b05fdee72dc551dcb3d"
+        },
+        {
+            "imdb_id": 1096342,
+            "title": "Belo Desastre: O Casamento",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8a97f696fb3474cb7eb1d35e6f06425a0666d396"
+        },
+        {
+            "imdb_id": 969492,
+            "title": "Zona de Risco",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=84e8215771e213192e17c3d3de3ed8064577aad0"
+        },
+        {
+            "imdb_id": 1239251,
+            "title": "Megamente Vs. O Sindicato da Perdição",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=92fa063c59e97104c20feef2c66fe6d2c96e5733"
+        },
+        {
+            "imdb_id": 359410,
+            "title": "Matador de Aluguel",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7a620a44b2613238faf03c0e4b23836520f23a78"
+        },
+        {
+            "imdb_id": 1281933,
+            "title": "Tudo pelo Divórcio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6ddab318fda6bb72a623972bb392afbb79745679"
+        },
+        {
+            "imdb_id": 1002088,
+            "title": "Missão Cruzada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f361799a6a327b353708da279b5f6657ed38f03b"
+        },
+        {
+            "imdb_id": 843527,
+            "title": "Uma Ideia de Você",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=982b371b28aa6d863eb2b97a7709178852c1f444"
+        },
+        {
+            "imdb_id": 1341685,
+            "title": "À Solta: Amor em Fuga",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c4833e5026c65f2ba36753a271ced59893cfafda"
+        },
+        {
+            "imdb_id": 560016,
+            "title": "Fúria Primitiva",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=587642e20feeb58e8edb405be3ee21f8becfc349"
+        },
+        {
+            "imdb_id": 507089,
+            "title": "Five Nights at Freddy's - O Pesadelo Sem Fim",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=70e87c303580b6007b68287d11b0c0a2a356a126"
+        },
+        {
+            "imdb_id": 866398,
+            "title": "Beekeeper: Rede de Vingança",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9f5d1c3e91e3e4a9aaec5b8595c4bca1aa060635"
+        },
+        {
+            "imdb_id": 1111873,
+            "title": "Abigail",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9064a30d06509ed59d3cd5ece57f945a3b3791d9"
+        },
+        {
+            "imdb_id": 956842,
+            "title": "Como Vender a Lua",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=546b621db8f47b5955e16813ab3c1e15a4323e9a"
+        },
+        {
+            "imdb_id": 1175038,
+            "title": "Um Estranho no Bosque",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1d9d67ac396b01f3d6084412b1ea0c3f8822c7e5"
+        },
+        {
+            "imdb_id": 984324,
+            "title": "O Salário do Medo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=818a433e59e46bc1f4510265a89bc6d0618791ae"
+        },
+        {
+            "imdb_id": 974635,
+            "title": "Assassino por Acaso",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e1d3d9afd94de0b46782404911225b46fa1857c9"
+        },
+        {
+            "imdb_id": 1008953,
+            "title": "Os Novatos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f4767b1b26510f5e3878f10669fec6fb55d55264"
+        },
+        {
+            "imdb_id": 704673,
+            "title": "Alerta de Risco",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ef691c8b2a1415643cd2480af652137f13d24d7a"
+        },
+        {
+            "imdb_id": 934632,
+            "title": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc"
+        },
+        {
+            "imdb_id": 1072790,
+            "title": "Todos Menos Você",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=40388db73469e41cb230f86cf982141501033842"
+        },
+        {
+            "imdb_id": 1155089,
+            "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Um",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a780a262089aba33d8f78c39c2b1bf686a3f6c90"
+        },
+        {
+            "imdb_id": 1105407,
+            "title": "Danificado",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=48255518cc7186a76305b8b5505d16a62c6a3115"
+        },
+        {
+            "imdb_id": 882059,
+            "title": "Contra o Mundo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7367cb6c756b5e0ab953fe638c266f56575fd040"
+        },
+        {
+            "imdb_id": 763215,
+            "title": "Donzela",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7367cb6c756b5e0ab953fe638c266f56575fd040"
+        },
+        {
+            "imdb_id": 1280768,
+            "title": "Loud House: Sem Tempo Para Espionar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=99133068fc59aad1891ac8bb63c4f6a24574f7a3"
+        },
+        {
+            "imdb_id": 967847,
+            "title": "Ghostbusters: Apocalipse de Gelo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e7f97db2d10fe0fed496c91226659d623dd91a93"
+        },
+        {
+            "imdb_id": 695721,
+            "title": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5ee3258e75be84239021d7f8db86555d911e5193"
+        },
+        {
+            "imdb_id": 739547,
+            "title": "Thelma, O Unicórnio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=939158ee2f61820117cfc2e21e9c88def96ef7d3"
+        },
+        {
+            "imdb_id": 1029330,
+            "title": "Outra Chance para o Amor",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0f449b51ab91ca5534ccc8e5ae1cf4f93613bade"
+        },
+        {
+            "imdb_id": 1209288,
+            "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d3e41da0c8d1ab7dfda122950fe4346d8a92d874"
+        },
+        {
+            "imdb_id": 1362670,
+            "title": "Nascida para Cantar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7ca8081bf7dd96669f062f6cd0e5990320187d5b"
+        },
+        {
+            "imdb_id": 1362685,
+            "title": "Memórias Ocultas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dec5f35aec74ae76953d6e937fe9524eb8baf563"
+        }
     ]
-  }
+}
