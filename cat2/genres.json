@@ -1,0 +1,6 @@
+{
+    "gêneros": [
+        {"nome": "Ação", "url": "https://example.com/genero_acao"},
+        {"nome": "Animação", "url": "https://example.com/genero_animacao"},
+    ]
+}
