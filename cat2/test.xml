@@ -1,11 +1,32 @@
-<collections>
-    <collection>
-        <title>Nome da Coleção</title>
-        <url>URL_externa_da_colecao</url>
-    </collection>
-    <collection>
-        <title>Outra Coleção</title>
-        <url>URL_externa_da_outra_colecao</url>
-    </collection>
-    <!-- Mais coleções -->
-</collections>
+{
+  "collections": [
+    {
+      "id": 1,
+      "name": "Aventura Clássica",
+      "description": "Uma coleção de filmes de aventura clássicos que definiram uma era.",
+      "poster": "https://exemplo.com/poster1.jpg",
+      "fanart": "https://exemplo.com/fanart1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Comédias Românticas",
+      "description": "Coleção de comédias românticas para um ótimo dia.",
+      "poster": "https://exemplo.com/poster2.jpg",
+      "fanart": "https://exemplo.com/fanart2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Filmes de Ação",
+      "description": "A melhor coleção de filmes de ação de todos os tempos.",
+      "poster": "https://exemplo.com/poster3.jpg",
+      "fanart": "https://exemplo.com/fanart3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ficção Científica",
+      "description": "Explorando os limites da imaginação com filmes de ficção científica.",
+      "poster": "https://exemplo.com/poster4.jpg",
+      "fanart": "https://exemplo.com/fanart4.jpg"
+    }
+  ]
+}
