@@ -1,6 +1,29 @@
 {
-    "gêneros": [
-        {"nome": "Ação", "url": "https://example.com/genero_acao"},
-        {"nome": "Animação", "url": "https://example.com/genero_animacao"},
+  "Gêneros": {
+    "Ação": [
+      {
+        "tmdb_id": 123,
+        "title": "Ação do Filme 1",
+        "url": "https://example.com/movie1",
+        "poster": "https://example.com/poster1.jpg",
+        "backdrop": "https://example.com/backdrop1.jpg"
+      },
+      {
+        "tmdb_id": 456,
+        "title": "Ação do Filme 2",
+        "url": "https://example.com/movie2",
+        "poster": "https://example.com/poster2.jpg",
+        "backdrop": "https://example.com/backdrop2.jpg"
+      }
+    ],
+    "Animação": [
+      {
+        "tmdb_id": 789,
+        "title": "Animação do Filme 1",
+        "url": "https://example.com/movie3",
+        "poster": "https://example.com/poster3.jpg",
+        "backdrop": "https://example.com/backdrop3.jpg"
+      }
     ]
+  }
 }
