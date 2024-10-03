@@ -1,28 +1,24 @@
 {
-  "genres": [
+  "categories": [
     {
-      "genre": "Drama",
-      "movies": [
-        {
-          "title": "The Stranger",
-          "url": "https://ia800908.us.archive.org/30/items/TheStranger_0/The_Stranger_512kb.mp4",
-          "poster": "https://publicdomainmovie.net/wikimedia.php?id=Movie-Mystery-Magazine-July-1946.jpg",
-          "plot": "In 1946, Mr. Wilson of the United Nations War Crimes Commission is hunting...",
-          "year": 1946
-        }
-      ]
+      "name": "Principais Lançamentos",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/principais-lancamentos.json"
     },
     {
-      "genre": "Horror",
-      "movies": [
-        {
-          "title": "House on Haunted Hill",
-          "url": "https://ia800203.us.archive.org/18/items/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4",
-          "poster": "https://publicdomainmovie.net/wikimedia.php?id=House_on_Haunted_Hill.jpg",
-          "plot": "Eccentric millionaire Frederick Loren invites five people...",
-          "year": 1959
-        }
-      ]
+      "name": "Filmes por Gêneros",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-por-generos.json"
+    },
+    {
+      "name": "Filmes em 4K",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-em-4k.json"
+    },
+    {
+      "name": "Coleções",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/colecoes.json"
+    },
+    {
+      "name": "Top 250 IMDb",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/top-250-imdb.json"
     }
   ]
 }
