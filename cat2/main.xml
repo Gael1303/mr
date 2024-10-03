@@ -1,16 +1,24 @@
-<root>
-    <categories>
-        <category>
-            <name>Lançamentos</name>
-            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/news.xml</url>
-        </category>
-        <category>
-            <name>Top MR</name>
-            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/pop.xml</url>
-        </category>
-        <category>
-            <name>HQ</name>
-            <url>https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/Hq.xml</url>
-        </category>
-    </categories>
-</root>
+{
+  "categories": [
+    {
+      "name": "Principais Lançamentos",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/news.json"
+    },
+    {
+      "name": "Filmes por Gêneros",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-por-generos.json"
+    },
+    {
+      "name": "Filmes em 4K",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-em-4k.json"
+    },
+    {
+      "name": "Coleções",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/colecoes.json"
+    },
+    {
+      "name": "Top 250 IMDb",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/250.json"
+    }
+  ]
+}
