@@ -2,19 +2,11 @@
   "categories": [
     {
       "name": "Principais Lançamentos",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/news.json"
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/test.json"
     },
     {
       "name": "Filmes por Gêneros",
       "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-por-generos.json"
-    },
-    {
-      "name": "Filmes em 4K",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/filmes-em-4k.json"
-    },
-    {
-      "name": "Coleções",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/branch/colecoes.json"
     },
     {
       "name": "Top 250 IMDb",
