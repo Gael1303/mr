@@ -1,9 +1,49 @@
 {
-    "generos": {
-        "Ação": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/acao.json",
-        "Comédia": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/comedia.json",
-        "Drama": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/drama.json",
-        "Terror": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/terror.json",
-        "Ficção Científica": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/ficcao_cientifica.json"
-    }
+    "gêneros": [
+        {
+            "nome": "Ação",
+            "filmes": [
+                {
+                    "tmdb_id": 1,
+                    "titulo": "Filme Ação 1",
+                    "url": "https://link_para_o_filme_acao_1.com"
+                },
+                {
+                    "tmdb_id": 2,
+                    "titulo": "Filme Ação 2",
+                    "url": "https://link_para_o_filme_acao_2.com"
+                }
+            ]
+        },
+        {
+            "nome": "Comédia",
+            "filmes": [
+                {
+                    "tmdb_id": 3,
+                    "titulo": "Filme Comédia 1",
+                    "url": "https://link_para_o_filme_comedia_1.com"
+                },
+                {
+                    "tmdb_id": 4,
+                    "titulo": "Filme Comédia 2",
+                    "url": "https://link_para_o_filme_comedia_2.com"
+                }
+            ]
+        },
+        {
+            "nome": "Drama",
+            "filmes": [
+                {
+                    "tmdb_id": 5,
+                    "titulo": "Filme Drama 1",
+                    "url": "https://link_para_o_filme_drama_1.com"
+                },
+                {
+                    "tmdb_id": 6,
+                    "titulo": "Filme Drama 2",
+                    "url": "https://link_para_o_filme_drama_2.com"
+                }
+            ]
+        }
+    ]
 }
