@@ -1,0 +1,14 @@
+{
+  "generos": [
+    {"nome": "Ação", "url": "https://exemplo.com/acao.json"},
+    {"nome": "Aventura", "url": "https://exemplo.com/aventura.json"},
+    {"nome": "Comédia", "url": "https://exemplo.com/comedia.json"},
+    {"nome": "Drama", "url": "https://exemplo.com/drama.json"},
+    {"nome": "Terror", "url": "https://exemplo.com/terror.json"},
+    {"nome": "Romance", "url": "https://exemplo.com/romance.json"},
+    {"nome": "Ficção Científica", "url": "https://exemplo.com/ficcao_cientifica.json"},
+    {"nome": "Documentário", "url": "https://exemplo.com/documentario.json"},
+    {"nome": "Animação", "url": "https://exemplo.com/animacao.json"},
+    {"nome": "Fantasia", "url": "https://exemplo.com/fantasia.json"}
+  ]
+}
