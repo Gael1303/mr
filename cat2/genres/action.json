@@ -1,0 +1,34 @@
+{
+    "movies": [
+        {
+            "tmdb_id": 155,
+            "title": "Batman - O Cavaleiro Das Trevas",
+			"release_date": "2008-07-17",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1"
+        },
+		{
+			"tmdb_id": 122,
+			"title": "O Senhor dos Anéis: O Retorno do Rei",
+			"release_date": "2003-12-17",
+			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet="
+		},
+		{
+			"tmdb_id": 346,
+			"title": "Os Sete Samurais",
+			"release_date": "1954-04-26",
+			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet="
+		},
+		{
+			"tmdb_id": 120,
+			"title": "O Senhor dos Anéis: A Sociedade do Anel",
+			"release_date": "2001-12-18",
+			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed"
+		},
+		{
+			"tmdb_id": 324857,
+			"title": "Homem-Aranha: No Aranhaverso",
+			"release_date": "2018-12-06",
+			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=36033201da817a92d4e96791e289499f89c73ff0"
+		}
+		]
+}
