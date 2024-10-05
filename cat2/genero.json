@@ -1,6 +1,6 @@
 {
   "generos": [
-    {"nome": "Ação", "url": "https://exemplo.com/acao.json"},
+    {"nome": "Ação", "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json"},
     {"nome": "Aventura", "url": "https://exemplo.com/aventura.json"},
     {"nome": "Comédia", "url": "https://exemplo.com/comedia.json"},
     {"nome": "Drama", "url": "https://exemplo.com/drama.json"},
