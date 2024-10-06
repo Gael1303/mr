@@ -2,7 +2,7 @@
   "generos": [
     {
       "nome": "Ação",
-      "url": "https://exemplo.com/acao.json"
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json"
     },
     {
       "nome": "Comédia",
