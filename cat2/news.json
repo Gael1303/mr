@@ -1,6 +1,31 @@
 {
     "movies": [
         {
+            "tmdb_id": 1114513,
+            "title": "Não Fale o Mal",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=edd8163517f4259b49b4a86d746d592abc538fb8"
+        },
+        {
+            "tmdb_id": 1225510,
+            "title": "O Poço 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d6b4d0ab7a27d50f57852a3661dfe8fb4a0d6991"
+        },
+        {
+            "tmdb_id": 1248753,
+            "title": "Alerta Âmbar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=add95a8579cdc4dd2e4b6f10abfa016c1ee1c6db"
+        },
+        {
+            "tmdb_id": 718014,
+            "title": "Prenda a Respiração",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=60682a7c3397d615a0f76d72082ebe8747afe049"
+        },
+        {
+            "tmdb_id": 1146577,
+            "title": "CTRL",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1295d23b3525c7f81ed5fe716b027f191f759a2d"
+        },
+        {
             "tmdb_id": 533535,
             "title": "Deadpool e Wolverine",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d5de41440647689b5d69c930bcafa8135c115bf2"
