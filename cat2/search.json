@@ -1,9 +1,19 @@
 {
     "movies": [
         {
+            "tmdb_id": 137106,
+            "title": "Uma Aventura Lego",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10e58a1377c62de9c9b61d14ee93ddd065f2013e"
+        },
+        {
+            "tmdb_id": 487670,
+            "title": "A Morte do Superman",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d0dda6468e9e4f17e7665d7864f19b856f81c9c"
+        },
+        {
             "title": "O Corvo",
             "tmdb_id": 957452,
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fac1cbd18c85d3b38bc9837be20ed913960957a3"
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d0b8505df5bb09a95f837d5d90209aa6381886f7"
         },
         {
             "title": "Deadpool e Wolverine",
@@ -96,9 +106,64 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4c3dfca079f0325672ee736f070bbb14bebd6a22"
         },
         {
+            "tmdb_id": 312221,
+            "title": "Creed: Nascido para Lutar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2787f7de5bf7dfb4cef21e42ae1a0794c44dd3d1"
+        },
+        {
+            "tmdb_id": 94329,
+            "title": "Operação Invasão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2af15b0f3b32a1d60c622d7b0ff0bc3121f822"
+        },
+        {
+            "tmdb_id": 432836,
+            "title": "Memória de um Assassino",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9a2361b28678f521467d547f46a5b0fe9ff147"
+        },
+        {
+            "tmdb_id": 11661,
+            "title": "Feliz Natal",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb267b2d8beb6813e3a09b10826d7bd5171619d7"
+        },
+        {
+            "tmdb_id": 226,
+            "title": "Meninos Não Choram",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a574489e082a351595194fd7c53de4c1a238b183"
+        },
+        {
+            "tmdb_id": 37135,
+            "title": "Tarzan",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3830cbfecb917cf930c1e7e426504cf27ff4228f"
+        },
+        {
+            "tmdb_id": 463257,
+            "title": "O Falcão Manteiga de Amendoim",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de123a7c471c0ab2a00c0defa5e0cc5c7aea83fc"
+        },
+        {
             "title": "Um Lugar Silencioso: Dia Um",
             "tmdb_id": 762441,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f474e968c10fda02fff5e1fd31ab94c16e9409b"
+        },
+        {
+            "tmdb_id": 196983,
+            "title": "One Piece: Z",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3db00a6149428e36a10e672a0cdb634c468e47dd"
+        },
+        {
+            "tmdb_id": 389015,
+            "title": "Eu, Tonya",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e92e2eb7b87be8c4b7c03721d38314e23686040"
+        },
+        {
+            "tmdb_id": 284293,
+            "title": "Para Sempre Alice",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7475cfd2d6e6580f40f7660afaf156fb2c7d2fe5"
+        },
+        {
+            "tmdb_id": 17809,
+            "title": "Lutar ou Morrer",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62084a92f995aa12f2aadf01bd2092ef30cb7b4e"
         },
         {
             "title": "Os Fantasmas se Divertem",
@@ -256,6 +321,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3ebc50f83e92ab62a164718f51c94299e5303c63"
         },
         {
+            "tmdb_id": 490132,
+            "title": "Green Book: O Guia",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7f6daef9aa23117e7d750d1b240e49545e2d118"
+        },
+        {
             "title": "Isca",
             "tmdb_id": 804616,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6086846f3430a9997ef0322d79610e01d48c5f1c"
@@ -351,6 +421,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a6fe68f1677f25d39af1c051024e83124a78eded"
         },
         {
+            "tmdb_id": 791373,
+            "title": "Liga da Justiça de Zack Snyder",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8cacc0a491342496201d418b47fd98f1cd5934"
+        },
+        {
             "title": "Slingshot",
             "tmdb_id": 916728,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c5968c80cdd2bcdecb79cc59abaa9527772f626f"
@@ -369,6 +444,26 @@
             "title": "O Senhor dos Aneis: A Sociedade do Anel",
             "tmdb_id": 120,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed"
+        },
+        {
+            "tmdb_id": 12477,
+            "title": "O Túmulo dos Vagalumes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be33f205d05cfa34fa49de443cf93ec2ca0c56a5"
+        },
+        {
+            "tmdb_id": 11216,
+            "title": "Cinema Paradiso",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7295114c711a6f9ded6a92870600d45a2b07641"
+        },
+        {
+            "tmdb_id": 637,
+            "title": "A Vida é Bela",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a0f948c7b4a339af3d2bf09f07155edfe9fd28"
+        },
+        {
+            "tmdb_id": 1084736,
+            "title": "O Conde de Monte Cristo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f566e6b3c64956842f7528b1325e426b31537d6e"
         },
         {
             "title": "O Senhor dos Aneis: O Retorno do Rei",
@@ -394,6 +489,11 @@
             "title": "Missao Cruzada",
             "tmdb_id": 1002088,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f361799a6a327b353708da279b5f6657ed38f03b"
+        },
+        {
+            "tmdb_id": 606856,
+            "title": "Togo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8489301e55d3b81855b2866647853051c2df854b"
         },
         {
             "title": "Gato de Botas 2: O Ultimo Pedido",
@@ -431,6 +531,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bdfe16ed31b7dfe2cb4ab093e2f14e799cbcbbcd"
         },
         {
+            "tmdb_id": 672322,
+            "title": "Samurai X: A Origem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e"
+        },
+        {
+            "tmdb_id": 1632,
+            "title": "Mississipi em Chamas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4007e6812b07df9c2e9944d79de6c76b7dd3f68c"
+        },
+        {
             "title": "365 Dias: Hoje",
             "tmdb_id": 829557,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a1c172a60975b3fc7968d58d716190dd2b0ef60e"
@@ -444,6 +554,26 @@
             "title": "Os Estranhos: Capitulo 1",
             "tmdb_id": 1010600,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6818228f411b589414ad7db185188ee1a19bf784"
+        },
+        {
+            "tmdb_id": 666243,
+            "title": "The Witcher: Lenda do Lobo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c97ab89635232ef1d0ab420f58433c237a754e6"
+        },
+        {
+            "tmdb_id": 487558,
+            "title": "Infiltrado Na Klan",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12f5fe1929254b30498ac3c93648bd0611f48df4"
+        },
+        {
+            "tmdb_id": 503919,
+            "title": "O Farol",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a064ab4dc586cb178c56778c36c2a82c44abdb7"
+        },
+        {
+            "tmdb_id": 786,
+            "title": "Quase Famosos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b16f7f325ae1226b20572fb8855aa25e478e8365"
         },
         {
             "title": "MaXXXine",
@@ -501,6 +631,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5866dccfcd599509332a4445d43a788c6bdbf36a"
         },
         {
+            "tmdb_id": 149871,
+            "title": "O Conto da Princesa Kaguya",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7f3e8effce40bfd7c553a5040c34a2351f06fec"
+        },
+        {
+            "tmdb_id": 439,
+            "title": "A Doce Vida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea819bc4eb1c269f6eec8b534104842e35e213eb"
+        },
+        {
             "title": "Maze Runner: Correr ou Morrer",
             "tmdb_id": 198663,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e"
@@ -551,6 +691,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1526dd829688f315c4db8241fe658055128fb1af"
         },
         {
+            "tmdb_id": 45269,
+            "title": "O Discurso do Rei",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ef60f3569a8293657798da5d9d0d6ee2a393a0a"
+        },
+        {
+            "tmdb_id": 205,
+            "title": "Hotel Ruanda",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4296acd3eb83aab5ddb418308d70fd67a275769e"
+        },
+        {
+            "tmdb_id": 792,
+            "title": "Platoon",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aa5059185ac5b7b7f4046604a7d123fff972c32"
+        },
+        {
+            "tmdb_id": 322,
+            "title": "Sobre Meninos e Lobos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ff5853bc794077681f18551a2c14b161637562"
+        },
+        {
             "title": "Viva: A Vida e uma Festa",
             "tmdb_id": 354912,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=69c68d516348be7ed355437e1680cea191baeddd"
@@ -589,6 +749,26 @@
             "title": "Assassino por Acaso",
             "tmdb_id": 974635,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e1d3d9afd94de0b46782404911225b46fa1857c9"
+        },
+        {
+            "tmdb_id": 426618,
+            "title": "Amor em Tempos de Ódio",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4879ca753b8bd195553c572132d36cbd89670602"
+        },
+        {
+            "tmdb_id": 776503,
+            "title": "No Ritmo do Coração",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46488a8fae1b665d5a961429172320f4a476e9"
+        },
+        {
+            "tmdb_id": 1578,
+            "title": "Touro Indomável",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:860eab5e63f75028920d2f092199cb84c05aff07"
+        },
+        {
+            "tmdb_id": 626332,
+            "title": "Flamin' Hot: O Sabor que Mudou a História",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22bf2ff2bdfe1a85c0af3fa2e79f302e44ef61a5"
         },
         {
             "title": "Guardioes da Galaxia: Vol. 3",
@@ -661,6 +841,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c34911e5ca4518978719cfef123e204ec7905edd"
         },
         {
+            "tmdb_id": 389,
+            "title": "12 Homens e uma Sentença",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5228d2f2f60272c11b5e49f8e0c3d52d3b3c8026"
+        },
+        {
             "title": "Johnny e Clyde - Parceiros no Crime",
             "tmdb_id": 857553,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=af8a50625d5871bf45261cc8bab4210230cdd03d"
@@ -684,6 +869,11 @@
             "title": "Harry Potter e as Reliquias da Morte - Parte 2",
             "tmdb_id": 12445,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dee6b801314fcf33d81d245c98ac847e109797e6"
+        },
+        {
+            "tmdb_id": 555604,
+            "title": "Pinóquio por Guillermo del Toro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f612c6c8d36b9b287a92e7335250d27d92e1f934"
         },
         {
             "title": "Cinquenta Tons de Cinza",
@@ -726,6 +916,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=832fddf4adbe58c191cc310207aca13565c21881"
         },
         {
+            "tmdb_id": 1124,
+            "title": "O Grande Truque",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb65bff771114c4f5315a82d0328a1055cb61eaf"
+        },
+        {
             "title": "Alerta de Risco",
             "tmdb_id": 704673,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ef691c8b2a1415643cd2480af652137f13d24d7a"
@@ -734,6 +929,16 @@
             "title": "Invasao Zumbi",
             "tmdb_id": 396535,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1e8f47f90483150623153d424c8e7a9a29534142"
+        },
+        {
+            "tmdb_id": 937278,
+            "title": "O Pior Vizinho do Mundo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b08c274a06a80b4e9bd14a6b81fb0fbac479e8d7"
+        },
+        {
+            "tmdb_id": 579974,
+            "title": "RRR: Revolta, Rebelião, Revolução",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9e2bea4ac0e4f16771f86131d0dff3a00b1e34"
         },
         {
             "title": "Tipos de Gentileza",
@@ -806,6 +1011,21 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a743ae07fce27d1888ba10c9268ecdfa6642445c"
         },
         {
+            "tmdb_id": 6075,
+            "title": "O Pagamento Final",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621c13088af144adcac59520763f165670b939fa"
+        },
+        {
+            "tmdb_id": 712454,
+            "title": "Viagem ao Topo da Terra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56b2b4c2b72629fcfa0a175ef1c8848288f7f1a6"
+        },
+        {
+            "tmdb_id": 826,
+            "title": "A Ponte do Rio Kwai",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f87edf0700062eda0c90529d164cd30e102e8df"
+        },
+        {
             "title": "Terrifier 2",
             "tmdb_id": 663712,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fa9aa0eb08ba91623fdeeb23d6d3ca4335ab6313"
@@ -824,6 +1044,26 @@
             "title": "Ate o Ultimo Homem",
             "tmdb_id": 324786,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0789e88ebe4d5a74d0ddcba62634e39c1e3d66ae"
+        },
+        {
+            "tmdb_id": 522924,
+            "title": "Meu Amigo Enzo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbe0002512cd70be6953f21547b03db1e88f3488"
+        },
+        {
+            "tmdb_id": 185,
+            "title": "Laranja Mecânica",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10f14168c4cff87c54fe06ea19e04b31d47baf2a"
+        },
+        {
+            "tmdb_id": 5156,
+            "title": "Ladrões de Bicicleta",
+            "url": "https://archive.org/embed/ladroesdebicicleta1948/Ladr%C3%B5es%20de%20Bicicleta%20%281948%29.mp4"
+        },
+        {
+            "tmdb_id": 556574,
+            "title": "Hamilton",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0374d3c5c40e8fbba43eb6da676a301a9e83e80"
         },
         {
             "title": "Deadpool 2",
@@ -874,6 +1114,21 @@
             "title": "Encanto",
             "tmdb_id": 568124,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=810057628863215d5d8eb7acc2e660308673dbcc"
+        },
+        {
+            "tmdb_id": 1808299,
+            "title": "Operação Invasão 2",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24e0af59a5b06ff2e50688946f257b2e661a3e37"
+        },
+        {
+            "tmdb_id": 399566,
+            "title": "Godzilla vs. Kong",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de0dbeee9827edfab2f9e09f8df1928fb8b85ab"
+        },
+        {
+            "tmdb_id": 63,
+            "title": "Os 12 macacos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0207595e21849e492d89da39c6b62ff1eabeef9"
         },
         {
             "title": "Thor: Amor e Trovao",
@@ -971,6 +1226,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=70e87c303580b6007b68287d11b0c0a2a356a126"
         },
         {
+            "tmdb_id": 277834,
+            "title": "Moana: Um Mar de Aventuras",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bdc9c8f49251e58c749931b34998d90cd97fa2"
+        },
+        {
+            "tmdb_id": 607259,
+            "title": "Paternidade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb636c7adaff138306be31e3055ea7c5dbc0908c"
+        },
+        {
             "title": "Ratatouille",
             "tmdb_id": 2062,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=293bb627804281b179572f917ef0fedf405266d6"
@@ -979,6 +1244,31 @@
             "title": "O Rei Leao",
             "tmdb_id": 420818,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e31714f3830c679589cca35c99f781b320cb1b03"
+        },
+        {
+            "tmdb_id": 805,
+            "title": "O Bebê de Rosemary",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d008d8b020a708e988cc69c11e6b2ac69b326021"
+        },
+        {
+            "tmdb_id": 398924,
+            "title": "Os Meninos Que Enganavam Nazistas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d373230fb8d0d501e26ca0eb994fa1a6acaa124f"
+        },
+        {
+            "tmdb_id": 715931,
+            "title": "Emancipation: Uma História de Liberdade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e85f65416f1fa30d8dd89b69418ddd93ac1462"
+        },
+        {
+            "tmdb_id": 16859,
+            "title": "O Serviço de Entregas da Kiki",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fc4bcdf52c533b500045326a37aebf23f4369f5"
+        },
+        {
+            "tmdb_id": 323272,
+            "title": "Quarto de Guerra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:253acfd7e7a111a96f4b8425c792a7cd273b10ef"
         },
         {
             "title": "Outra Chance para o Amor",
@@ -994,6 +1284,36 @@
             "title": "A Vida em um Ano",
             "tmdb_id": 447362,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f7ddbccf503541f39bfb7871cb2445a18776a120"
+        },
+        {
+            "tmdb_id": 76,
+            "title": "Antes do Amanhecer",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:709db46579281ab337dd758cd642680f4da45986"
+        },
+        {
+            "tmdb_id": 24,
+            "title": "Kill Bill: Volume 1",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a53b07396a6e0ca7e0f25c6fdc0386db9bfdaf"
+        },
+        {
+            "tmdb_id": 637920,
+            "title": "Milagre na Cela 7",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b776d5643a7e538b915f644e1d0d80e4d2de2e"
+        },
+        {
+            "tmdb_id": 527641,
+            "title": "A Cinco Passos de Você",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ba9640d1e519f758d069dce8158203bc52ab98"
+        },
+        {
+            "tmdb_id": 995133,
+            "title": "O Menino, a Toupeira, a Raposa e o Cavalo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0440ab7fbe410b902532fd374c01a32fcdd85b4"
+        },
+        {
+            "tmdb_id": 630566,
+            "title": "Clouds",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:073a9a00d75c31bfedd6e8e878791628631ece53"
         },
         {
             "title": "Shrek 2",
@@ -1081,6 +1401,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9d6f344ad613beaddcc5adb4b77d74689cafc34b"
         },
         {
+            "tmdb_id": 398978,
+            "title": "O Irlandês",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a7c8b1a3a8691d3f3383f1641d21dc306bc1b1c"
+        },
+        {
             "title": "Forrest Gump: O Contador de Historias",
             "tmdb_id": 13,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a56d708883721739840c5a10f31ce81be7188902"
@@ -1121,6 +1446,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=347205738ba31bd0c80cffb8df326a2eb5ef654c"
         },
         {
+            "tmdb_id": 503314,
+            "title": "Dragon Ball Super: Broly",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bed4d5112f9c061cee2e3bbcdc4835d894519111"
+        },
+        {
+            "tmdb_id": 316029,
+            "title": "O Rei do Show",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bebdcc6fb03338a83282c9d98ae3f4ac3eb1df9b"
+        },
+        {
             "title": "Infiltrado",
             "tmdb_id": 637649,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=10ccb57ea7c6a8ac1e85dae90726699e79cb0e32"
@@ -1129,6 +1464,16 @@
             "title": "Tuesday: O Ultimo Abraço",
             "tmdb_id": 831395,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f9c7c0776e5de8113effa2a4b55e2eda050d97f"
+        },
+        {
+            "tmdb_id": 381289,
+            "title": "Quatro Vidas de um Cachorro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1c17caaccc6be4db6aad79a108d416da8decc58"
+        },
+        {
+            "tmdb_id": 313297,
+            "title": "Kubo e as Cordas Mágicas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84d998ca810a6aa4135ccd8eefe313053a17fd47"
         },
         {
             "title": "A Viagem de Chihiro",
@@ -1159,6 +1504,101 @@
             "title": "A Bela e a Fera",
             "tmdb_id": 10020,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=80f1785ff2e8e6c61b7b533e268e0de9e8176ac0"
+        },
+        {
+            "tmdb_id": 10774,
+            "title": "Rede de Intrigas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7166f31fe1a528b81f4c0029c5f85201a550eab2"
+        },
+        {
+            "tmdb_id": 843241,
+            "title": "Os Sete Pecados Capitais: Amaldiçoado pela Luz",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dd2bfc70d1899910ab01505b66cd4dc74956f49"
+        },
+        {
+            "tmdb_id": 650031,
+            "title": "O Bombardeio",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296ee9db58be9ca0c1a794f0f3c9d632740da207"
+        },
+        {
+            "tmdb_id": 779047,
+            "title": "Juntos Novamente",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db5f6127390c9fddb753158b3920d089233cfe57"
+        },
+        {
+            "tmdb_id": 677638,
+            "title": "Ursos Sem Curso: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2191df75b7f28015bf77879cfbdb247d2a03ba39"
+        },
+        {
+            "tmdb_id": 31011,
+            "title": "Sr. Ninguém",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:319d5e978c1e9354ad362cfaae1b25df76b63367"
+        },
+        {
+            "tmdb_id": 314365,
+            "title": "Spotlight: Segredos Revelados",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b19333b97200b4929640b1a7f86f9424429ebf33"
+        },
+        {
+            "tmdb_id": 3078,
+            "title": "Aconteceu Naquela Noite",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:548467c60c344d1225ca3174d722490f3eb40cbe"
+        },
+        {
+            "tmdb_id": 52345,
+            "title": "Lisbela e o Prisioneiro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9308d6f4b3932635787009ff1278eb6e0f33e982"
+        },
+        {
+            "tmdb_id": 523781,
+            "title": "Palavras nas Paredes do Banheiro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3b7e7ba7ab14768bc92af5b713477e3cdeae8b9"
+        },
+        {
+            "tmdb_id": 47931,
+            "title": "Tropa de Elite 2: O Inimigo Agora é Outro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5cfd968723632c797c3b188c3f5f2fc414599e"
+        },
+        {
+            "tmdb_id": 1018,
+            "title": "Cidade dos Sonhos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b02c409d1658e0d98a0db5dacc2e1c105fdafef"
+        },
+        {
+            "tmdb_id": 107,
+            "title": "Snatch: Porcos e Diamantes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f095d1ba02f12b2a51ffd143e38f2749456e4038"
+        },
+        {
+            "tmdb_id": 393559,
+            "title": "Minha Vida de Abobrinha",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e48443439701ef6e977273061ed2ebd83081e091"
+        },
+        {
+            "tmdb_id": 10315,
+            "title": "O Fantástico Sr. Raposo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247f1e858de4cdb1ff5ff35f446942a48462aed7"
+        },
+        {
+            "tmdb_id": 5915,
+            "title": "Na Natureza Selvagem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:108495317ca7f3c6e98e30899a6d670e23b878c9"
+        },
+        {
+            "tmdb_id": 22,
+            "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2782e7c161c25f4ffa5eb7afa92c488dbd29a65d"
+        },
+        {
+            "tmdb_id": 49797,
+            "title": "Eu Vi o Diabo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e570775bb8fa61298800a0800282e634bba65882"
+        },
+        {
+            "tmdb_id": 901563,
+            "title": "Close",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a42ecc805c0b5c634f0430ed66e1e48f6f65ee1"
         },
         {
             "title": "Pulp Fiction: Tempo de Violencia",
@@ -1206,6 +1646,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f45ebc0b828623a3b679a2840cd3e33e635d8a36"
         },
         {
+            "tmdb_id": 873,
+            "title": "A Cor Púrpura",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eca72aa0c375b509417de84b77b458aa8b6a5dba"
+        },
+        {
             "title": "Gigantes de Aço",
             "tmdb_id": 39254,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bbdcf202c5198ab957167ce0883cdad2a3baa7c6"
@@ -1226,9 +1671,49 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ab6dc645a985323c0655193d7c47c9ace5c5889d"
         },
         {
+            "tmdb_id": 730840,
+            "title": "Caçadores de Trolls: A Ascensão dos Titãs",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad"
+        },
+        {
+            "tmdb_id": 416144,
+            "title": "Atentado ao Hotel Taj Mahal",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd87e6eabdd9fe30ce15bd3eac5de4b499a65f86"
+        },
+        {
+            "tmdb_id": 881,
+            "title": "Questão de Honra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac556197d933a8854c9cc654e3b4595f8cdcd1e"
+        },
+        {
+            "tmdb_id": 228326,
+            "title": "Festa no Céu",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b9b86b3dfe39938856b28891d4cbb8a5d005c59"
+        },
+        {
+            "tmdb_id": 575604,
+            "title": "A Ligação",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69d4bb15ff76a341680546b856dfb59698159baf"
+        },
+        {
+            "tmdb_id": 552178,
+            "title": "O Preço da Verdade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f936ad3d0fae3e98154d469709f1221f2541c851"
+        },
+        {
             "title": "Shrek Para Sempre: O Capitulo Final",
             "tmdb_id": 10192,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=33e3b71e62776f974553149dce81545bf98cb42a"
+        },
+        {
+            "tmdb_id": 614917,
+            "title": "King Richard: Criando Campeãs",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46dfc46368bfe7c3ff5cb4275110f43f9c6b742c"
+        },
+        {
+            "tmdb_id": 51739,
+            "title": "O Mundo dos Pequeninos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:696ece3f9eb12af834d0f64795f230aa005d0f81"
         },
         {
             "title": "Trolls 3: Juntos Novamente",
@@ -1266,6 +1751,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bed0afd5a61c35df93f595f7dba9b3253706bab3"
         },
         {
+            "tmdb_id": 760774,
+            "title": "Uma Vida: A História de Nicholas Winton",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79954d5367a7a6e0055071a4a6744d4b0c2b07a7"
+        },
+        {
+            "tmdb_id": 117,
+            "title": "Os Intocáveis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcca0a5fb8840dd89983e88091f3f69e1e7202c5"
+        },
+        {
+            "tmdb_id": 843906,
+            "title": "Diretamente de Lugar Nenhum: Scooby-Doo! Encontra Coragem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14d81d419462ed21d27e195ce7f4eff6879fbce1"
+        },
+        {
+            "tmdb_id": 165,
+            "title": "De Volta para o Futuro II",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF16C934F753EBAF7C14FE8220037EB8AF79DDC0"
+        },
+        {
             "title": "Leo",
             "tmdb_id": 1075794,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=074075b4156cc293b0b80db8a8aff4508eb89bd1"
@@ -1274,6 +1779,41 @@
             "title": "Cemiterio",
             "tmdb_id": 1114738,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9d93552c245d41ba8d2fe0d3ae22904eb0855f78"
+        },
+        {
+            "tmdb_id": 345,
+            "title": "De Olhos Bem Fechados - Leg",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc8e69dc26150e40f1a8d8350980778acdccec33"
+        },
+        {
+            "tmdb_id": 345938,
+            "title": "A Cabana",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c073adeb28d954a25dac691a3293be342a99b1f"
+        },
+        {
+            "tmdb_id": 293863,
+            "title": "A Incrível História de Adaline",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a62048da175dae462b6851aca8c933d2d65be047"
+        },
+        {
+            "tmdb_id": 12837,
+            "title": "A Vida Secreta das Abelhas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab5095b0a3108415531ec8292116d851c51f7a31"
+        },
+        {
+            "tmdb_id": 11978,
+            "title": "Homens de Honra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f050a596c257865cb769c42fca8552b1c29656dd"
+        },
+        {
+            "tmdb_id": 186,
+            "title": "Xeque-Mate",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b7ae800457a5f751b9db4a38534df53b09a6eb3"
+        },
+        {
+            "tmdb_id": 196,
+            "title": "De Volta para o Futuro III",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e3bf68b50571fc39fcdcdf59c1f5a3c44670a7b"
         },
         {
             "title": "Busca Implacavel 3",
@@ -1301,6 +1841,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dfd45b477f644f62921e511a7b301343b14ab003"
         },
         {
+            "tmdb_id": 346,
+            "title": "Os Sete Samurais",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cabf9830ba0d213686927e4ff3beb6eb9c29e65"
+        },
+        {
             "title": "Demon Slayer: Mugen Train - O Filme",
             "tmdb_id": 635302,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=27844a520eb9cf8363e88c1d9007db179a9dc552"
@@ -1319,6 +1864,21 @@
             "title": "Star Wars: Episodio IX - A Ascensao Skywalker",
             "tmdb_id": 181812,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6a8acb2eacd447671dab59dbb6ff1aa61e6ae31f"
+        },
+        {
+            "tmdb_id": 9470,
+            "title": "Kung-Fusão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8641db9425550030bf179cb507ade04a8509332"
+        },
+        {
+            "tmdb_id": 1677,
+            "title": "Ray",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:219ebabb20d4b90a878887841f021d0f5e5e983a"
+        },
+        {
+            "tmdb_id": 645886,
+            "title": "Imperdoável",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f84219a700de6a6bc3a898e5066e89bf6f7b6311"
         },
         {
             "title": "Up: Altas Aventuras",
@@ -1351,6 +1911,21 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=543201f979804dcb0429e9a7d867ca40b56fdadf"
         },
         {
+            "tmdb_id": 638449,
+            "title": "A Última Carta de Amor",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5"
+        },
+        {
+            "tmdb_id": 290762,
+            "title": "Já Estou Com Saudades",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9e8add682979e2beefd3cc90562108dc2b8e203"
+        },
+        {
+            "tmdb_id": 242,
+            "title": "O Poderoso Chefão: Parte III",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+        },
+        {
             "title": "Exorcismo Sagrado",
             "tmdb_id": 836225,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f523093868a5b7baf312284345f4cfbc06138d42"
@@ -1369,6 +1944,16 @@
             "title": "Panico na Floresta",
             "tmdb_id": 9902,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=475ae27cbc6f709e1bb1f60e97c3bc321b3c9298"
+        },
+        {
+            "tmdb_id": 1883,
+            "title": "Malcolm X",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df1784c7a7d197bef97d1c1b8e0e8f6e3919755c"
+        },
+        {
+            "tmdb_id": 39323,
+            "title": "Dragon Ball Z: Bardock, O Pai de Goku",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fee11595e1f77ae633b8208f6f591e63a619c614"
         },
         {
             "title": "Ultraman: A Ascensao",
@@ -1521,6 +2106,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=115a5c60e748baa9e2404ad4f799f39ab9811742"
         },
         {
+            "tmdb_id": 567,
+            "title": "Janela Indiscreta",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d5068e9f38cc354aca6860fefd26e1af346e546"
+        },
+        {
+            "tmdb_id": 274,
+            "title": "O Silêncio dos Inocentes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a97adcbacc88f83a114f38ff8fddf34e4b76891"
+        },
+        {
+            "tmdb_id": 73,
+            "title": "A Outra História Americana",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:611a36f0a9a21f33c1ddbdbf5c2296deb736cfb4"
+        },
+        {
+            "tmdb_id": 128,
+            "title": "Princesa Mononoke",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9512e993ed04929859d05a9a833b44c0ead882ae"
+        },
+        {
             "title": "O Espetacular Homem-Aranha",
             "tmdb_id": 1930,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=eef8ed9d1c384002cb667ad6311a2b927ecb3a41"
@@ -1529,6 +2134,21 @@
             "title": "Sicario: Terra de Ninguem",
             "tmdb_id": 273481,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=da219641812a46f01c70769a3d1f1715cf583f31"
+        },
+        {
+            "tmdb_id": 388,
+            "title": "O Plano Perfeito",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abc4de1d39bb098d94334f68b9535bce02e74197"
+        },
+        {
+            "tmdb_id": 809107,
+            "title": "Z-O-M-B-I-E-S 3",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9aa3c6bd247e1e62123bde2d55958cdf54cbe21"
+        },
+        {
+            "tmdb_id": 273895,
+            "title": "Selma: Uma Luta pela Igualdade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb59cd3314c0b0c79ec212bcf6ba61ea476281a3"
         },
         {
             "title": "Sicario: Dia do Soldado",
@@ -1574,6 +2194,16 @@
             "title": "Drive",
             "tmdb_id": 64690,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=511cf8ceb3fa4062514249d004e8058c55b47974"
+        },
+        {
+            "tmdb_id": 433,
+            "title": "Mary Poppins",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b70ee62472b8ca3d41c9c651cebf5d421828b62"
+        },
+        {
+            "tmdb_id": 915935,
+            "title": "Anatomia de uma Queda",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:790ab2a717cfa5f3e40d6ea87fb495aef57756d7"
         },
         {
             "title": "Esquadrao 6",
@@ -1711,6 +2341,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=022aa39b9bf5f11f84bd21b6e7da8fdc20c7e0e9"
         },
         {
+            "tmdb_id": 7214,
+            "title": "Coach Carter: Treino para a Vida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ef259983d7431e5130fe43106160b303b2882b0"
+        },
+        {
+            "tmdb_id": 306819,
+            "title": "A Garota Dinamarquesa",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0dcc423dacbfcc5e0d18512276ececc00241725"
+        },
+        {
+            "tmdb_id": 4982,
+            "title": "O Gângster",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eb95e36ffa83ff80306405b16f3d15458ef4524"
+        },
+        {
+            "tmdb_id": 9377,
+            "title": "Curtindo a Vida Adoidado",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1562cbc50dd54c0f4c6619cc789792ca23a3162"
+        },
+        {
+            "tmdb_id": 489999,
+            "title": "Buscando...",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70c8ce2ad6a45c10644f7da37ecac6e769fc38e4"
+        },
+        {
             "title": "Os Incriveis 2",
             "tmdb_id": 260513,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d3d6c62121d4fd465bd3ed4df4bf83290c0b7815"
@@ -1746,6 +2401,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0f04c0c0db209eab53b5990e87c7ef8885680da5"
         },
         {
+            "tmdb_id": 614934,
+            "title": "Elvis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b11099bc7c05b516b4113bbf0e1ee4ba484bb62"
+        },
+        {
+            "tmdb_id": 556901,
+            "title": "Os Jovens Titãs em Ação Vs. Os Jovens Titãs",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e5df46cde2c70e568b4a3664c29655031db3cc"
+        },
+        {
+            "tmdb_id": 281957,
+            "title": "O Regresso",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80803d9fb6d1b6e9ff421b954262aecbc1c978b8"
+        },
+        {
+            "tmdb_id": 200085,
+            "title": "A Gripe",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57b063b256b37d5bf405f5eb71f49405b5a09025"
+        },
+        {
+            "tmdb_id": 15472,
+            "title": "Os Homens Que Não Amavam as Mulheres",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42efa3fbe93a3c69fe310d94fcc253bf8bcb622e"
+        },
+        {
             "title": "Robos",
             "tmdb_id": 9928,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=49e485a5ad4e3a32c490eddbf9991ab97f208d51"
@@ -1769,6 +2449,16 @@
             "title": "Os Croods 2: Uma Nova Era",
             "tmdb_id": 529203,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=48fc86c04d422608f713c299ebf75acee3d6b025"
+        },
+        {
+            "tmdb_id": 483983,
+            "title": "Ventos da Liberdade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6fb2adb33d1562f9b76748551d43a23b787591f"
+        },
+        {
+            "tmdb_id": 22538,
+            "title": "Scott Pilgrim Contra o Mundo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d582f8a31ba09c7b224f8e20d6abe004d0cef515"
         },
         {
             "title": "Ta Chovendo Hamburguer",
@@ -1881,6 +2571,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=449d2211080761db1a2c3e91c85a7b3a80487139"
         },
         {
+            "tmdb_id": 382614,
+            "title": "O Livro de Henry",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a920aee78c1628a0857e77ccefaed57f0637f56f"
+        },
+        {
+            "tmdb_id": 491418,
+            "title": "De Repente uma Família",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06aa6bdf8025601518299d4e52a56f76ce13fa82"
+        },
+        {
+            "tmdb_id": 4553,
+            "title": "O Operário",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1909a0a8ac8f5cdfe1e0120ad2b2619817c4ea9"
+        },
+        {
+            "tmdb_id": 856,
+            "title": "Uma Cilada para Roger Rabbit",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33276fb1cf1c4d990f39dbfcaf35bdc6cd0ea599"
+        },
+        {
+            "tmdb_id": 11782,
+            "title": "Fervura Máxima",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5946db9f6848bbf3084dadcf2aad22cb29cb027"
+        },
+        {
             "title": "Chappie",
             "tmdb_id": 198184,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=005e2184ac94b1d66a90082aebc1cb1906a8e087"
@@ -1901,9 +2616,24 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ee309632268d960122be489f312aeab87548d723"
         },
         {
+            "tmdb_id": 40096,
+            "title": "O Auto da Compadecida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4299faf9cf5e223796c3b23f98e9647538f59acd"
+        },
+        {
+            "tmdb_id": 14537,
+            "title": "Harakiri",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:075e523e4829c7466ea0b32a376d86e83a3fe588"
+        },
+        {
             "title": "O Predador",
             "tmdb_id": 106,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=05fe57132b71484d8d2e8c5ea3e1610fcc3539e1"
+        },
+        {
+            "tmdb_id": 704264,
+            "title": "Primal: Tales of Savagery",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b2b03b71c6a65a7dd39487f6ffef6f4bed35baa"
         },
         {
             "title": "Gente Grande 2",
@@ -1924,6 +2654,16 @@
             "title": "Os Infaliveis",
             "tmdb_id": 1143019,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a57bb2b5b0a9c84ad12a71a50f62ada560a454ee"
+        },
+        {
+            "tmdb_id": 505262,
+            "title": "My Hero Academia: O Filme - 2 Heróis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bfae4be9ed3e8cbbbc6a63c539dc73fee537f3"
+        },
+        {
+            "tmdb_id": 33,
+            "title": "Os Imperdoáveis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b236a04b945b0615056f0be01cc997deeb52fac0"
         },
         {
             "title": "Sniper Americano",
@@ -1969,6 +2709,16 @@
             "title": "Anonimo",
             "tmdb_id": 615457,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=470b8a934f1448e9dba3d2bb62668bad6e2a5f05"
+        },
+        {
+            "tmdb_id": 745,
+            "title": "O Sexto Sentido",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e7871dc99c9b09ec9c16466df0ab343c4058fed"
+        },
+        {
+            "tmdb_id": 70,
+            "title": "Menina de Ouro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd0383b3e6123d872651d07dd4d124a992abfb6f"
         },
         {
             "title": "Aqueles Que Me Desejam a Morte",
@@ -2041,6 +2791,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e9887e31177c665378bdb75a0003a0b5f267d2dd"
         },
         {
+            "tmdb_id": 77,
+            "title": "Amnésia",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8289f8118303c103ebce9fbd11ace0bff2522d6"
+        },
+        {
+            "tmdb_id": 592350,
+            "title": "My Hero Academia: O Filme – Ascensão dos Heróis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bfae4be9ed3e8cbbbc6a63c539dc73fee537f3"
+        },
+        {
+            "tmdb_id": 620683,
+            "title": "Minha Mãe é uma Peça 3: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c82fc7488427544a434c6ce05487f3de43dc8ad"
+        },
+        {
+            "tmdb_id": 537061,
+            "title": "Steven Universo: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4088dbb35928b09c425f60db876e3120ac159f7b"
+        },
+        {
             "title": "Jogos Mortais X",
             "tmdb_id": 951491,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a134acbd6f0c4652220ac180ef10451c001dbcc1"
@@ -2091,6 +2861,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b65ea8a0e512d0d54a3449f3955fcf1914642a22"
         },
         {
+            "tmdb_id": 203217,
+            "title": "Minha Mãe é uma Peça: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5278b53d1db2232581b3635a9353f43b7642841c"
+        },
+        {
+            "tmdb_id": 12405,
+            "title": "Quem Quer Ser um Milionário?",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff74fb667811f18612fbdbc3e8ea91ebdb0435a0"
+        },
+        {
+            "tmdb_id": 726759,
+            "title": "Tetris",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ddd7b9d5ac5ef0864bab49071d9e89137dc09b"
+        },
+        {
+            "tmdb_id": 123025,
+            "title": "Batman: O Cavaleiro das Trevas, Parte 1",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca09c8e984079d87257db6a7071160a1e449daad"
+        },
+        {
+            "tmdb_id": 613868,
+            "title": "Primos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58c9175018e60824fac447551f96ecf0dbc175dc"
+        },
+        {
             "title": "Setor 36",
             "tmdb_id": 1245700,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fc9cf96b7ee93381ee7d7588b1b67a3e275deec0"
@@ -2136,6 +2931,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=eb0d759e1d707788053d6e385d8f9968572b88c1"
         },
         {
+            "tmdb_id": 13466,
+            "title": "O Céu de Outubro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b56f899f3f72f6771cd99801c24f2fac891db5"
+        },
+        {
+            "tmdb_id": 502326,
+            "title": "Super Mario Bros. O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8dabec387da716d75bc9b2f41d302c4d7b136"
+        },
+        {
+            "tmdb_id": 537116,
+            "title": "tick, tick...BOOM!",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0e109122128359d6589ce1b29d482369213c287"
+        },
+        {
+            "tmdb_id": 581577,
+            "title": "Uma Lição de Esperança",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef7c8f357b4c5b679ba5b4b7c90dafc568af9509"
+        },
+        {
             "title": "After",
             "tmdb_id": 537915,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=064b830637bf204c83d2b7809ba2142c04960d7d"
@@ -2149,6 +2964,31 @@
             "title": "Assassinos da Lua das Flores",
             "tmdb_id": 466420,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d8c3b9878ef4c872e0c824cc118e887faa55fa7b"
+        },
+        {
+            "tmdb_id": 736073,
+            "title": "Batman: O Longo Dia das Bruxas - Parte 1",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0455f49c4608e9376cfdd747aff98cf32c6c3bd4"
+        },
+        {
+            "tmdb_id": 374720,
+            "title": "Dunkirk",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d08143dcdad235e44034d3f3bd677042820743f9"
+        },
+        {
+            "tmdb_id": 8741,
+            "title": "Além da Linha Vermelha",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b"
+        },
+        {
+            "tmdb_id": 76758,
+            "title": "Flores do Oriente",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65e9335f95d99a9afc119655f0c6c5099fd02791"
+        },
+        {
+            "tmdb_id": 768362,
+            "title": "Desaparecida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f0eb0c19225b5ff82777595d1c10f733287fa24"
         },
         {
             "title": "O Homem de Aço",
@@ -2166,6 +3006,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bbe71e956c11a342fd430cd49eb82008086ae636"
         },
         {
+            "tmdb_id": 8358,
+            "title": "Náufrago",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ef2cc9a65bdb4c95b95e568da5bfe510ad60cfc"
+        },
+        {
+            "tmdb_id": 869626,
+            "title": "Marcel, a Concha de Sapatos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:493bbaa9c3d0174184c13625bef12b8199223f74"
+        },
+        {
+            "tmdb_id": 100402,
+            "title": "Capitão América 2: O Soldado Invernal",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f84faa636687e86d2f0cc13019bf602706a329a4"
+        },
+        {
+            "tmdb_id": 227932,
+            "title": "Minha Mãe é uma Peça 2: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbe2c8478a5a88f4aa95c678149451ac93cf752f"
+        },
+        {
             "title": "Jumanji: Proxima Fase",
             "tmdb_id": 512200,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e2068479ae4ab76e6938766800cd7c64a2f66470"
@@ -2181,6 +3041,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b7a47192374abeb467f9f24c1c47c8ddb23c7809"
         },
         {
+            "tmdb_id": 239571,
+            "title": "O Melhor de Mim",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2870e0c28d37e6ac9f6f0f44f2dadd89fde08fc5"
+        },
+        {
             "title": "Meu Malvado Favorito 2",
             "tmdb_id": 93456,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a3e1bc9b7dfb2fbe662c8afc4bdc49b2d18898c1"
@@ -2189,6 +3054,21 @@
             "title": "Animais Fantasticos e Onde Habitam",
             "tmdb_id": 259316,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a438fdf841db95185b638ed2f9fe94ef0a5c826b"
+        },
+        {
+            "tmdb_id": 492188,
+            "title": "História de um Casamento",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63f516218b86b7bcfa548a47eeb37ae1170aab47"
+        },
+        {
+            "tmdb_id": 40662,
+            "title": "Batman: Contra o Capuz Vermelho",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eda861099e72f70ed7559042efb3473f1387ec89"
+        },
+        {
+            "tmdb_id": 938008,
+            "title": "O Matador: Missão Resgate",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a"
         },
         {
             "title": "Jogador N° 1",
@@ -2236,6 +3116,41 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4d21630d74e2fa4bac8f06b5a8d105495aa8d0a4"
         },
         {
+            "tmdb_id": 183011,
+            "title": "Liga da Justiça: Ponto de Ignição",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eef2742f1b0807abc3c359f506ab918f34c5963a"
+        },
+        {
+            "tmdb_id": 522402,
+            "title": "Finch",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3e18dbe7fde04e513a7998c0deee3d37e9dfb2"
+        },
+        {
+            "tmdb_id": 331482,
+            "title": "Adoráveis Mulheres",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34ef610e99851b7c4a29a8ffa14884146aa9dc23"
+        },
+        {
+            "tmdb_id": 522212,
+            "title": "Luta por Justiça",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e43f62f7e9ff61246319cb3270fd181f3d5fea56"
+        },
+        {
+            "tmdb_id": 354857,
+            "title": "Apenas um Show: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ccf7dcdeb832fbf501c909318c032c9fbdec30"
+        },
+        {
+            "tmdb_id": 393,
+            "title": "Kill Bill: Volume 2",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d30d104f2ca7a4a3bbf90eb3afb27aa027a223b"
+        },
+        {
+            "tmdb_id": 265195,
+            "title": "Relatos Selvagens",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522309da30e2aa2e894c05c67068cfcfb1972690"
+        },
+        {
             "title": "The Last: Naruto O Filme",
             "tmdb_id": 317442,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e49edc319decc7b1920243b0e8c27729a8b39d1f"
@@ -2254,6 +3169,11 @@
             "title": "Rebel Moon - Parte 1: A Menina do Fogo",
             "tmdb_id": 848326,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=95d54a30f26814ee98388e0351482f4005ed9785"
+        },
+        {
+            "tmdb_id": 1585,
+            "title": "A Felicidade Não Se Compra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc1bd737014ea7ea75adf2ce2b535bdb9f718c0"
         },
         {
             "title": "Hereditario",
@@ -2391,6 +3311,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4d2f76d264aa82b7507c8d4f8470c75f69ac34bb"
         },
         {
+            "tmdb_id": 7984,
+            "title": "Em Nome do Pai",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28f35fad77067f56a0ceb82967123654e45d0aa8"
+        },
+        {
             "tmdb_id": 337339,
             "title": "Velozes e Furiosos 8",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e095633ee80a182baa478443f05b3235787c1733"
@@ -2419,6 +3344,21 @@
             "tmdb_id": 57158,
             "title": "O Hobbit: A Desolaçao de Smaug",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=772d41bb4cbed37e5eef45a22ba372d0f3ecd4a2"
+        },
+        {
+            "tmdb_id": 22881,
+            "title": "Um Sonho Possível",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0da208ad3008fb43224b3e97b842ae8e3362b37"
+        },
+        {
+            "tmdb_id": 522627,
+            "title": "Magnatas do crime",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c3aac596db4ff650e93cc0fb4c924256273798"
+        },
+        {
+            "tmdb_id": 965150,
+            "title": "aftersun",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2535943c572df924c372b5f8511843e7f8f43c04"
         },
         {
             "tmdb_id": 254128,
@@ -2481,6 +3421,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=49fb4aca0cf0a744cee0af8f208d25e7098647d3"
         },
         {
+            "tmdb_id": 502033,
+            "title": "O Som do Silêncio",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74f2fbaca4551e1e6deec725fba63ae0f123d126"
+        },
+        {
+            "tmdb_id": 770254,
+            "title": "Próxima Parada: Lar Doce Lar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:057e2a3bd168c0516e9b604ff8fe9517704485aa"
+        },
+        {
+            "tmdb_id": 96721,
+            "title": "Rush: No Limite da Emoção",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765ede7e420b512d5466c0f6143848a5131d48f2"
+        },
+        {
+            "tmdb_id": 406589,
+            "title": "Sapatinho Vermelho e os Sete Anões",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0f569f4eb59684bebf65f432515188452157d4e"
+        },
+        {
+            "tmdb_id": 9800,
+            "title": "Filadélfia",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8c529f60c2fe656cc8d82445c1519daacccab55"
+        },
+        {
             "tmdb_id": 820525,
             "title": "After: Para Sempre",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=aaf88f0c860762fcedf8a31e987a732722f1e507"
@@ -2511,6 +3476,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1c490f97f49055af4927b2b23197eecc15c7d014"
         },
         {
+            "tmdb_id": 585511,
+            "title": "Sorte",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cde288af13a3060d718d1b60993395d6a7ca8255"
+        },
+        {
             "tmdb_id": 845783,
             "title": "A Bruxa dos Mortos: Baghead",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=81192fa6363aec5e575eb55950f4beea724a2332"
@@ -2536,9 +3506,9 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8b3e05c683ba8b8b356b272f4b519b51d84d3b05"
         },
         {
-            "tmdb_id": 245891,
-            "title": "John Wick: De Volta ao Jogo",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=29dec5ec6302c8521a394a193bfdc3f68d2d8459"
+            "tmdb_id": 378064,
+            "title": "A Voz do Silencio",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
         },
         {
             "tmdb_id": 373571,
@@ -2569,6 +3539,26 @@
             "tmdb_id": 35,
             "title": "Os Simpsons: O Filme",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=250cda25b5a06b57ede14890d703bd5c26b845e6"
+        },
+        {
+            "tmdb_id": 785534,
+            "title": "Filhos de Istambul",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:399d9a2c2fd4afb033e6ebd339acd4a501d70697"
+        },
+        {
+            "tmdb_id": 120467,
+            "title": "O Grande Hotel Budapeste",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9162b814927f47cb3f613fedbf5f02daa87cd96"
+        },
+        {
+            "tmdb_id": 906126,
+            "title": "A Sociedade da Neve",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14496cae5ba4c17c50e254e9d0ec2f6e8d8e1f79"
+        },
+        {
+            "tmdb_id": 310569,
+            "title": "Que Horas Ela Volta?",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b2713c5204b6ca80f8e5adfaf5d16d90431e1b7"
         },
         {
             "tmdb_id": 758679,
@@ -2696,6 +3686,46 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=85c4ff508e6eb5600c7ddfbe0d554c548efd376a"
         },
         {
+            "tmdb_id": 161,
+            "title": "Onze Homens e um Segredo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35018c195bd00ce0162087f27531bb4b91590f99"
+        },
+        {
+            "tmdb_id": 376290,
+            "title": "Armas na Mesa",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b18ba569efe6fe1953085cf9614ed66f49fb42a"
+        },
+        {
+            "tmdb_id": 617653,
+            "title": "O Último Duelo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db2f525c3db93b0133054bca2a8a13b0dbf33e15"
+        },
+        {
+            "tmdb_id": 531428,
+            "title": "Retrato de uma Jovem em Chamas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a018551a86f7116ead5e95f97f45297c7d3d152f"
+        },
+        {
+            "tmdb_id": 663558,
+            "title": "Nezha: O Renascer de um Deus",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a16e9d75aa651a9baf71d80a518c7fe486c06d3e"
+        },
+        {
+            "tmdb_id": 411088,
+            "title": "Um Contratempo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7dedb6eef8f6b4d1067dd5a7017a1d2d0084d50"
+        },
+        {
+            "tmdb_id": 666,
+            "title": "Central do Brasil",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dddab9f0c90c94a9f36d5a8fe7ba4a28666a3b49"
+        },
+        {
+            "tmdb_id": 664767,
+            "title": "Mortal Kombat Legends: A Vingança de Scorpion",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6fc6def57c66b05de0a45656b9bf7bd01fee75"
+        },
+        {
             "tmdb_id": 1212073,
             "title": "60 Minutos",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bde9d5565b3c6f40c15c1a2b7de17033aa90b652"
@@ -2721,9 +3751,34 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6f455e3261d3daa86857abf356ff7739b2802d2b"
         },
         {
+            "tmdb_id": 18925,
+            "title": "Desafiando Gigantes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf7a2dd148f13190403db09b1d9777c46c0b9b0"
+        },
+        {
             "tmdb_id": 640146,
             "title": "Homem-Formiga e a Vespa: Quantumania",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=feffd8044594b2663198a8f1bc479f411e32947c"
+        },
+        {
+            "tmdb_id": 500,
+            "title": "Cães de Aluguel",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a43a248b870b2a7775e266e6302b3d4bc654d194"
+        },
+        {
+            "tmdb_id": 600354,
+            "title": "Meu Pai",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6072440afaf785cacd4f7025a59f47a2141a26a6"
+        },
+        {
+            "tmdb_id": 100,
+            "title": "Jogos, Trapaças e Dois Canos Fumegantes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:112ee66f1e6b4c2486e384f4b4179a76745e8c47"
+        },
+        {
+            "tmdb_id": 518068,
+            "title": "Along With the Gods: The Last 49 Days",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5dab8b3513d104c71124a393d3802154aa45699"
         },
         {
             "tmdb_id": 581528,
@@ -2766,6 +3821,36 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9870efaabf0143d9701a17a2bc97278d8ab26082"
         },
         {
+            "tmdb_id": 931102,
+            "title": "Bons Companheiros",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c778e10fca7458887b264da4ef373cb3d32d5b2"
+        },
+        {
+            "tmdb_id": 582014,
+            "title": "Bela Vingança",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f72abcb48c7342af06064cfdeeea92d60a78ed4"
+        },
+        {
+            "tmdb_id": 227306,
+            "title": "Invencível",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22f6d8933fc0b60c543ed1fd82988674b9f85505"
+        },
+        {
+            "tmdb_id": 462,
+            "title": "Erin Brockovich: Uma Mulher de Talento",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e260d6421b4af4013de26ab3490ee02869f88504"
+        },
+        {
+            "tmdb_id": 828613,
+            "title": "Destinos Traçados",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8bae41e1391620e7572b2e107be589144aae39"
+        },
+        {
+            "tmdb_id": 660000,
+            "title": "Ilusões Perdidas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:625fdea1eee7d98038a6ad05ec4f2c62ed51c964"
+        },
+        {
             "tmdb_id": 534,
             "title": "O Exterminador do Futuro: A Salvaçao",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0"
@@ -2774,6 +3859,21 @@
             "tmdb_id": 111,
             "title": "Scarface",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=79313f22e1758c81eed978f634952ebc52c73473"
+        },
+        {
+            "tmdb_id": 1422,
+            "title": "Os Infiltrados",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd375ecb11607aee731ae800c3a8619c4797829"
+        },
+        {
+            "tmdb_id": 872,
+            "title": "Cantando na Chuva",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ba71983986f6bbf7aced35d3ea277bb6ef00da"
+        },
+        {
+            "tmdb_id": 289,
+            "title": "Casablanca",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d2f460a0ffa3b4c5920139c4437acb88ce7ca98"
         },
         {
             "tmdb_id": 868759,
@@ -2794,6 +3894,36 @@
             "tmdb_id": 214,
             "title": "Jogos Mortais III",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=664be3625e7a82abae23186129355b9c623e34dd"
+        },
+        {
+            "tmdb_id": 152601,
+            "title": "Ela",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f8bd23ee2a6b4f808b15cb19bec970bd18329b"
+        },
+        {
+            "tmdb_id": 266856,
+            "title": "A Teoria de Tudo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80037432556246c8f6539271ea842a4822148595"
+        },
+        {
+            "tmdb_id": 59440,
+            "title": "Guerreiro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bad9b37b00ed80533a9293970f3be12a557bf9f0"
+        },
+        {
+            "tmdb_id": 24238,
+            "title": "Mary e Max: Uma Amizade Diferente",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f7ef7a8e37e066251cae52a2aaf11fd89d0c29c"
+        },
+        {
+            "tmdb_id": 573164,
+            "title": "Cantando de Galo: O Resgate dos Ovinhos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:479689abec09a58955d21fcb00ec4a6efc7cee06"
+        },
+        {
+            "tmdb_id": 89,
+            "title": "Indiana Jones e a Última Cruzada",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3ea9934af8beda99d3af8f842917e418a79a30"
         },
         {
             "tmdb_id": 21208,
@@ -2886,6 +4016,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=efa6c8720f30841588423192e90e383df17f9087"
         },
         {
+            "tmdb_id": 795514,
+            "title": "A Vida Depois",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cf19a3528222d49134108ed7cebab9fe3bd398c"
+        },
+        {
+            "tmdb_id": 466282,
+            "title": "Para Todos os Garotos que Já Amei",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bbf76f611e12923d7af506155d1f7b5d5f13e61"
+        },
+        {
             "tmdb_id": 442249,
             "title": "A Primeira Noite de Crime",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7a99a58e387faed9e1fea80d8667fe0d921e56d5"
@@ -2916,6 +4056,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4f75022c9acdd5f88795f1b448f7b34633165fcf"
         },
         {
+            "tmdb_id": 5123,
+            "title": "O Som do Coração",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a77e56e9226618f080e324bed5bb2718a7ab14f"
+        },
+        {
+            "tmdb_id": 874300,
+            "title": "South Park: Pós-Covid - A Volta Da Covid",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97ab66f3985a1cba0de10d1f866e326c0cbc2545"
+        },
+        {
             "tmdb_id": 459003,
             "title": "Mavka: Aventura na Floresta",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=742b09bb6c6de3bf59098ba9fd16024f4a5f01a3"
@@ -2929,6 +4079,31 @@
             "tmdb_id": 80321,
             "title": "Madagascar 3: Os Procurados",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4bdcf068bb98c3410b64f733585cee0268c829c1"
+        },
+        {
+            "tmdb_id": 568160,
+            "title": "O Tempo com Você",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da22716a9c4929bacffd1ba22d563d63fc0ccfc0"
+        },
+        {
+            "tmdb_id": 530915,
+            "title": "1917",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f6a4abd9c8f25fc5b7b97b319c7569e50d2cc78"
+        },
+        {
+            "tmdb_id": 13223,
+            "title": "Gran Torino",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36ed9f0c6f82737cd8ba227f32b31fc0a5143f0f"
+        },
+        {
+            "tmdb_id": 424694,
+            "title": "Bohemian Rhapsody",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc34b81dbbd5d94709809d3ac54c1b4f2651245"
+        },
+        {
+            "tmdb_id": 1050035,
+            "title": "Monstro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db93b444bdb0ec97a87930716c89ecc0064267ab"
         },
         {
             "tmdb_id": 1040148,
@@ -2986,6 +4161,66 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=06ae52b178e42b81596162cab5fb513d1d20b971"
         },
         {
+            "tmdb_id": 221732,
+            "title": "Samurai X 3: O Fim de Uma Lenda",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:273e5d3afe2bb1395953281f66d081eb8820e175"
+        },
+        {
+            "tmdb_id": 242582,
+            "title": "O Abutre",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:323b3deaa0d269d8eccf50721c6c109fb97f3a0c"
+        },
+        {
+            "tmdb_id": 539517,
+            "title": "Constantine: Cidade de Demônios",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d505e95d5d6c57238ead2eaaeeaef157cf6cf7"
+        },
+        {
+            "tmdb_id": 352173,
+            "title": "A Chantagem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db60f9630d971c4a10f0f223fad54754f49fa1c8"
+        },
+        {
+            "tmdb_id": 51608,
+            "title": "O Homem de Lugar Nenhum",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e923b4a023c0e4e5096e1871e3272a772c1cf432"
+        },
+        {
+            "tmdb_id": 44214,
+            "title": "Cisne Negro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda8c9ec9e015fe90816543f3d9416d1bbc4484e"
+        },
+        {
+            "tmdb_id": 508439,
+            "title": "Dois Irmãos: Uma Jornada Fantástica",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b838c00015a17e5eda64cf96d65d349d3453cd82"
+        },
+        {
+            "tmdb_id": 13830,
+            "title": "Conexão Jamaica",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:187933fd19266f6bd64305ba12a746873e54dd58"
+        },
+        {
+            "tmdb_id": 2493,
+            "title": "A Princesa Prometida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3cc52cbeb8da69bf3eff379b2e7e7437e91fb09"
+        },
+        {
+            "tmdb_id": 573699,
+            "title": "A Lenda da Serpente",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1"
+        },
+        {
+            "tmdb_id": 446159,
+            "title": "Bacurau",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e797253ecd411513e22c2f2939bcc3f5954bc480"
+        },
+        {
+            "tmdb_id": 773,
+            "title": "Pequena Miss Sunshine",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fc2b992016584a7927b213c179f50d61f57e6b9"
+        },
+        {
             "tmdb_id": 162,
             "title": "Edward Maos de Tesoura",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0bcb68483e3a4a2575bfc6727b2225abe70af25c"
@@ -2999,6 +4234,46 @@
             "tmdb_id": 1417,
             "title": "O Labirinto do Fauno",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bf396db2434e464591d5b9be899ed43640ec662b"
+        },
+        {
+            "tmdb_id": 1700,
+            "title": "Louca Obsessão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:846652af3e1d71c4478afa9f2fbfd417f761cc5f"
+        },
+        {
+            "tmdb_id": 705861,
+            "title": "Arremessando Alto",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab71c9c4b0a5e08fc32533f4a2eae57e3ca355"
+        },
+        {
+            "tmdb_id": 14756,
+            "title": "O Grande Mestre",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940bbde8394619b94bb2d1df0a76cc70c413639c"
+        },
+        {
+            "tmdb_id": 1002185,
+            "title": "A Milhões de Quilômetros",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4935c5f0ebcc6077cd876b2a6a9e55882a42396"
+        },
+        {
+            "tmdb_id": 674324,
+            "title": "Os Banshees de Inisherin",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a0867a18440a37a307e5052c9b0dc18a986132b"
+        },
+        {
+            "tmdb_id": 37472,
+            "title": "O Grande Mestre 2",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e066caa58a4674f1d5646aad3b55ddfb565e655"
+        },
+        {
+            "tmdb_id": 187,
+            "title": "Sin City: A Cidade do Pecado",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:299a0a816c4c91f169fbec0365d8dd3e94acabda"
+        },
+        {
+            "tmdb_id": 10229,
+            "title": "Um Amor para Recordar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69835e6500a7dd20ab66f18496a20d19174881c1"
         },
         {
             "tmdb_id": 602223,
@@ -3096,9 +4371,24 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=080e32e4052fc90f7bd5932e7d4ca82c036b2743"
         },
         {
+            "tmdb_id": 419478,
+            "title": "Sol da Meia-noite",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b496ab0d7a75b705d60f488cc3ff74fb930a4a2"
+        },
+        {
+            "tmdb_id": 680813,
+            "title": "Flee: Nenhum Lugar Para Chamar de Lar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cd7f2fbc6d816e4e3d103313e508c7b9506cf30"
+        },
+        {
             "tmdb_id": 20504,
             "title": "O Livro de Eli",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=719209bc4d203898e21da82a4c98c3a1225d527e"
+        },
+        {
+            "tmdb_id": 290098,
+            "title": "A Criada",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b4b1ce7366058c62857b2c339ab3a275525e8e4"
         },
         {
             "tmdb_id": 46195,
@@ -3131,8 +4421,23 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c6b5f87a19dadd3c75eb2745816e41f7ac9fa0c3"
         },
         {
+            "tmdb_id": 7345,
+            "title": "Sangue Negro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cf76488a473038c4fb5a8d7729fd46b267d5067"
+        },
+        {
+            "tmdb_id": 550776,
+            "title": "Acredite em Mim: A História de Lisa Mcvey",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2b7a21cc1362940d11652172883f4004a393c6"
+        },
+        {
+            "tmdb_id": 397567,
+            "title": "Along with the Gods: The Two Worlds",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee5501d61bace2e510afcf26c1d5221112fa310"
+        },
+        {
             "tmdb_id": 158015,
-            "title": "Uma Noite de Crimea848e1451432a78782e670121189303b651c13b4",
+            "title": "Uma Noite de Crime",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f5a7bc0bbb35df53d978c1ee57db8f4b1e0923a2"
         },
         {
@@ -3144,6 +4449,26 @@
             "tmdb_id": 101,
             "title": "O Profissional",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8948dba6716b235fbc7d6c096117d005816f128e"
+        },
+        {
+            "tmdb_id": 207,
+            "title": "Sociedade dos Poetas Mortos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:411b279c5b2fc3670513f6374b724c1102e9e622"
+        },
+        {
+            "tmdb_id": 10494,
+            "title": "Perfect Blue",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:687aec17b2c029e423b5ad999a4fd804f723f5ae"
+        },
+        {
+            "tmdb_id": 599,
+            "title": "Crepúsculo dos Deuses",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e29adae87e863cb4a70df40c6497c80e3fe1801"
+        },
+        {
+            "tmdb_id": 914,
+            "title": "O Grande Ditador",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df6fcd40a4acabf3af53e636b9e37e8fbe024a4"
         },
         {
             "tmdb_id": 102899,
@@ -3159,6 +4484,31 @@
             "tmdb_id": 336843,
             "title": "Maze Runner: A Cura Mortal",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ca2f359ab3eeec0df1438a3fc0577a8d41bb178f"
+        },
+        {
+            "tmdb_id": 921655,
+            "title": "O Resgate de Ruby",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:debf2c33904a133cae63f36b29e33fd5288952b6"
+        },
+        {
+            "tmdb_id": 552332,
+            "title": "Dois Papas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b60a08d6c564fd4d1401096fa026126be02d4c4"
+        },
+        {
+            "tmdb_id": 40823,
+            "title": "O Homem Que Copiava",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d77ec7ff8ad809ba17fcd8be0a75315c05e742f"
+        },
+        {
+            "tmdb_id": 500664,
+            "title": "Upgrade: Atualização",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbcb5ba615a9af3063811c179b175ee0a103a79e"
+        },
+        {
+            "tmdb_id": 330459,
+            "title": "Rogue One: Uma História Star Wars",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34161a0ccf73f79ef482bd5b8b187cb92258c2bc"
         },
         {
             "tmdb_id": 1250,
@@ -3189,6 +4539,16 @@
             "tmdb_id": 18,
             "title": "O Quinto Elemento",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=df7ccf674ba3f86680a2f8ec0f2b32e561a444db"
+        },
+        {
+            "tmdb_id": 562,
+            "title": "Duro de Matar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6dbd1631351ad8f675f8232d1b44092492a29dd"
+        },
+        {
+            "tmdb_id": 149870,
+            "title": "Vidas ao Vento",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2be466ae3d42de3f444bac58637108f7454c99b3"
         },
         {
             "tmdb_id": 420808,
@@ -3296,6 +4656,21 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c460b6f60e5b7cfcd5f0e737a06efb6323951f8c"
         },
         {
+            "tmdb_id": 18491,
+            "title": "Neon Genesis Evangelion: O Fim do Evangelho",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b826376ede1237cb6d47d7df8d79c479aefd334e"
+        },
+        {
+            "tmdb_id": 335,
+            "title": "Era uma Vez no Oeste",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104"
+        },
+        {
+            "tmdb_id": 901,
+            "title": "Luzes da Cidade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51cd653ce9c2c7f4cfbb564138b3e2fa5d242b86"
+        },
+        {
             "tmdb_id": 1216512,
             "title": "Os Casagrandes: O Filme",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a69a4f26c657950d89d599e01743ded55c1cd0b1"
@@ -3314,6 +4689,11 @@
             "tmdb_id": 508442,
             "title": "Soul",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7666ae5568ac6eb440842d673d6b333243dce47e"
+        },
+        {
+            "tmdb_id": 470044,
+            "title": "O Ódio que Você Semeia",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc8d7d9bb3ca1c691b252b0283735e93b698c6d3"
         },
         {
             "tmdb_id": 44896,
@@ -3339,6 +4719,21 @@
             "tmdb_id": 6977,
             "title": "Onde os Fracos Nao Tem Vez",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0ac03a5e4f46d45eaf6b682800b868461da5cd97"
+        },
+        {
+            "tmdb_id": 37797,
+            "title": "Sussurros do Coração",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcdcb86e71118f2a914bc8a1f3df88b8ce340d3e"
+        },
+        {
+            "tmdb_id": 770,
+            "title": "...E o Vento Levou",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad042dc56bb602117106e020a7738080f2478ff"
+        },
+        {
+            "tmdb_id": 149,
+            "title": "Akira",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a5f0c603d827f115196fa9f703c9cc48cd57205"
         },
         {
             "tmdb_id": 359940,
@@ -3426,6 +4821,26 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1a037980022913d806cf9d640479d930c732b736"
         },
         {
+            "tmdb_id": 11321,
+            "title": "Sete Vidas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:662f709573d2ac63f49163281f6ef0f91507a42a"
+        },
+        {
+            "tmdb_id": 309809,
+            "title": "O Pequeno Príncipe",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ab1266a2800dfbc1fbec36dfe3eb1946ec9d611"
+        },
+        {
+            "tmdb_id": 650,
+            "title": "Os Donos da Rua",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a822f9f841c7e983bcdaf8892eeaf3ae0b745746"
+        },
+        {
+            "tmdb_id": 417261,
+            "title": "Para Sempre Minha Garota",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dcf85c90f1cdcfa138ecd25777b91d2579a07f0"
+        },
+        {
             "tmdb_id": 666277,
             "title": "Vidas Passadas",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8ab496d4416c276595b316efde3138edb6a49a49"
@@ -3434,6 +4849,16 @@
             "tmdb_id": 1053592,
             "title": "O Refem - Atentado em Madri",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=522ea39ec1cb4c6fb252e5dc776216008da1a133"
+        },
+        {
+            "tmdb_id": 609242,
+            "title": "O Roubo do Século",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec00353cfcb18c1ca41176ff1e486251108c2b9e"
+        },
+        {
+            "tmdb_id": 141,
+            "title": "Donnie Darko",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3e77db2575fe09df4bec017292f0a27b0e1e61"
         },
         {
             "tmdb_id": 17111,
@@ -3526,6 +4951,36 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=02e1a9ba00bbc8414530100b5f111e157eed21ef"
         },
         {
+            "tmdb_id": 1402,
+            "title": "À Procura da Felicidade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cfaf8c62cf18e5499eed6119c7192a3e8cfa9d6"
+        },
+        {
+            "tmdb_id": 698948,
+            "title": "Treze Vidas: O Resgate",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc65e601a0dcc5d709893d8acc8b20ddc4cd6831"
+        },
+        {
+            "tmdb_id": 1892,
+            "title": "Guerra nas Estrelas: O Retorno de Jedi",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11aaf674b591a765e57561d5b3120951bba7c71a"
+        },
+        {
+            "tmdb_id": 752,
+            "title": "V de Vingança",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05a9552e461e35f174f0b60bf16fa95f04127bd"
+        },
+        {
+            "tmdb_id": 610150,
+            "title": "Dragon Ball Super: Super Hero",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd866583a2e47f99cd09eaab98bd84b716ba5aa"
+        },
+        {
+            "tmdb_id": 961323,
+            "title": "Nimona",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0dffcc06eb30cab6205b69a86d47ed9dc703d64"
+        },
+        {
             "tmdb_id": 949423,
             "title": "Pearl: Uma Historia de Origem 'X'",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c159a27715f8634eec4bcb79fb919e356a2254c8"
@@ -3539,6 +4994,11 @@
             "tmdb_id": 522518,
             "title": "Juntos para Sempre",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=003c7437a35745491f151fc6efd0b5b6dbcfa7fa"
+        },
+        {
+            "tmdb_id": 334543,
+            "title": "Lion: Uma Jornada para Casa",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa8915ddc154ca5627bd97cc1a4da0d2e127c72e"
         },
         {
             "tmdb_id": 899112,
@@ -3571,6 +5031,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9566c89545bdf2ea489e72c456fb9c79708d188a"
         },
         {
+            "tmdb_id": 258480,
+            "title": "Carol",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51e4978ca55df74b3fc5b1f7de2d43aff4ba07db"
+        },
+        {
+            "tmdb_id": 203833,
+            "title": "A Menina que Roubava Livros",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b123a8b8f0c2c5e6de17a4e7f52e7284302931b9"
+        },
+        {
             "tmdb_id": 567189,
             "title": "Sem Remorso",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9e0f71242d2aa553938915d6245cab9401620cc1"
@@ -3579,6 +5049,11 @@
             "tmdb_id": 747,
             "title": "Todo Mundo Quase Morto",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5edf95f05b142f741cd9e3da6382287f08d71894"
+        },
+        {
+            "tmdb_id": 682507,
+            "title": "Um Lugar Bem Longe Daqui",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3e478ceb8f6700fcbaa68b6afdf79862fdaf02"
         },
         {
             "tmdb_id": 82695,
@@ -3621,6 +5096,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9dc589d9de705a9c50fca7198ef9223afe5f428e"
         },
         {
+            "tmdb_id": 618344,
+            "title": "Liga da Justiça Sombria: Guerra de Apokolips",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:466d4e943260eb8736a4bc3d29a1cc27bb6ec09b"
+        },
+        {
+            "tmdb_id": 441130,
+            "title": "Wolfwalkers",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79c3f29c66648c4378b1aa72093649ce4c40f9ce"
+        },
+        {
             "tmdb_id": 508965,
             "title": "Klaus",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=800605ba5c956d03b9948097a664ffaabdc22e1c"
@@ -3629,6 +5114,11 @@
             "tmdb_id": 431693,
             "title": "Um Espiao Animal",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b020469af43761836e7c7ffdae0e7c2b21dc4ed8"
+        },
+        {
+            "tmdb_id": 4951,
+            "title": "10 Coisas Que Eu Odeio em Você",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cab94bcc8ab96128e28d55856f07ed910e0e53f0"
         },
         {
             "tmdb_id": 560044,
@@ -3776,9 +5266,54 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b4900cc864edd0aaf288cfc447c921cb7a6d4a72"
         },
         {
+            "tmdb_id": 37165,
+            "title": "O Show de Truman: O Show da Vida",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f29d6d251f491c98ae7579fd050760a82bc24915"
+        },
+        {
+            "tmdb_id": 579245,
+            "title": "Mais que Especiais",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c159620331c20b60becf810387210bf4b74f1ca4"
+        },
+        {
+            "tmdb_id": 115,
+            "title": "O Grande Lebowski",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd026e93d8d6a09b198dcf25ba8304de12ac5d3"
+        },
+        {
+            "tmdb_id": 14574,
+            "title": "O Menino do Pijama Listrado",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916d5e4758a74eb6596e59c9f13d6b5cb91e575d"
+        },
+        {
+            "tmdb_id": 968,
+            "title": "Um Dia de Cão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cea36319e8bfcf0a101206d17e993158288e0140"
+        },
+        {
+            "tmdb_id": 391,
+            "title": "Por um Punhado de Dólares",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c3d705b86e555d651b35a7f450db11426eae9cd"
+        },
+        {
+            "tmdb_id": 406997,
+            "title": "Extraordinário",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb9db5e94ffbcb6ad5418796b447c41beaa1ea23"
+        },
+        {
+            "tmdb_id": 398818,
+            "title": "Me Chame Pelo Seu Nome",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486544904f53dde848ecbce13dcc546c2ed57aaf"
+        },
+        {
             "tmdb_id": 2109,
             "title": "A Hora do Rush",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e71015830aa1e5266fd21867864796f04dd13ec8"
+        },
+        {
+            "tmdb_id": 458220,
+            "title": "Palmer",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae9fb02301be2287aac03cf4049506b33e9e7848"
         },
         {
             "tmdb_id": 495764,
@@ -3831,6 +5366,56 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c52da55739a2229b4cbad0023d9cf49afa9c5a7c"
         },
         {
+            "tmdb_id": 152532,
+            "title": "Clube de Compras Dallas",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3cf6591e7356c20bcb00a5484bd80c2e38f0ad"
+        },
+        {
+            "tmdb_id": 920394,
+            "title": "O Violino do Meu Pai",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1886a18fbccfc9966f788bddc3e8f3bddd5da3be"
+        },
+        {
+            "tmdb_id": 122906,
+            "title": "Questão de Tempo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b02e99ceb43a150498f9028cb259ca6c899c6d18"
+        },
+        {
+            "tmdb_id": 1092,
+            "title": "O Terceiro Homem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:074be130981dc339c6fb70a5e711f30bac210169"
+        },
+        {
+            "tmdb_id": 1646,
+            "title": "Escritores da Liberdade",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:965aa0b5393b3313cdd5653fca844d7d34dbe314"
+        },
+        {
+            "tmdb_id": 949,
+            "title": "Fogo Contra Fogo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a29c40433798d7100ea06b5289fb4b31ec5d47"
+        },
+        {
+            "tmdb_id": 407806,
+            "title": "A 13ª Emenda",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382249404793a3de26d018414943d8a24b650943"
+        },
+        {
+            "tmdb_id": 829,
+            "title": "Chinatown",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ba15a2a7c1e0a5754ee68b4407f55b770b9995"
+        },
+        {
+            "tmdb_id": 491480,
+            "title": "O Menino que Descobriu o Vento",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aecf2eda1281c3978156aa706a99c025a8107d13"
+        },
+        {
+            "tmdb_id": 142061,
+            "title": "Batman: O Cavaleiro das Trevas, Parte 2",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d50e61a01d579f666938fda06d1fc7f53f6ce0"
+        },
+        {
             "tmdb_id": 321612,
             "title": "A Bela e a Fera",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=93dcb26ec47b61c22aa1c46009ce2a14ab5aedab"
@@ -3874,6 +5459,11 @@
             "tmdb_id": 510,
             "title": "Um Estranho no Ninho",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4e1a0ad8e9547022e99825fb3a840ea9fed3cdde"
+        },
+        {
+            "tmdb_id": 311,
+            "title": "Era Uma Vez na América",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c51fdb149b432919fc402dc4c94ff1478c19e09"
         },
         {
             "tmdb_id": 338952,
@@ -3946,6 +5536,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7600e9b66e02b661b6f1cda3755b1eaaa604ad20"
         },
         {
+            "tmdb_id": 2503,
+            "title": "O Ultimato Bourne",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab2c5136cd3bb0ac98475e2cfbe3745b231f3649"
+        },
+        {
+            "tmdb_id": 166666,
+            "title": "3096 Dias de Cativeiro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:809a454b17dad9274df0313b2cbf58c7bb67b230"
+        },
+        {
             "tmdb_id": 397243,
             "title": "A Autopsia",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1fc77faba01e30768b3aff6035f61950a8489c21"
@@ -3996,6 +5596,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7da5276c2d4a3a19b718541f8f3a4e8de3907e80"
         },
         {
+            "tmdb_id": 76203,
+            "title": "12 Anos de Escravidão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6a44fbb9ba5f09fa8390e3bf5da91e9675a235a"
+        },
+        {
             "tmdb_id": 41283,
             "title": "Rapida Vingança",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fee0d292648fde87e5855e0b9bb1c71401a19215"
@@ -4041,9 +5646,34 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=de51166d838351106de65b42cf148433508e71ac"
         },
         {
+            "tmdb_id": 228205,
+            "title": "Uma longa jornada",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7fbed2096be6eb795dbd04fc279b202ef3f8394"
+        },
+        {
+            "tmdb_id": 736069,
+            "title": "Sociedade da Justiça: 2ª Guerra Mundial",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:007915544ec817af126a0516002aa37360b79b1c"
+        },
+        {
+            "tmdb_id": 585244,
+            "title": "Enquanto Estivermos Juntos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1df5b037f9e81a4750b3835231f7d8de17cfbce"
+        },
+        {
+            "tmdb_id": 9693,
+            "title": "Filhos da Esperança",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3509bc9747244ee9216e19cbef0b5d6187234262"
+        },
+        {
             "tmdb_id": 698508,
             "title": "Amor de Redençao",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=15a3276e195aa79d00e04ee198be486badea1851"
+        },
+        {
+            "tmdb_id": 581,
+            "title": "Dança com Lobos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6be178ba3e7cf9218e36b631b079efacd95a50b"
         },
         {
             "tmdb_id": 974931,
@@ -4079,6 +5709,16 @@
             "tmdb_id": 7131,
             "title": "Van Helsing: O Caçador de Monstros",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=91fdf129560b175c5808f54e882a2cefd4e4421e"
+        },
+        {
+            "tmdb_id": 103663,
+            "title": "A Caça",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77bf2a106d6a141e450576391f2f3c75a8ba84d4"
+        },
+        {
+            "tmdb_id": 705,
+            "title": "A Malvada",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d62903dce83fb09c501183ab77e4bb9fb1a572a"
         },
         {
             "tmdb_id": 329,
@@ -4156,6 +5796,46 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=81ad95e184dd5ce22cc5fcfda37059c5a1140197"
         },
         {
+            "tmdb_id": 580175,
+            "title": "Druk: Mais uma Rodada",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c992c20b67dbd8024daa8fb3a39fce935afe852e"
+        },
+        {
+            "tmdb_id": 627725,
+            "title": "O Banqueiro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8102688088d98186129b0e6acf10355815345e7f"
+        },
+        {
+            "tmdb_id": 428942,
+            "title": "Sementes Podres",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0628141547f6fca11d2976af53e983e1e20de17f"
+        },
+        {
+            "tmdb_id": 74308,
+            "title": "O Substituto",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daac2ef7e1ee830db939292e826523831b2b5ff8"
+        },
+        {
+            "tmdb_id": 19101,
+            "title": "A Princesinha",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd1b25f9e312203f0e9eff82f45d40e55a64e77e"
+        },
+        {
+            "tmdb_id": 4995,
+            "title": "Boogie Nights: Prazer Sem Limites",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c617240ff6ecd9f211acebc586c1b7907cd1ce"
+        },
+        {
+            "tmdb_id": 1027014,
+            "title": "Entergalactic",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d88b94aef9d1c16ed5137dbc4f2d10fe766cc73"
+        },
+        {
+            "tmdb_id": 14438,
+            "title": "À Prova de Fogo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e259806e57e81960565d0f67aa337a048721cf7"
+        },
+        {
             "tmdb_id": 276907,
             "title": "Lendas do Crime",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5323e7d7fff319f61d6c16d187f7cecd34ab0011"
@@ -4211,6 +5891,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1e465f4e90c484812b27fde2c11c7791be86814f"
         },
         {
+            "tmdb_id": 771,
+            "title": "Esqueceram de Mim",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32c82f4255d562a1d3cb294e29a3ba7d1c35c766"
+        },
+        {
+            "tmdb_id": 382748,
+            "title": "A Extraordinária Garota Chamada Estrela",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+        },
+        {
             "tmdb_id": 43947,
             "title": "Doce Vingança",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f11b8355ff6764b7db5b4eed36006d004afbe5d"
@@ -4241,6 +5931,36 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=346345ff9f981efb57b20a209db764aeadd90fac"
         },
         {
+            "tmdb_id": 87827,
+            "title": "As Aventuras de Pi",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0377e1536c153d7013b13f025723ec459cab99ea"
+        },
+        {
+            "tmdb_id": 675445,
+            "title": "Patrulha Canina: O Filme",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fa99454521a94906431524f2bc2c60d6c92a631"
+        },
+        {
+            "tmdb_id": 25934,
+            "title": "Ao Mestre, Com Carinho",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3f14a4c43464f25c43c5d748d75a24f8ed5100d"
+        },
+        {
+            "tmdb_id": 552095,
+            "title": "Patrulha Canina: Super Filhotes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a82a31468dbc59863ee6da136d1cbaece1d7433"
+        },
+        {
+            "tmdb_id": 660120,
+            "title": "A Pior Pessoa do Mundo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b919aa11ccaeb47f3c6e138e775644696aebd4"
+        },
+        {
+            "tmdb_id": 626871,
+            "title": "Alerta de Emergência",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d10b7d2e28ac0d59ff3142ef02d9885dcdb651a"
+        },
+        {
             "tmdb_id": 267935,
             "title": "O Bom Gigante Amigo",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1a2cf62717e1430d613ca41c651c339ecf1ad5f2"
@@ -4266,6 +5986,46 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=59a5012968c4c8f2779cc7746c1ce3f4af97463a"
         },
         {
+            "tmdb_id": 15,
+            "title": "Cidadão Kane",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5fd0e34ac5a9172c859f8f8c6c2d1138743a973"
+        },
+        {
+            "tmdb_id": 359724,
+            "title": "Ford vs Ferrari",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a082359a1eed769fa79722f305f3633df3737ef"
+        },
+        {
+            "tmdb_id": 11778,
+            "title": "O Franco Atirador",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a95cab8de2fd7ee1bbb73c30f2e031c4972aca"
+        },
+        {
+            "tmdb_id": 947,
+            "title": "Lawrence da Arábia",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45af1a942056bd256b8dcbb12c3d0268d52b0daa"
+        },
+        {
+            "tmdb_id": 524,
+            "title": "Cassino",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df370f2083807874ce64c48c446fd36bebb3b3d1"
+        },
+        {
+            "tmdb_id": 25376,
+            "title": "O Segredo dos seus Olhos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de872749b23cead6b4bfe3bf2ee5ed039179e14d"
+        },
+        {
+            "tmdb_id": 11658,
+            "title": "A Irmandade da Guerra",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3026d4530721d0c748c2cca4d96137550380e954"
+        },
+        {
+            "tmdb_id": 449176,
+            "title": "Com Amor, Simon",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73684d6e8cb722a779b996d8d6366166f6acc06a"
+        },
+        {
             "tmdb_id": 70160,
             "title": "Jogos Vorazes",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=015380b6afa40fde80c73e58591dbcf6804cadc1"
@@ -4286,6 +6046,21 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1eb7b0504219e8303306f779f7e6f9a5f5d4f863"
         },
         {
+            "tmdb_id": 871,
+            "title": "O Planeta dos Macacos",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750d1b4bcc6e631db3273825aa330cbadbd59fec"
+        },
+        {
+            "tmdb_id": 583083,
+            "title": "A Barraca do Beijo 2",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e12dd01c81c102b79b600350fd826ef091d730e9"
+        },
+        {
+            "tmdb_id": 4347,
+            "title": "Desejo e Reparação",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63796a3c5ebd2bb7f0e8ebfc780d52df6a1337a9"
+        },
+        {
             "tmdb_id": 194,
             "title": "O Fabuloso Destino de Amelie Poulain",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=28fe2f28999f9ab63fc2283999227785eb430b46"
@@ -4294,6 +6069,16 @@
             "tmdb_id": 10637,
             "title": "Duelo de Titas",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6b583c771cc2adfaab8f69881b168cea70e66a03"
+        },
+        {
+            "tmdb_id": 804095,
+            "title": "Os Fabelmans",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfd05289538794397b77259a16f4336585a65602"
+        },
+        {
+            "tmdb_id": 514439,
+            "title": "Superação: O Milagre da Fé",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12a33b9ecad4d3de40ac5bbc63bf2c471b4a483b"
         },
         {
             "tmdb_id": 60308,
@@ -4316,6 +6101,91 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a4f7b8f10cec03e5719085e9a8f4a044b7b14bde"
         },
         {
+            "tmdb_id": 1251,
+            "title": "Cartas de Iwo Jima",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbde91877464e51a528a57e0b0068b75bb7ff5d8"
+        },
+        {
+            "tmdb_id": 656690,
+            "title": "O Dilema das Redes",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e6c0ef8c68d0d56e3f9f678fc351fe2eed533c"
+        },
+        {
+            "tmdb_id": 529216,
+            "title": "Durante a Tormenta",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7525eace1a108aa7d6610447e6b1fd67907a9f"
+        },
+        {
+            "tmdb_id": 2501,
+            "title": "A Identidade Bourne",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ef8636d845ad45a4f8bb3605bb99fd2c86619ee"
+        },
+        {
+            "tmdb_id": 9665,
+            "title": "Tempo de Glória",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:963311ca1442f9fb26a7c067bfcc6acda58301f3"
+        },
+        {
+            "tmdb_id": 431580,
+            "title": "Abominável",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b3d9ab7a29d5cf31a8be4a7d18aa7c99383f316"
+        },
+        {
+            "tmdb_id": 5503,
+            "title": "O Fugitivo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95117a3eb292db13ce0c34da5d32239236f0c4ed"
+        },
+        {
+            "tmdb_id": 582,
+            "title": "A Vida dos Outros",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f98a09d71e33e10c29da60b622837383c510a2a"
+        },
+        {
+            "tmdb_id": 515001,
+            "title": "Jojo Rabbit",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db3ff40dce974c5b90895b51c07c35d3db295fe0"
+        },
+        {
+            "tmdb_id": 264644,
+            "title": "O Quarto de Jack",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1cf5951fb41a252827eb4d88bd67337b5e8d75"
+        },
+        {
+            "tmdb_id": 14,
+            "title": "Beleza Americana",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:783fe3217b56242360448767ccd3967d209556b3"
+        },
+        {
+            "tmdb_id": 938,
+            "title": "Por uns Dólares a Mais",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29a6c825ca652e24a8cb24fe30875eb8a30f4efb"
+        },
+        {
+            "tmdb_id": 641,
+            "title": "Réquiem para um Sonho",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68399af3ebb01651b4307bf4cc54d6dde43c6a37"
+        },
+        {
+            "tmdb_id": 678580,
+            "title": "El Mesero",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5277ca982cca9ba1993c830a8edede36965a47f"
+        },
+        {
+            "tmdb_id": 521,
+            "title": "Disque M para Matar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4bab672d179f0c63f3ed4154eedc888b2953faf"
+        },
+        {
+            "tmdb_id": 347688,
+            "title": "Scooby-Doo! e Kiss: O Mistério do Rock and Roll",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc8bbcb2469ff53d116f69d93e60bb7953c6a3a0"
+        },
+        {
+            "tmdb_id": 962232,
+            "title": "Depois do Universo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa467f6c22d07293e8bea52dde66af0fd196271"
+        },
+        {
             "tmdb_id": 9741,
             "title": "Corpo Fechado",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1c1902eace8a10e33c825dbfbbccb92f2d9466ae"
@@ -4334,6 +6204,16 @@
             "tmdb_id": 193756,
             "title": "O Grande Heroi",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=09e76223db9e5d76c013a2fc69dbac9ae049ff5a"
+        },
+        {
+            "tmdb_id": 395834,
+            "title": "Terra Selvagem",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6f7ec6c739aed7fef035ad6a74db8ce958b6e76"
+        },
+        {
+            "tmdb_id": 339984,
+            "title": "Milagres do Paraíso",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ff7abfe3a228dc76bbf71e0b48663fc97bba00c"
         },
         {
             "tmdb_id": 81005,
@@ -4364,6 +6244,21 @@
             "tmdb_id": 516486,
             "title": "Greyhound - Na Mira do Inimigo",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5d7427decac26e35e62424d2b4359e04691cfb9a"
+        },
+        {
+            "tmdb_id": 312221,
+            "title": "Creed: Nascido para Lutar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2787f7de5bf7dfb4cef21e42ae1a0794c44dd3d1"
+        },
+        {
+            "tmdb_id": 94329,
+            "title": "Operação Invasão",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2af15b0f3b32a1d60c622d7b0ff0bc3121f822"
+        },
+        {
+            "tmdb_id": 432836,
+            "title": "Memória de um Assassino",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9a2361b28678f521467d547f46a5b0fe9ff147"
         },
         {
             "tmdb_id": 16871,
@@ -4431,6 +6326,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8b66199d7a8d263f1391bc15b5a3cd6791a478f1"
         },
         {
+            "tmdb_id": 3580,
+            "title": "A Troca",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7223ba985aea08d6ec90dee675d26e7d1b5fb9"
+        },
+        {
+            "tmdb_id": 283587,
+            "title": "Beasts of No Nation",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3749c315bc4de75e2dd9973cb5b6fd2143a91bb1"
+        },
+        {
+            "tmdb_id": 586863,
+            "title": "Os miseraveis",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7abbf996e0611fb33e5909508497e17d5dc21a60"
+        },
+        {
+            "tmdb_id": 476968,
+            "title": "Paulo, Apóstolo de Cristo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a61bb1e334cf5fc0fc87b5662e31a4294518f39"
+        },
+        {
+            "tmdb_id": 244267,
+            "title": "O Universo no Olhar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4324526847b16a487e172efa212bdbd1c78f263"
+        },
+        {
             "tmdb_id": 17578,
             "title": "As Aventuras de Tintim",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=51afb0314a5a3a387ee2d6792384a2dfbc2da62b"
@@ -4456,6 +6376,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7bb07916936bfa81d9ce5126609b9f6b75446b3f"
         },
         {
+            "tmdb_id": 853,
+            "title": "Círculo de Fogo",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336f061f28a714799e02e3b792e40728fd11a91a"
+        },
+        {
             "tmdb_id": 1266,
             "title": "Os Reis da Rua",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6a14bd5686bdc7ce2b6a02bca390267e803924ff"
@@ -4466,6 +6391,31 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0304e22101b0c05d0771674c677a83fb46f76264"
         },
         {
+            "tmdb_id": 109424,
+            "title": "Capitão Phillips",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e64e686d09906eb6aa54cef610944270cf100d46"
+        },
+        {
+            "tmdb_id": 334541,
+            "title": "Manchester à Beira-Mar",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dea7d1eefa624713b18ee5a1bc116322b347616"
+        },
+        {
+            "tmdb_id": 71859,
+            "title": "Precisamos Falar Sobre o Kevin",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eab9195172111a82265d9ae471d5fb35a022828"
+        },
+        {
+            "tmdb_id": 9016,
+            "title": "Planeta do Tesouro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca15d72b9eadb9c90525d58bddaacdbd90cde49c"
+        },
+        {
+            "tmdb_id": 429450,
+            "title": "Pandora",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbdf7b2273370000aa678274125df97346362f25"
+        },
+        {
             "tmdb_id": 264660,
             "title": "Ex_Machina: Instinto Artificial",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2e14ef6f6345ffc561b555f219cbd69c98a9c215"
@@ -4474,6 +6424,26 @@
             "tmdb_id": 499701,
             "title": "Dora e a Cidade Perdida",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6eec0a692087ec4bd3a59ce15416d302a9dfc0f8"
+        },
+        {
+            "tmdb_id": 10950,
+            "title": "Uma Lição de Amor",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34b80a45ae9f2ec0a69c63d3bdbb583365a0de84"
+        },
+        {
+            "tmdb_id": 8440,
+            "title": "Carandiru",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3533cb098c8ad36c4a343b2d68855766d0b288e5"
+        },
+        {
+            "tmdb_id": 1913,
+            "title": "Mar Adentro",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e6c394705f2efba34df89b9e3e9ea5debd5c50"
+        },
+        {
+            "tmdb_id": 1954,
+            "title": "Efeito Borboleta",
+            "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:073f0602abca0263692932e0b087cc13a2d743bc"
         },
         {
             "tmdb_id": 964592,
