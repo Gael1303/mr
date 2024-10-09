@@ -1,31 +1,40 @@
 {
     "movies": [
-
-    {
-		"tmdb_id": 917496,
-		"title":"Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
-		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=baa3143779b3956cb2ee8ffd91254a6e8286a181"
-	},
-	{
-		"tmdb_id": 1186532,
-		"title":"A Forja – O Poder da Transformaçao",
-		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=926204942233d030581f9055a76b0c402c7ad6ef"
-	},
-	{
-		"imdb_id": 1233243,
-		"title":"O Ultimo Sacrificio",
-		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ad2d74d83906a6296cc4c4c5280f7acacf209a8d"
-	},
-	{
-		"tmdb_id": 1360610,
-		"title":"O Caso dos Irmaos Menendez",
-		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=165a60c47bf697f3840ee4279810243b00c05e88"
-	},
-	{
-		"tmdb_id": 1094009,
-		"title":"Acampamento de Verao",
-		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4c70ac603da21e52839e8eb9cb99eda77fe4e328"
-	},
+        {
+            "tmdb_id": 917496,
+            "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=baa3143779b3956cb2ee8ffd91254a6e8286a181"
+        },
+        {
+            "tmdb_id": 1186532,
+            "title": "A Forja – O Poder da Transformaçao",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=926204942233d030581f9055a76b0c402c7ad6ef"
+        },
+        {
+            "imdb_id": 1233243,
+            "title": "O Ultimo Sacrificio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ad2d74d83906a6296cc4c4c5280f7acacf209a8d"
+        },
+        {
+            "tmdb_id": 1125510,
+            "title": "O Poço 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d6b4d0ab7a27d50f57852a3661dfe8fb4a0d6991"
+        },
+        {
+            "tmdb_id": 619264,
+            "title": "O Poço",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=77396af6bbb5ea1e467d83d30d352907b322dffd"
+        },
+        {
+            "tmdb_id": 1360610,
+            "title": "O Caso dos Irmaos Menendez",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=165a60c47bf697f3840ee4279810243b00c05e88"
+        },
+        {
+            "tmdb_id": 1094009,
+            "title": "Acampamento de Verao",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4c70ac603da21e52839e8eb9cb99eda77fe4e328"
+        },
         {
             "tmdb_id": 137106,
             "title": "Uma Aventura Lego",
@@ -60,6 +69,11 @@
             "title": "Borderlands: O Destino do Universo Esta em Jogo",
             "tmdb_id": 365177,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=802678414ef3fc438b67fbf6ad4232909a2d4c0f"
+        },
+        {
+            "tmdb_id": 1062215,
+            "title": "Diabolica",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ddb1890d4e84478088571dd0a88adedf02d21d2c"
         },
         {
             "title": "E Assim Que Acaba",
@@ -212,6 +226,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3b806aa375b9630b8683471e8a2a410c4929b7da"
         },
         {
+            "tmdb_id": 567811,
+            "title": "Um Gato de Sorte",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e9887e31177c665378bdb75a0003a0b5f267d2dd"
+        },
+        {
+            "tmdb_id": 1094138,
+            "title": "Jackpot: Loteria Mortal!",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5d2a1ed9606757dc5eb15fc81e679f9501868dd2"
+        },
+        {
             "title": "A Libertaçao",
             "tmdb_id": 930600,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=85af253f16c51ead4df448666b3d9f17a53300ff"
@@ -220,6 +244,11 @@
             "title": "The Convert",
             "tmdb_id": 1066262,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d67726dccf5c2d4cbcf76ef53a67d632e08b0d62"
+        },
+        {
+            "tmdb_id": 1155058,
+            "title": "Watchmen: Capitulo 1",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4d1b74aed5c9c9968e35715f7ee17d76dca46ce9"
         },
         {
             "title": "Feios",
@@ -287,6 +316,16 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ecdd85e38f8081ccc653ef3ce0b182e084f42bc6"
         },
         {
+            "tmdb_id": 1225377,
+            "title": "The Mouse Trap",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=aa0b294b46df97f22bec861133e3a41fe5459c31"
+        },
+        {
+            "tmdb_id": 1311550,
+            "title": "Casa de Ga'a",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3757a4999cfacd7a0a9d4cfc6a4c6e575c42b5c2"
+        },
+        {
             "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Tres",
             "tmdb_id": 1209290,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8c772b2bc1650a83ff7ad6927d2c12f1ab1df8e8"
@@ -317,6 +356,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6efaadfa8319092a6d6700761ea882b3255dd003"
         },
         {
+            "tmdb_id": 639720,
+            "title": "Amigos Imaginarios",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dee6b801314fcf33d81d245c98ac847e109797e6"
+        },
+        {
             "title": "Velozes e Furiosos 10",
             "tmdb_id": 385687,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fd493c5d64ece7cf27bc4b109e390887625b32a1"
@@ -325,6 +369,11 @@
             "title": "Aprendiz de Espia: Na Cidade Eterna",
             "tmdb_id": 1048241,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=121896fd5ef5454f7f93e8431fd3d4939229540f"
+        },
+        {
+            "tmdb_id": 1227624,
+            "title": "Melhor Viuva Do Que Mal Acompanhada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e4e367091359c9c0ec5cd7d12e0d9c12bab10ede"
         },
         {
             "title": "O Podcast",
@@ -375,6 +424,11 @@
             "title": "Sob as Aguas do Sena",
             "tmdb_id": 1001311,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6164a462457ea76ba9bbe8b90ae715126ac01762"
+        },
+        {
+            "tmdb_id": 1298238,
+            "title": "Principes Perigosos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fb32b638e0ff9e0b890eccf1ecd700036dd1cfa9"
         },
         {
             "title": "Nem Tudo e Negociavel",
@@ -457,6 +511,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c5968c80cdd2bcdecb79cc59abaa9527772f626f"
         },
         {
+            "tmdb_id": 1108566,
+            "title": "Calor Mortifero",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=741e13c92ddcf59046d0736b2d742541ef61ebf5"
+        },
+        {
             "title": "Coraçoes de Ferro",
             "tmdb_id": 228150,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0030652307b13d07476b6a08bef2930e90900ca6"
@@ -515,6 +574,11 @@
             "title": "Missao Cruzada",
             "tmdb_id": 1002088,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f361799a6a327b353708da279b5f6657ed38f03b"
+        },
+        {
+            "tmdb_id": 1239251,
+            "title": "Megamente Vs. O Sindicato da Perdiçao",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=92fa063c59e97104c20feef2c66fe6d2c96e5733"
         },
         {
             "tmdb_id": 606856,
@@ -645,6 +709,11 @@
             "title": "Elementos",
             "tmdb_id": 976573,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ed20ebd0a4950d10b79fe018268502055084c98a"
+        },
+        {
+            "tmdb_id": 1096342,
+            "title": "Belo Desastre: O Casamento",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8a97f696fb3474cb7eb1d35e6f06425a0666d396"
         },
         {
             "title": "Oppenheimer",
@@ -832,6 +901,11 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c905e53ef70f6b74c556f48cf3d15dac1a1946ad"
         },
         {
+            "tmdb_id": 1051891,
+            "title": "Thelma",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8e63e984a12335ffab685d119ed91871e38fc6f5"
+        },
+        {
             "title": "O Senhor dos Aneis: As Duas Torres",
             "tmdb_id": 121,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=021c818a0d7c0529a2d131927f7f0eb6a79468e6"
@@ -940,6 +1014,11 @@
             "title": "Furia Primitiva",
             "tmdb_id": 560016,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=832fddf4adbe58c191cc310207aca13565c21881"
+        },
+        {
+            "tmdb_id": 1341685,
+            "title": "A Solta: Amor em Fuga",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c4833e5026c65f2ba36753a271ced59893cfafda"
         },
         {
             "tmdb_id": 1124,
@@ -1642,9 +1721,24 @@
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c63788db7aa32a7e8f7b3efb46846e1de5994a51"
         },
         {
+            "tmdb_id": 1362670,
+            "title": "Nascida para Cantar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7ca8081bf7dd96669f062f6cd0e5990320187d5b"
+        },
+        {
+            "tmdb_id": 1362685,
+            "title": "Memorias Ocultas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dec5f35aec74ae76953d6e937fe9524eb8baf563"
+        },
+        {
             "title": "Loud House: Sem Tempo Para Espionar",
             "tmdb_id": 1280768,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=99133068fc59aad1891ac8bb63c4f6a24574f7a3"
+        },
+        {
+            "tmdb_id": 739547,
+            "title": "Thelma, O Unicornio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=939158ee2f61820117cfc2e21e9c88def96ef7d3"
         },
         {
             "title": "Planeta dos Macacos: O Confronto",
@@ -2000,6 +2094,11 @@
             "title": "O Vingador da Iugoslavia 2",
             "tmdb_id": 1215162,
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=daf4b146e145d9b1ab243aad4d49a6292025f65b"
+        },
+        {
+            "tmdb_id": 1005076,
+            "title": "Duchess",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d8d9be1451d0d6a5a78e4a0d199f7ee269ff334d"
         },
         {
             "title": "Busca Implacavel",
@@ -3420,6 +3519,11 @@
             "tmdb_id": 807339,
             "title": "Apartamento 7A",
             "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=19583217444864ef31be91050d6f8f4b35c48285"
+        },
+        {
+            "tmdb_id": 858414,
+            "title": "Guerreiros do Basquete",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ed3b641150980d2f79df97d5a387cf9840a8cbc7"
         },
         {
             "tmdb_id": 11224,
