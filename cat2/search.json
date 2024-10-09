@@ -1,5 +1,31 @@
 {
     "movies": [
+
+    {
+		"tmdb_id": 917496,
+		"title":"Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=baa3143779b3956cb2ee8ffd91254a6e8286a181"
+	},
+	{
+		"tmdb_id": 1186532,
+		"title":"A Forja – O Poder da Transformaçao",
+		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=926204942233d030581f9055a76b0c402c7ad6ef"
+	},
+	{
+		"imdb_id": 1233243,
+		"title":"O Ultimo Sacrificio",
+		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ad2d74d83906a6296cc4c4c5280f7acacf209a8d"
+	},
+	{
+		"tmdb_id": 1360610,
+		"title":"O Caso dos Irmaos Menendez",
+		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=165a60c47bf697f3840ee4279810243b00c05e88"
+	},
+	{
+		"tmdb_id": 1094009,
+		"title":"Acampamento de Verao",
+		"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4c70ac603da21e52839e8eb9cb99eda77fe4e328"
+	},
         {
             "tmdb_id": 137106,
             "title": "Uma Aventura Lego",
