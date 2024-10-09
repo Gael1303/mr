@@ -1,29 +1,38 @@
 {
-    "movies": [
+    "colecoes": [
         {
-            "tmdb_id": 533535,
-            "title": "Deadpool e Wolverine",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d5de41440647689b5d69c930bcafa8135c115bf2"
+            "nome": "Coleção A",
+            "descricao": "Uma descrição breve sobre a Coleção A.",
+            "imagem": "https://link-para-a-imagem-da-colecao-a.jpg",
+            "videos": [
+                {
+                    "titulo": "Filme 1 da Coleção A",
+                    "tmdb_id": "12345",
+                    "url": "https://link-para-o-filme-1.mp4"
+                },
+                {
+                    "titulo": "Filme 2 da Coleção A",
+                    "tmdb_id": "67890",
+                    "url": "https://link-para-o-filme-2.mp4"
+                }
+            ]
         },
         {
-            "tmdb_id": 693134,
-            "title": "Duna: Parte Dois",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
-        },
-        {
-            "tmdb_id": 1022789,
-            "title": "Divertida Mente 2",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e3a4072068b9fc5261a365012f33ba8d94ce2117"
-        },
-        {
-            "tmdb_id": 519182,
-            "title": "Meu Malvado Favorito 4",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d3ea5871d6cbac6cbcd0d45d72448273e4284088"
-        },
-        {
-            "tmdb_id": 1079091,
-            "title": "É Assim Que Acaba",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=109de078fc5fa842f457d5768ebd6213017526e8"
+            "nome": "Coleção B",
+            "descricao": "Uma descrição breve sobre a Coleção B.",
+            "imagem": "https://link-para-a-imagem-da-colecao-b.jpg",
+            "videos": [
+                {
+                    "titulo": "Filme 1 da Coleção B",
+                    "tmdb_id": "54321",
+                    "url": "https://link-para-o-filme-1-b.mp4"
+                },
+                {
+                    "titulo": "Filme 2 da Coleção B",
+                    "tmdb_id": "09876",
+                    "url": "https://link-para-o-filme-2-b.mp4"
+                }
+            ]
         }
-		]
-	}
+    ]
+}
