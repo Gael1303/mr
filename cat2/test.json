@@ -1,36 +1,19 @@
 {
     "colecoes": [
         {
-            "nome": "Coleção A",
-            "descricao": "Uma descrição breve sobre a Coleção A.",
-            "imagem": "https://link-para-a-imagem-da-colecao-a.jpg",
+            "nome": "Duna: Coleção",
+            "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
+            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
             "videos": [
                 {
-                    "titulo": "Filme 1 da Coleção A",
-                    "tmdb_id": "12345",
-                    "url": "https://link-para-o-filme-1.mp4"
+                    "titulo": "Duna",
+                    "tmdb_id": 438631,
+                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b3179901c4f92c830526bae984cbcabeb48d5fec"
                 },
                 {
-                    "titulo": "Filme 2 da Coleção A",
-                    "tmdb_id": "67890",
-                    "url": "https://link-para-o-filme-2.mp4"
-                }
-            ]
-        },
-        {
-            "nome": "Coleção B",
-            "descricao": "Uma descrição breve sobre a Coleção B.",
-            "imagem": "https://link-para-a-imagem-da-colecao-b.jpg",
-            "videos": [
-                {
-                    "titulo": "Filme 1 da Coleção B",
-                    "tmdb_id": "54321",
-                    "url": "https://link-para-o-filme-1-b.mp4"
-                },
-                {
-                    "titulo": "Filme 2 da Coleção B",
-                    "tmdb_id": "09876",
-                    "url": "https://link-para-o-filme-2-b.mp4"
+                    "titulo": "Duna: Parte Dois",
+                    "tmdb_id": 693134,
+                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
                 }
             ]
         }
