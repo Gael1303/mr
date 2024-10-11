@@ -1,0 +1,759 @@
+{
+    "movies": [
+        {
+            "title": "Vingadores: Ultimato",
+            "tmdb_id": 299534,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=117fe5b8426f14415561b3383ecd484452ac658c"
+        },
+        {
+            "title": "Vingadores: Guerra Infinita",
+            "tmdb_id": 299536,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6412fecbd42264a37b3e214d9c860b0a60f85bf0"
+        },
+        {
+            "title": "De Volta para o Futuro",
+            "tmdb_id": 105,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=115a5c60e748baa9e2404ad4f799f39ab9811742"
+        },
+        {
+            "title": "Interestelar",
+            "tmdb_id": 157336,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1b8302c5e59b36671858f9bf0a7049093e25a22f"
+        },
+        {
+            "title": "Logan",
+            "tmdb_id": 263115,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ef30ab4cf8ab1ec1f9968755d52e6f50b1fb7657"
+        },
+        {
+            "title": "A Origem",
+            "tmdb_id": 27205,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=224bf45881252643dfc2e71abc7b2660a21c68c4"
+        },
+        {
+            "title": "WALL-E",
+            "tmdb_id": 10681,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=500f6656d04851cb0fd222e53770b1376b17638b"
+        },
+        {
+            "title": "Matrix",
+            "tmdb_id": 603,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=76949e573ff48aa138f1e06541f3482bb49359c2"
+        },
+        {
+            "tmdb_id": 329,
+            "title": "Jurassic Park: O Parque dos Dinossauros",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=45c9ac5e84b31935930b1ad869e5d750d01f4daa"
+        },
+        {
+            "tmdb_id": 1891,
+            "title": "Guerra nas Estrelas: O Império Contra-Ataca",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d82938761d6278fe09a24b9ec20c34f0e9622c13"
+        },
+        {
+            "title": "Os Vingadores: The Avengers",
+            "tmdb_id": 24428,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1526dd829688f315c4db8241fe658055128fb1af"
+        },
+        {
+            "tmdb_id": 280,
+            "title": "O Exterminador do Futuro 2: O Julgamento Final",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a74d828b27cd365e4a80bae1cf8fde591f4ffcde"
+        },
+        {
+            "tmdb_id": 11,
+            "title": "Star Wars: Episódio IV - Uma Nova Esperança",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fe1e1069de410fb44157f02b4f6655dde99621c6"
+        },
+        {
+            "tmdb_id": 165,
+            "title": "De Volta para o Futuro II",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=AF16C934F753EBAF7C14FE8220037EB8AF79DDC0"
+        },
+        {
+            "tmdb_id": 140607,
+            "title": "Star Wars: O Despertar da Força",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f75bb00e9d7dc1d84e6316d6b4f5301b91fffccb"
+        },
+        {
+            "tmdb_id": 1892,
+            "title": "Guerra nas Estrelas: O Retorno de Jedi",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=11aaf674b591a765e57561d5b3120951bba7c71a"
+        },
+        {
+            "tmdb_id": 118340,
+            "title": "Guardioes da Galaxia",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=92e8293f9c506a7e0cd3014473bbd8a371e89188"
+        },
+        {
+            "title": "X-Men: Dias de um Futuro Esquecido",
+            "tmdb_id": 127585,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5e868c0c950b1a06da25ab20e1f216e002fbeb43"
+        },
+        {
+            "tmdb_id": 10386,
+            "title": "O Gigante de Ferro",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6e78776f49636c684b5bd2c7e787e04615f4e448"
+        },
+        {
+            "tmdb_id": 100402,
+            "title": "Capitão América 2: O Soldado Invernal",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f84faa636687e86d2f0cc13019bf602706a329a4"
+        },
+        {
+            "title": "Mad Max: Estrada da Furia",
+            "tmdb_id": 76341,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=be1ffe9412241bac956a2fef4e2012ef67b044c3"
+        },
+        {
+            "title": "Guardioes da Galaxia: Vol. 3",
+            "tmdb_id": 447365,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ed12cc10da0edbde7d4d6ff96b597210a14bc0f7"
+        },
+        {
+            "title": "Duna: Parte Dois",
+            "tmdb_id": 693134,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
+        },
+        {
+            "tmdb_id": 284054,
+            "title": "Pantera Negra",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a8c8f60cbf5e80f494a53bf7255ea7b754169377"
+        },
+        {
+            "tmdb_id": 196,
+            "title": "De Volta para o Futuro III",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8e3bf68b50571fc39fcdcdf59c1f5a3c44670a7b"
+        },
+        {
+            "tmdb_id": 601,
+            "title": "E.T.: O Extraterrestre (1982)",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fd68713ad8f7e70283ef68412579de5e4e2872d3"
+        },
+        {
+            "title": "Homem de Ferro",
+            "tmdb_id": 1726,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5871a93d9d436d3ebd290c4ac88fb5b684e875c0"
+        },
+        {
+            "tmdb_id": 283995,
+            "title": "Guardioes da Galaxia - Vol. 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6d1ec7c98427c6cc8120c36fd01290c79d172f3f"
+        },
+        {
+            "tmdb_id": 101299,
+            "title": "Jogos Vorazes: Em Chamas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fdfe68f6450bd6e938d71463a6a8ecd7de63c303"
+        },
+        {
+            "title": "Lilo e Stitch",
+            "tmdb_id": 11544,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0f04c0c0db209eab53b5990e87c7ef8885680da5"
+        },
+        {
+            "tmdb_id": 54138,
+            "title": "Star Trek: Além da Escuridão",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=92a3ba1fb2c696a63765a4bd61a866ba6d9f3e49"
+        },
+        {
+            "tmdb_id": 752,
+            "title": "V de Vingança",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d05a9552e461e35f174f0b60bf16fa95f04127bd"
+        },
+        {
+            "title": "Alien: O Oitavo Passageiro",
+            "tmdb_id": 348,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dee0296d2aea4847fbd6db44a1712efcd101d7bb"
+        },
+        {
+            "tmdb_id": 185,
+            "title": "Laranja Mecanica",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=10f14168c4cff87c54fe06ea19e04b31d47baf2a"
+        },
+        {
+            "tmdb_id": 286217,
+            "title": "Perdido em Marte",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6efcb6b552724dd23e04e8e6628ecf542df7ef24"
+        },
+        {
+            "tmdb_id": 1895,
+            "title": "Star Wars: Episódio III - A Vingança dos Sith",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dc19ab0b54085755fe7a6af8fb73cb31d20fad06"
+        },
+        {
+            "tmdb_id": 330459,
+            "title": "Rogue One: Uma História Star Wars",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=34161a0ccf73f79ef482bd5b8b187cb92258c2bc"
+        },
+        {
+            "tmdb_id": 529216,
+            "title": "Durante a Tormenta",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a7525eace1a108aa7d6610447e6b1fd67907a9f"
+        },
+        {
+            "tmdb_id": 38,
+            "title": "Brilho Eterno de uma Mente sem Lembranças",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=84ff17e885a72ba99e3fe153489f10d584925372"
+        },
+        {
+            "title": "Avatar",
+            "tmdb_id": 19995,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=cc66cca96371fb174a0aa634514263a27867209e"
+        },
+        {
+            "title": "O Exterminador do Futuro",
+            "tmdb_id": 218,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=98d42994283db329f2aa9c53152083bed2dbeb1b"
+        },
+        {
+            "tmdb_id": 1924,
+            "title": "Superman: O Filme",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=475d32a01c8a85b2578d06c9f488c87bcbe11498"
+        },
+        {
+            "title": "Homem-Aranha: Sem Volta Para Casa",
+            "tmdb_id": 634649,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=afa26f6a979036145055809dd016f25f1c5571a4"
+        },
+        {
+            "title": "Jurassic World: O Mundo dos Dinossauros",
+            "tmdb_id": 135397,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2f41fa5303f244370f2ec3243ca55038b5cb6686"
+        },
+        {
+            "tmdb_id": 149,
+            "title": "Akira",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0a5f0c603d827f115196fa9f703c9cc48cd57205"
+        },
+        {
+            "tmdb_id": 49538,
+            "title": "X-Men: Primeira Classe",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3f20640c5c8578e45e251817ddd2a7ca31873857"
+        },
+        {
+            "title": "Aliens: O Resgate",
+            "tmdb_id": 679,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3a897bd47b83f9994bc6a4209a28cb242b4780bd"
+        },
+        {
+            "tmdb_id": 152601,
+            "title": "Ela",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=36f8bd23ee2a6b4f808b15cb19bec970bd18329b"
+        },
+        {
+            "title": "Jogador N° 1",
+            "tmdb_id": 333339,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=36a1e1378fdced36fa38e547cf5bd6583d960afb"
+        },
+        {
+            "tmdb_id": 13475,
+            "title": "Star Trek",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=22f6161c997db8fbd076b2c94b3154ad67ea9960"
+        },
+        {
+            "title": "Planeta dos Macacos: O Confronto",
+            "tmdb_id": 119450,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6f663bf71220dc8bd5a2e7afd5819930567a6b30"
+        },
+        {
+            "tmdb_id": 6479,
+            "title": "Eu Sou a Lenda",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7ebb18788adaea8f111249bf9e0e5c64d48e3084"
+        },
+        {
+            "tmdb_id": 70160,
+            "title": "Jogos Vorazes",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=015380b6afa40fde80c73e58591dbcf6804cadc1"
+        },
+        {
+            "tmdb_id": 95,
+            "title": "Armageddon",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3028f68d6da34833d32bff79f2b213a6d946ffe4"
+        },
+        {
+            "title": "Avatar: O Caminho da Agua",
+            "tmdb_id": 76600,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=73884e1bec0a286dd080c8d4664d05c67f730cf3"
+        },
+        {
+            "tmdb_id": 62,
+            "title": "2001: Uma Odisseia no Espaço",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=81ad95e184dd5ce22cc5fcfda37059c5a1140197"
+        },
+        {
+            "tmdb_id": 181808,
+            "title": "Star Wars: Episódio VIII - Os Últimos Jedi",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ceb22cadd8dd6e0c74e22409e792c68744bc1b7c"
+        },
+        {
+            "title": "Maze Runner: Correr ou Morrer",
+            "tmdb_id": 198663,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e"
+        },
+        {
+            "title": "Godzilla Minus One",
+            "tmdb_id": 94072110,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2391ff0374ae429a76e48325fa9b89890080b355"
+        },
+        {
+            "tmdb_id": 644,
+            "title": "A.I.: Inteligência Artificial",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7c396f465ff3c488cf6c828499237d796299c23d"
+        },
+        {
+            "tmdb_id": 281338,
+            "title": "Planeta dos Macacos: A Guerra",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4abb8e837b1478e3edf94328d66fa72cef46078f"
+        },
+        {
+            "title": "O Predador",
+            "tmdb_id": 106,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=05fe57132b71484d8d2e8c5ea3e1610fcc3539e1"
+        },
+        {
+            "tmdb_id": 137113,
+            "title": "No Limite do Amanha",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=822bb22c420c12701ba0573890cbef451cd0ac16"
+        },
+        {
+            "tmdb_id": 1771,
+            "title": "Capitão América: O Primeiro Vingador",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=96238b20df0e1fc9f5af462c530c1f98570a6d78"
+        },
+        {
+            "title": "Watchmen",
+            "tmdb_id": 18183,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=723a77d1fc7ccc304ece262f6db0405a033246ab"
+        },
+        {
+            "tmdb_id": 604,
+            "title": "Matrix Reloaded",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=498ddeca847fba8ea6bf2bf2279b89c4771742a7"
+        },
+        {
+            "tmdb_id": 244267,
+            "title": "O Universo no Olhar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f4324526847b16a487e172efa212bdbd1c78f263"
+        },
+        {
+            "tmdb_id": 102899,
+            "title": "Homem-Formiga",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b051a41f8d19f72d5231b09de791801e16e3d73e"
+        },
+        {
+            "tmdb_id": 141,
+            "title": "Donnie Darko",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fd3e77db2575fe09df4bec017292f0a27b0e1e61"
+        },
+        {
+            "tmdb_id": 131631,
+            "title": "Jogos Vorazes: A Esperança - Parte 1",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=aeed632188f2c565c70749ce306593de8c21c64f"
+        },
+        {
+            "title": "Homem de Ferro 2",
+            "tmdb_id": 10138,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7cfcf41160e5b9427ff668b926c52612e4a6e1db"
+        },
+        {
+            "tmdb_id": 180,
+            "title": "Minority Report: A Nova Lei",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0682fb59031ee484e41b5aa2f495d116e25f8d3f"
+        },
+        {
+            "tmdb_id": 61791,
+            "title": "Planeta dos Macacos: A Origem",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=44e2c73f1fa53573d175f750308c993d690c7472"
+        },
+        {
+            "title": "Gigantes de Aço",
+            "tmdb_id": 39254,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=bbdcf202c5198ab957167ce0883cdad2a3baa7c6"
+        },
+        {
+            "tmdb_id": 607,
+            "title": "MIB - Homens de Preto",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=cf7ce7ce589b29ac82432881e38f89b9b2e48e39"
+        },
+        {
+            "tmdb_id": 36657,
+            "title": "X-Men: O Filme",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5a2d69bb7081a47fd53649453dea25b7fb0ad1f8"
+        },
+        {
+            "tmdb_id": 294254,
+            "title": "Maze Runner: Prova de Fogo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1138c2ca99610e1ce4316cbe73665a1362984462"
+        },
+        {
+            "tmdb_id": 18,
+            "title": "O Quinto Elemento",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=df7ccf674ba3f86680a2f8ec0f2b32e561a444db"
+        },
+        {
+            "title": "Alita: Anjo de combate",
+            "tmdb_id": 399579,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a5e6aa5f73607b2cc2517bfe5e3fd8724ef9c484"
+        },
+        {
+            "tmdb_id": 387426,
+            "title": "Okja",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b7a212897f00701c86db3d898df93abfd15ef528"
+        },
+        {
+            "tmdb_id": 20504,
+            "title": "O Livro de Eli",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=719209bc4d203898e21da82a4c98c3a1225d527e"
+        },
+        {
+            "tmdb_id": 602,
+            "title": "Independence Day",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=40f7f16f7cd1810678c5830db48ba2fa50833dcc"
+        },
+        {
+            "tmdb_id": 78,
+            "title": "Blade Runner: O Caçador de Androides",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ab6010ad68f60ade4dc57d5e43f140d0abad2409"
+        },
+        {
+            "tmdb_id": 68721,
+            "title": "Homem de Ferro 3",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c97a57ab8f0040b9b015887b4cfbb63a602a5f32"
+        },
+        {
+            "tmdb_id": 605,
+            "title": "The Matrix Revolutions",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9340217b505e38ee9d3e317af539ce8c661329a3"
+        },
+        {
+            "title": "Guerra Mundial Z",
+            "tmdb_id": 72190,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=dd90c905106e1f9c2fa9995a448fe7db9ffd9f94"
+        },
+        {
+            "tmdb_id": 871,
+            "title": "O Planeta dos Macacos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=750d1b4bcc6e631db3273825aa330cbadbd59fec"
+        },
+        {
+            "tmdb_id": 329865,
+            "title": "A Chegada",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a40bc42ff76d1b9a03e7c36b05c020ece591aeab"
+        },
+        {
+            "tmdb_id": 36658,
+            "title": "X-Men 2",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=76783fc30e84c9ac429d10a75a513c643f9579bf"
+        },
+        {
+            "tmdb_id": 45612,
+            "title": "Contra o Tempo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=18b83ad9a638b507fb16d6547fe43e07854682b7"
+        },
+        {
+            "title": "Divergente",
+            "tmdb_id": 157350,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5e078593f64752e05a57cadfdb39f13650c6b2a5"
+        },
+        {
+            "title": "Dejà Vu",
+            "tmdb_id": 7551,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=becf18d52b645d86c244bf3426cb4c07f3caac2b"
+        },
+        {
+            "tmdb_id": 840,
+            "title": "Contatos Imediatos do Terceiro Grau",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=fb0d1c1b3b64296f055370b5d7bb1327f0be103a"
+        },
+        {
+            "tmdb_id": 2048,
+            "title": "Eu,Robo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8aa62c7ed912e24053686d727a8cd0f25a197be4"
+        },
+        {
+            "title": "Godzilla e Kong: O Novo Imperio",
+            "tmdb_id": 823464,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9b150340f78fd0292c3a0ae1c5df175b5e33499b"
+        },
+        {
+            "tmdb_id": 227719,
+            "title": "Projeto Almanaque",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1714f19b480e1f2c8696c20131290bfdddd83c50"
+        },
+        {
+            "title": "O Preço do Amanha",
+            "tmdb_id": 49530,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2d86a002317e6a4af525e043c0c990f097be374d"
+        },
+        {
+            "tmdb_id": 131634,
+            "title": "Jogos Vorazes: A Esperança - O Final",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ac4106bd2418145c3693714cdbd9dce98be9848f"
+        },
+        {
+            "tmdb_id": 336843,
+            "title": "Maze Runner: A Cura Mortal",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ca2f359ab3eeec0df1438a3fc0577a8d41bb178f"
+        },
+        {
+            "tmdb_id": 227156,
+            "title": "O Doador de Memórias",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=73833af0d45d96acf395420f9ba64a5c3d2e3f87"
+        },
+        {
+            "tmdb_id": 41154,
+            "title": "MIB - Homens de Preto III",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0a14ebe5a73ad46e43ada78e6716096074827838"
+        },
+        {
+            "tmdb_id": 1635,
+            "title": "A Ilha",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=ab6b7e7bfe0c0d6ed5b37dd2020255f238882ea9"
+        },
+        {
+            "tmdb_id": 1858,
+            "title": "Transformers",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5f90cd436072fdc8e47a3532558201e325875742"
+        },
+        {
+            "tmdb_id": 38050,
+            "title": "Os Agentes do Destino",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c78eedc0abf6916d63a88db6c47bc5b1145e3a7d"
+        },
+        {
+            "title": "O Enigma de Outro Mundo",
+            "tmdb_id": 1091,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a1a47bb2c3c5092704fe5d636657b6afabf87dec"
+        },
+        {
+            "tmdb_id": 861,
+            "title": "O Vingador do Futuro",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0ed6c938c3595e8a9af29c5af32b3cca78b20e4c"
+        },
+        {
+            "tmdb_id": 62214,
+            "title": "Frankenweenie",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=93aae23eceaee4ced7cfdda05a259b507fd2d888"
+        },
+        {
+            "tmdb_id": 17654,
+            "title": "Distrito 9",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2bfff48dc4afb4762e68d95c830a9c1e5efaed8e"
+        },
+        {
+            "tmdb_id": 435,
+            "title": "O Dia Depois de Amanhã",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5ad84844d988b5d4523bc4805a14c9f416420a69"
+        },
+        {
+            "tmdb_id": 246655,
+            "title": "X-Men: Apocalipse",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7da5276c2d4a3a19b718541f8f3a4e8de3907e80"
+        },
+        {
+            "title": "Duna",
+            "tmdb_id": 438631,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b3179901c4f92c830526bae984cbcabeb48d5fec"
+        },
+        {
+            "tmdb_id": 206487,
+            "title": "O Predestinado",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=feff8768c7e651ce89f863ddb1b99aeb5df053f3"
+        },
+        {
+            "tmdb_id": 608,
+            "title": "MIB - Homens de Preto II",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=719e2f826cfb53199d0a790a40b3465d7cf0acc9"
+        },
+        {
+            "tmdb_id": 296,
+            "title": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=68181d8b587d82dee6b4667580965dc78ad85ed9"
+        },
+        {
+            "tmdb_id": 1267,
+            "title": "A Familia do Futuro",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=30952812ac9306564b4cb3decc63b4888b082a3f"
+        },
+        {
+            "tmdb_id": 97020,
+            "title": "RoboCop",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d674ea337bba865aac104b3d98e002e99425b43e"
+        },
+        {
+            "title": "Onde Esta Segunda?",
+            "tmdb_id": 406990,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=050ab28fcaedff06148f1a4c9bcfff2156792fbc"
+        },
+        {
+            "tmdb_id": 2675,
+            "title": "Sinais",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c5d9275fc6ffed26cca1e3b7a881e56ccb902fa8"
+        },
+        {
+            "tmdb_id": 63,
+            "title": "Os 12 macacos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c0207595e21849e492d89da39c6b62ff1eabeef9"
+        },
+        {
+            "tmdb_id": 351286,
+            "title": "Jurassic World: Reino Ameaçado",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b055801aa7e8ed8012a04efefd7ec211c715139c"
+        },
+        {
+            "tmdb_id": 424738,
+            "title": "Bumblebee",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2731e5dfc326322df850b4f39fba565c0bf6a235"
+        },
+        {
+            "title": "Blade Runner 2049",
+            "tmdb_id": 335984,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6b5529f0721bb6bc96e5959ddeb4d62a7a15a147"
+        },
+        {
+            "tmdb_id": 331,
+            "title": "Jurassic Park 3",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6cb399e69bd1c8d55e8a05a41fdf2d02f8ab9024"
+        },
+        {
+            "title": "Contra o Mundo",
+            "tmdb_id": 882059,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7367cb6c756b5e0ab953fe638c266f56575fd040"
+        },
+        {
+            "tmdb_id": 6795,
+            "title": "Zathura: Uma Aventura Espacial",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=60d35872315bbba1ab27662c7432144b15102f8d"
+        },
+        {
+            "tmdb_id": 9693,
+            "title": "Filhos da Esperança",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=3509bc9747244ee9216e19cbef0b5d6187234262"
+        },
+        {
+            "title": "Looper: Assassinos do Futuro",
+            "tmdb_id": 59967,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a1711d8d809fc26442ac1878059cf5fb0bcccaba"
+        },
+        {
+            "title": "Planeta dos Macacos: O Reinado",
+            "tmdb_id": 653346,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5bd5dede91f8a1b662dfea2dc02812605f139c9c"
+        },
+        {
+            "tmdb_id": 8338,
+            "title": "Ensaio Sobre a Cegueira",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=132883cea2e13a6678cb7671ec180fbd45f90de3"
+        },
+        {
+            "tmdb_id": 37686,
+            "title": "Super 8",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1cbe002ba54ce2dcdef9d2b7341e2dbc3fb627bf"
+        },
+        {
+            "title": "O Exterminador do Futuro: Genesis",
+            "tmdb_id": 87101,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e"
+        },
+        {
+            "title": "Descendentes 3",
+            "tmdb_id": 506574,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e16152d24f426f35771f55b224235d821cf4af78"
+        },
+        {
+            "tmdb_id": 299537,
+            "title": "Capitã Marvel",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=35f6cfeb68a5e5499263d94c56e67db766be0c03"
+        },
+        {
+            "tmdb_id": 240832,
+            "title": "Lucy",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=0c39b0b35f14035c784f4f7604bb1f823c14769c"
+        },
+        {
+            "tmdb_id": 8656,
+            "title": "Impacto profundo",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=702607b3db53f981b3bd47e4911beca3a018dc03"
+        },
+        {
+            "tmdb_id": 36668,
+            "title": "X-Men: O Confronto Final",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=429436f4e5f7d05179f02a7b2df5e664a6c959d8"
+        },
+        {
+            "tmdb_id": 9659,
+            "title": "Mad Max",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=6bcf6a04f1af146b98bd020772ff64cfbe85aab6"
+        },
+        {
+            "tmdb_id": 68724,
+            "title": "Elysium",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=d7f606673033579d566cd861a25b2804cd2e37bd"
+        },
+        {
+            "title": "A Guerra do Amanha",
+            "tmdb_id": 588228,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=9dbe10e1ca8fa7e8711d7e7e650d5885888083fe"
+        },
+        {
+            "title": "Transformers: A Era da Extinçao",
+            "tmdb_id": 91314,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=5866dccfcd599509332a4445d43a788c6bdbf36a"
+        },
+        {
+            "tmdb_id": 74,
+            "title": "Guerra dos Mundos",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=eb5540b9522f1946fe934fdfaaaa0c1331424b0c"
+        },
+        {
+            "tmdb_id": 791373,
+            "title": "Liga da Justiça de Zack Snyder",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8c8cacc0a491342496201d418b47fd98f1cd5934"
+        },
+        {
+            "tmdb_id": 696806,
+            "title": "O Projeto Adam",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=08b111e00f67273b630e4fe628e087c98ade6e6b"
+        },
+        {
+            "tmdb_id": 49049,
+            "title": "Dredd",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a91c0b041d18fe0021a40a57792b5f5595439dbc"
+        },
+        {
+            "tmdb_id": 534,
+            "title": "O Exterminador do Futuro: A Salvaçao",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0"
+        },
+        {
+            "tmdb_id": 274870,
+            "title": "Passageiros",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2df27d7efdeabe24d1f76eb06573d9cdb070f119"
+        },
+        {
+            "tmdb_id": 80274,
+            "title": "Ender's Game: O Jogo do Exterminador",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a63755cfceb25413ef88face5101b5d457d4bd4d"
+        },
+        {
+            "tmdb_id": 72559,
+            "title": "G.I. Joe: Retaliação",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=1f3c511c86b7cb2899e417c9c793f7edcb72cab5"
+        },
+        {
+            "title": "Chappie",
+            "tmdb_id": 198184,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=005e2184ac94b1d66a90082aebc1cb1906a8e087"
+        },
+        {
+            "tmdb_id": 7299,
+            "title": "Equilibrium",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2e7c18dfe142035438fd857cdccd19099c02ffeb"
+        },
+        {
+            "tmdb_id": 522402,
+            "title": "Finch",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2f3e18dbe7fde04e513a7998c0deee3d37e9dfb2"
+        }
+    ]
+}
