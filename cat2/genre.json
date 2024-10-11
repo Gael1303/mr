@@ -7,6 +7,10 @@
     {
       "nome": "Comédia",
       "url": "https://exemplo.com/comedia.json"
+    },
+    {
+      "nome": "Ficção Cientifica",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/sci-fi.json"
     }
   ]
 }
