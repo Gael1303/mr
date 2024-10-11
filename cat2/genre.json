@@ -5,8 +5,16 @@
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json"
     },
     {
+      "nome": "Animação",
+      "url": "https://exemplo.com/animacao.json"
+    },
+    {
       "nome": "Comédia",
       "url": "https://exemplo.com/comedia.json"
+    },
+    {
+      "nome": "Drama",
+      "url": "https://exemplo.com/drama.json"
     },
     {
       "nome": "Ficção Cientifica",
