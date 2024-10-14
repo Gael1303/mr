@@ -1,5 +1,5 @@
-Bem-vindo ao [COLOR green]Movie Room[/COLOR]
+Addon: Flix
+Desenvolvedor: Gael
+Versão: 1.0
 
 Estamos em uma versão de testes! Todas as novidades serão publicadas aqui, Fiquem Atentos!
-
-By: GAEL
