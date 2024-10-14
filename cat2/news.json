@@ -1,6 +1,12 @@
 {
     "movies": [
 
+	    
+        {
+            "title": "Nao Solte!",
+            "tmdb_id": 814889,
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=8966c91a95c0bfac102881f3c56e88201fa4f7fa"
+        }, 
         {
             "tmdb_id": 1362480,
             "title": "María Soledad: O Fim do Silencio",
