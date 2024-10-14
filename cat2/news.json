@@ -1,5 +1,36 @@
 {
     "movies": [
+
+        {
+            "tmdb_id": 1362480,
+            "title": "María Soledad: O Fim do Silencio",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=df740e867eeb1bc86e82f24bbb0f2cdb07f84e71"
+        },
+		{
+            "tmdb_id": 1200981,
+            "title": "O Preço de Educar",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7f85635d140505b8f23540280650403f885ee6af"
+        },
+		{
+            "tmdb_id": 933260,
+            "title": "A Substancia",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2cef833f73cb8a81285962246c7628e42b720807"
+        },
+		{
+            "tmdb_id": 1075676,
+            "title": "Guerra e Revolta",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=a6200977e396765dad2f194b287c031e15bb0906"
+        },
+		{
+            "tmdb_id": 959429,
+            "title": "Amores Solitarios",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=7c5dffdf7e4e5a1e91f5633eb8cf7336d921e1d1"
+        },
+		{
+            "tmdb_id": 1354627,
+            "title": "Bob Esponja: Acampamento do Terror",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4e8835ab9a55101a3f9790951f69bfcf200ada70"
+        },
         {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
