@@ -19,6 +19,26 @@
     {
       "nome": "Ficção Cientifica",
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/sci-fi.json"
-    }
+    },
+	{
+      "nome": "Guerra",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/war.json"
+    },
+	{
+      "nome": "Historia",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/history.json"
+    },
+	{
+      "nome": "Romance",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/romance.json"
+    },
+	{
+      "nome": "Suspense",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/thriller.json"
+    },
+	{
+      "nome": "Terror",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/terror.json"
+    },
   ]
 }
