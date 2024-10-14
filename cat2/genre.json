@@ -5,6 +5,10 @@
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json"
     },
     {
+      "nome": "Aventura",
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/avent.json"
+    },  
+    {
       "nome": "Animação",
       "url": "https://exemplo.com/animacao.json"
     },
@@ -39,6 +43,6 @@
 	{
       "nome": "Terror",
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/terror.json"
-    },
+    }
   ]
 }
