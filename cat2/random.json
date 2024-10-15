@@ -1,5 +1,21 @@
 {
     "videos": [
+
+        {
+            "tmdb_id": 87421,
+            "title": "Riddick 3",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=10d36e521249f8ba84ea651657b1eb95ddf4c2ce"
+        },
+		{
+            "tmdb_id": 2789,
+            "title": "A Batalha de Riddick",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee"
+        },
+		{
+            "tmdb_id": 2787,
+            "title": "Eclipse Mortal",
+            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2126a5d315a4b99b4961139c7a08ffe33fc6453d"
+        },
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
