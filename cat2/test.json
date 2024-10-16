@@ -1,14 +1,16 @@
 {
-    "movies": [
-        {
-            "tmdb_id": 917496,
-            "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
-            "url": "magnet=baa3143779b3956cb2ee8ffd91254a6e8286a181"
-        },
-        {
-            "tmdb_id": 1186532,
-            "title": "A Forja – O Poder da Transformaçao",
-            "url": "magnet=926204942233d030581f9055a76b0c402c7ad6ef"
-        }
-    ]
+  "categories": [
+    {
+      "name": "Lançamentos",
+      "url": "https://your-github-url/lancamentos.json"
+    },
+    {
+      "name": "Coleções",
+      "url": "https://your-github-url/colecoes.json"
+    },
+    {
+      "name": "Filmes Aleatórios",
+      "url": "https://your-github-url/filmes-aleatorios.json"
+    }
+  ]
 }
