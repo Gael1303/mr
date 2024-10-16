@@ -1,21 +1,14 @@
 {
-    "colecoes": [
+    "movies": [
         {
-            "nome": "Duna: Coleção",
-            "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
-            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
-            "videos": [
-                {
-                    "titulo": "Duna",
-                    "tmdb_id": 438631,
-                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b3179901c4f92c830526bae984cbcabeb48d5fec"
-                },
-                {
-                    "titulo": "Duna: Parte Dois",
-                    "tmdb_id": 693134,
-                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
-                }
-            ]
+            "tmdb_id": 917496,
+            "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+            "url": "magnet=baa3143779b3956cb2ee8ffd91254a6e8286a181"
+        },
+        {
+            "tmdb_id": 1186532,
+            "title": "A Forja – O Poder da Transformaçao",
+            "url": "magnet=926204942233d030581f9055a76b0c402c7ad6ef"
         }
     ]
 }
