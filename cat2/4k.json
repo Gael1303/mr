@@ -1,5 +1,5 @@
 {
-	"movies"[
+	"movies":[
 	
 	{
 		"tmdb_id": 762441,
@@ -15,6 +15,11 @@
 		"tmdb_id": 693134,
 		"title": "Duna: Parte Dois",
 		"url": "magnet=5727adf32ce141fa0be300a90d1a96eb79b2630f"
-	}
+	},
+	{
+		"tmdb_id": 917496,
+		"title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+		"url": "magnet=0285e57d8af12fd6e040473ce57acd87e06cc696"
+	},
 	]
 }
