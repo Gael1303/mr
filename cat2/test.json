@@ -1,11 +1,10 @@
 {
     "colecoes": [
         {
-            "nome": "EM BREVE",
+            "nome": "AGUARDE... NOVIDADES EM BREVE",
             "descricao": "AGUARDE",
             "imagem": "https://i.pinimg.com/736x/f9/0a/1b/f90a1b88d9977be77d7e1ac65348ba34.jpg",
-            "videos": [
-            ]
-        },
-	]
+            "videos": "JJ"
+	}
+   ]
 }
