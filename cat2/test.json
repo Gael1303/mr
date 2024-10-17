@@ -1,16 +1,11 @@
 {
-  "categories": [
-    {
-      "name": "Lançamentos",
-      "url": "https://your-github-url/lancamentos.json"
-    },
-    {
-      "name": "Coleções",
-      "url": "https://your-github-url/colecoes.json"
-    },
-    {
-      "name": "Filmes Aleatórios",
-      "url": "https://your-github-url/filmes-aleatorios.json"
-    }
-  ]
+    "colecoes": [
+        {
+            "nome": "EM BREVE",
+            "descricao": "AGUARDE",
+            "imagem": "https://i.pinimg.com/736x/f9/0a/1b/f90a1b88d9977be77d7e1ac65348ba34.jpg",
+            "videos": [
+            ]
+        },
+	]
 }
