@@ -1,30 +1,114 @@
 {
-	"movies":[
-	
-	{
-		"tmdb_id": 762441,
-		"title": "Um Lugar Silencioso: Dia Um",
-		"url": "magnet=d17ac13b165b9d24fb8ee8b691f9d09e60b23585"
-	},
-	{
-		"tmdb_id": 438631,
-		"title": "Duna",
-		"url": "magnet=4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c"
-	},
-	{
-		"tmdb_id": 693134,
-		"title": "Duna: Parte Dois",
-		"url": "magnet=5727adf32ce141fa0be300a90d1a96eb79b2630f"
-	},
-	{
-		"tmdb_id": 917496,
-		"title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
-		"url": "magnet=0285e57d8af12fd6e040473ce57acd87e06cc696"
-	},
-	{
-		"tmdb_id": 820609,
-		"title": "Ninguem Vai te Salvar",
-		"url": "magnet=QYCLMTPZBPYF6E65DHP5MPEKK7DP6TD4"
-	}
-	]
+    "movies": [
+        {
+            "tmdb_id": 762441,
+            "title": "Um Lugar Silencioso: Dia Um",
+            "url": "magnet=d17ac13b165b9d24fb8ee8b691f9d09e60b23585"
+        },
+        {
+            "tmdb_id": 438631,
+            "title": "Duna",
+            "url": "magnet=4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c"
+        },
+        {
+            "tmdb_id": 693134,
+            "title": "Duna: Parte Dois",
+            "url": "magnet=5727adf32ce141fa0be300a90d1a96eb79b2630f"
+        },
+        {
+            "tmdb_id": 917496,
+            "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+            "url": "magnet=0285e57d8af12fd6e040473ce57acd87e06cc696"
+        },
+        {
+            "tmdb_id": 820609,
+            "title": "Ninguem Vai te Salvar",
+            "url": "magnet=QYCLMTPZBPYF6E65DHP5MPEKK7DP6TD4"
+        },
+        {
+            "tmdb_id": 820609,
+            "title": "Ninguem Vai te Salvar",
+            "url": "magnet=QYCLMTPZBPYF6E65DHP5MPEKK7DP6TD4"
+        },
+        {
+            "title": "Guerra Civil",
+            "tmdb_id": 929590,
+            "url": "magnet=62e9aebdba514402f6c299a132592825631ddef6"
+        },
+        {
+            "title": "Planeta dos Macacos: O Reinado",
+            "tmdb_id": 653346,
+            "url": "magnet=ef2a305826303fc01bd0e5a1b2fba543f397811f"
+        },
+        {
+            "title": "Furiosa: Uma Saga Mad Max",
+            "tmdb_id": 786892,
+            "url": "magnet=1b68bdc7e40f6f5dfb5a47edefe0fe7d037138bd"
+        },
+        {
+            "title": "Godzilla e Kong: O Novo Imperio",
+            "tmdb_id": 823464,
+            "url": "magnet=0c241986773a9cca12054fee5e1d220c7609b318"
+        },
+        {
+            "title": "Bad Boys: Ate o Fim",
+            "tmdb_id": 573435,
+            "url": "magnet=a9a7fdd06c57762f18b2a6d55c6a2756fbfef3d2"
+        },
+        {
+            "title": "Pobres Criaturas",
+            "tmdb_id": 792307,
+            "url": "magnet=6299becdb7018cdc4bda81790b52684388461118"
+        },
+        {
+            "title": "Ghostbusters: Apocalipse de Gelo",
+            "tmdb_id": 967847,
+            "url": "magnet=c9a14efba897a5f0fab5baf2d6ecb51e39d802d1"
+        },
+        {
+            "title": "A Guerra do Amanha",
+            "tmdb_id": 588228,
+            "url": "magnet=6c97962345c2f14f82113e05386683c90d81cc5f"
+        },
+        {
+            "tmdb_id": 930564,
+            "title": "Saltburn",
+            "url": "magnet=31af5213f91014dca8381b3d433d22ee39e4f626"
+        },
+        {
+            "title": "As Marvels",
+            "tmdb_id": 609681,
+            "url": "magnet=Z5T7FUI5FWN5LK7V5L43UDQG6NCABEQE"
+        },
+        {
+            "title": "Aquaman 2: O Reino Perdido",
+            "tmdb_id": 572802,
+            "url": "magnet=44FXD7YFBJ2GJK3KUXZUAJ7JYYLFGLXG"
+        },
+        {
+            "title": "Wonka",
+            "tmdb_id": 787699,
+            "url": "magnet=F5A2QORKHNJYP4QTESJJHET47K2ZSTRB"
+        },
+        {
+            "title": "Napoleao",
+            "tmdb_id": 753342,
+            "url": "magnet=PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN"
+        },
+        {
+            "title": "Jogos Vorazes: A Cantiga dos Passaros e das Serpentes",
+            "tmdb_id": 695721,
+            "url": "magnet=FET5JPNBYSVR67LNAMHILO7GNPIJEWID"
+        },
+        {
+            "title": "Jogador N° 1",
+            "tmdb_id": 333339,
+            "url": "magnet=8a686598aea1739c047cbe66fb60d9af166a509e"
+        },
+        {
+            "title": "Assassinos da Lua das Flores",
+            "tmdb_id": 466420,
+            "url": "magnet=cb23e237e6e9b1aaccb594e11f8b4c1ae981e0b7"
+        }
+    ]
 }
