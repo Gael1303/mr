@@ -1,5 +1,8 @@
-Addon: Flix
-Desenvolvedor: Gael
-Versão: 1.0
+[COLOR green]Addon:[/COLOR] CineRoom
+[COLOR green]Versão:[/COLOR] 1.0
+[COLOR green]Desenvolvedor:[/COLOR] Gael
 
-Estamos em uma versão de testes! Todas as novidades serão publicadas aqui, Fiquem Atentos!
+[COLOR yellow]Este addon está em fase de testes![/COLOR]
+
+Agradecemos por sua paciência e feedback. Aproveite a experiência!
+
