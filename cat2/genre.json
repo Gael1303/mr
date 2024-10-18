@@ -2,17 +2,12 @@
   "generos": [
     {
       "nome": "Ação",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json",
-      "icone": "https://tm.ibxk.com.br/2021/12/02/02070127889006.jpg?ims=1200x675"	    
+      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json",	    
     },
     
     {
       "nome": "Ficção Cientifica",
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/sci-fi.json"
-    },
-    {
-      "nome": "APENAS UM EXEMPLOS DAS CATEGORIAS GENEROS!",
-      "url": "https://raw.githubusercontent.com"
     }
   ]
 }
