@@ -5,45 +5,14 @@
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/action.json",
       "icone": "https://tm.ibxk.com.br/2021/12/02/02070127889006.jpg?ims=1200x675"	    
     },
-    {
-      "nome": "Aventura",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/avent.json"
-    },  
-    {
-      "nome": "Animação",
-      "url": "https://exemplo.com/animacao.json"
-    },
-    {
-      "nome": "Comédia",
-      "url": "https://exemplo.com/comedia.json"
-    },
-    {
-      "nome": "Drama",
-      "url": "https://exemplo.com/drama.json"
-    },
+    
     {
       "nome": "Ficção Cientifica",
       "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/sci-fi.json"
     },
-	{
-      "nome": "Guerra",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/war.json"
-    },
-	{
-      "nome": "Historia",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/history.json"
-    },
-	{
-      "nome": "Romance",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/romance.json"
-    },
-	{
-      "nome": "Suspense",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/thriller.json"
-    },
-	{
-      "nome": "Terror",
-      "url": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genres/terror.json"
+    {
+      "nome": "APENAS UM EXEMPLOS DAS CATEGORIAS GENEROS!",
+      "url": "https://raw.githubusercontent.com"
     }
   ]
 }
