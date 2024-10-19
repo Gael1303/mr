@@ -20,5 +20,27 @@
                 ]
             }
         ]
+    },
+    {
+        "tmdb_id": "tv/60574",
+        "nome": "The Witcher",
+        "descricao": "Baseado na série de livros de Andrzej Sapkowski, The Witcher segue Geralt de Rivia, um caçador de monstros em um mundo mágico.",
+        "imagem": "https://image.tmdb.org/t/p/original/rz1J41S6AYQzL3gIYVQ7TUMqF4o.jpg",
+        "temporadas": [
+            {
+                "titulo": "Temporada 1",
+                "url": [
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_1",
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_2"
+                ]
+            },
+            {
+                "titulo": "Temporada 2",
+                "url": [
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_1",
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_2"
+                ]
+            }
+        ]
     }
 ]
