@@ -1,0 +1,24 @@
+[
+    {
+        "tmdb_id": "tv/66732",
+        "nome": "Stranger Things",
+        "descricao": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
+        "imagem": "https://image.tmdb.org/t/p/original/oqkld2D0qcnSNRm15rYV2883JE3.jpg",
+        "temporadas": [
+            {
+                "titulo": "Temporada 1",
+                "url": [
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_1",
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_2"
+                ]
+            },
+            {
+                "titulo": "Temporada 2",
+                "url": [
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_1",
+                    "plugin://plugin.video.jacktorr/play_magnet?magnet=link_para_o_ep_2"
+                ]
+            }
+        ]
+    }
+]
