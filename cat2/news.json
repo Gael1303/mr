@@ -1,7 +1,72 @@
 {
     "movies": [
-
 	    
+
+	{
+            "tmdb_id": 1371350,
+            "title": "Felicidade e…",
+            "url": "magnet=9b3ff235c626e6c3dccd319fd283773752be2248"
+        },
+        {
+            "tmdb_id": 1190469,
+            "title": "O Homem que Amava Discos Voadores",
+            "url": "magnet=4fd4397f26f98da783bb7a89747403e782552ba1"
+        },
+        {
+            "tmdb_id": 835113,
+            "title": "A Garota da Vez",
+            "url": "magnet=cdec0a87e4d34fa0c2d6e8183c3d7f225acee2b7"
+        },
+        {
+            "tmdb_id": 932086,
+            "title": "Horizon: Uma Saga Americana - Capitulo 1",
+            "url": "magnet=c3bbdbb976a80bf8f69fabc8bb44f3ad16400b19"
+        },
+        {
+            "tmdb_id": 1156212,
+            "title": "Maniaco do Parque",
+            "url": "magnet=d327bbe05434926c455d991490e17bc2d6cf5efd"
+        },
+        {
+            "tmdb_id": 1226578,
+            "title": "Longlegs - Vínculo Mortal",
+            "url": "magnet=dab9236d42655324bc1b12fb3021038170f9b9b9"
+        },
+        {
+            "tmdb_id": 616446,
+            "title": "Irmaos",
+            "url": "magnet=c8e0be83a430e589eaaf7ad6dec9ca4a9da0cb31"
+        },
+        {
+            "tmdb_id": 1306764,
+            "title": "La Fora",
+            "url": "magnet=16850939709aab5e2b6fb186af7b59c91226a113"
+        },
+        {
+            "tmdb_id": 1362101,
+            "title": "A Caverna Azul",
+            "url": "magnet=c3ab612f74d9f35165e1eea882a52c60150ab12d"
+        },
+        {
+            "tmdb_id": 1151949,
+            "title": "Através das Sombras",
+            "url": "magnet=4ce3a87994c249cd2e92e4728dd167e7e8268f7e"
+        },
+        {
+            "tmdb_id": 1165466,
+            "title": "Hora do Massacre",
+            "url": "magnet=6009010d2e941a0948215d896281d336fc343a6c"
+        },
+        {
+            "tmdb_id": 1282138,
+            "title": "Assalto Brutal",
+            "url": "magnet=c255a38b3af7644e8378d47795cd380a1f2648ca"
+        },
+        {
+            "tmdb_id": 980026,
+            "title": "O Bastardo",
+            "url": "magnet=cadee4ca1b8632efdde939883ee74c9bb75197be"
+        },   
         {
             "title": "Nao Solte!",
             "tmdb_id": 814889,
