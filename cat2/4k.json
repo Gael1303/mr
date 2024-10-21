@@ -1,7 +1,11 @@
 {
     "movies": [
 	
-	    
+	    {
+		"tmdb_id": 559907,
+		"title": "A Lenda do Cavaleiro Verde",
+		"url": "magnet=fb045c9941dc812ff89b6692063f38320da862c4"
+	},
 	    {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
