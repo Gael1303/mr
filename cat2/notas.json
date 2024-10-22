@@ -1994,11 +1994,11 @@
             "title": "Samurai X 3: O Fim de Uma Lenda",
             "url": "magnet=273e5d3afe2bb1395953281f66d081eb8820e175"
         },
-	{
+        {
             "tmdb_id": 656563,
             "title": "Ricos de Amor",
             "url": "magnet=2b49e3d6f0c3efd6a92306ac3b979d066ca9fd25"
-        },    
+        },
         {
             "tmdb_id": 533535,
             "title": "Deadpool e Wolverine",
@@ -2634,11 +2634,11 @@
             "title": "Blade Runner 2049",
             "url": "magnet=2587be29e4be01a1d75a60a99b044c8411a2871b"
         },
-	{
+        {
             "tmdb_id": 17431,
             "title": "Lunar",
             "url": "magnet=17e139510bc80afb9c0d095f0658444174ce5c77"
-        },    
+        },
         {
             "tmdb_id": 899405,
             "title": "Com Amor, Anônima",
@@ -3399,120 +3399,430 @@
             "title": "O Predestinado",
             "url": "magnet=feff8768c7e651ce89f863ddb1b99aeb5df053f3"
         },
-		{
+        {
             "tmdb_id": 771,
             "title": "Esqueceram de Mim",
             "url": "magnet=32c82f4255d562a1d3cb294e29a3ba7d1c35c766"
         },
-		{
+        {
             "tmdb_id": 382748,
             "title": "A Extraordinária Garota Chamada Estrela",
             "url": "magnet="
         },
-		{
+        {
             "tmdb_id": 51828,
             "title": "Um Dia",
             "url": "magnet=87281eaa435d756aae5bef14b2644fb8eaf5cd4d"
         },
-		{
+        {
             "tmdb_id": 660000,
             "title": "Ilusões Perdidas",
             "url": "magnet=625fdea1eee7d98038a6ad05ec4f2c62ed51c964"
         },
-		{
+        {
             "tmdb_id": 828613,
             "title": "Destinos Traçados",
             "url": "magnet=7d8bae41e1391620e7572b2e107be589144aae39"
         },
-		{
+        {
             "tmdb_id": 736069,
             "title": "Sociedade da Justiça: 2ª Guerra Mundial",
             "url": "magnet=007915544ec817af126a0516002aa37360b79b1c"
         },
-		{
+        {
             "tmdb_id": 353081,
             "title": "Missão: Impossível - Efeito Fallout",
             "url": "magnet=6b81f5d13531e08ee8002eea3d0ba3419bc315f0"
         },
-		{
+        {
             "tmdb_id": 2503,
             "title": "O Ultimato Bourne",
             "url": "magnet=ab2c5136cd3bb0ac98475e2cfbe3745b231f3649"
         },
-		{
+        {
             "tmdb_id": 166666,
             "title": "3096 Dias de Cativeiro",
             "url": "magnet=809a454b17dad9274df0313b2cbf58c7bb67b230"
         },
-		{
+        {
             "tmdb_id": 931102,
             "title": "Bons Companheiros",
             "url": "magnet=739a87693061d32811e4453e29ebca3ebb812457"
         },
-		{
+        {
             "tmdb_id": 340666,
             "title": "Animais Noturnos",
             "url": "magnet=323bda2be79a7c2878fd31e9b207489938a3e9df"
         },
-		{
+        {
             "tmdb_id": 190859,
             "title": "Sniper Americano",
             "url": "magnet=1426698852afc718c8ae13dce784151e2da40073"
         },
-		{
+        {
             "tmdb_id": 13475,
             "title": "Star Trek",
             "url": "magnet=8e5a38766863d75583a3b67ddba828a568d4000d"
         },
-		{
+        {
             "tmdb_id": 101299,
             "title": "Jogos Vorazes: Em Chamas",
             "url": "magnet=fdfe68f6450bd6e938d71463a6a8ecd7de63c303"
         },
-		{
+        {
             "tmdb_id": 11615,
             "title": "A Vida de David Gale",
             "url": "magnet=ffe7d6b7c422f3b66ac4ee9a17fb746962d8136c"
         },
-		{
+        {
             "tmdb_id": 292011,
             "title": "O Caso Richard Jewell",
             "url": "magnet=48c3f22508f4c6d29159183edcafcb9f41273585"
         },
-		{
+        {
             "tmdb_id": 429617,
             "title": "Homem-Aranha: Longe de Casa",
             "url": "magnet=f1bce91f54ddc9ed56f86734c43879e5ec1277c0"
         },
-		{
+        {
             "tmdb_id": 686,
             "title": "Contato",
             "url": "magnet=22ae213f8e97b1591bcf1bcc97dd9d4ab5076a6d"
         },
-		{
+        {
             "tmdb_id": 565310,
             "title": "A Despedida",
             "url": "magnet=60546fc8679875866d6fdf5af3984bd423174726"
         },
-		{
+        {
             "tmdb_id": 284052,
             "title": "Doutor Estranho",
             "url": "magnet=6b3f330fad11ddd4559633077499f4ed005570d4"
         },
-		{
+        {
             "tmdb_id": 9454,
             "title": "Para Sempre Cinderela",
             "url": "magnet=9c76a5a6d0ff767b1f8a8fc03f1396f2146a0b5a"
         },
-		{
+        {
             "tmdb_id": 9918,
             "title": "Estrada para a Glória",
             "url": "magnet=52f45dd743b80f7a48ad31a1625eebb931b21f4b"
         },
-		{
+        {
             "tmdb_id": 1523,
             "title": "O Último Rei da Escócia",
             "url": "magnet=a96970369958eab97c3cabbb73fa577bc2d5c526"
+        },
+        {
+            "tmdb_id": 487670,
+            "title": "A Morte do Superman",
+            "url": "magnet=9d0dda6468e9e4f17e7665d7864f19b856f81c9c"
+        },
+        {
+            "tmdb_id": 176,
+            "title": "Jogos Mortais",
+            "url": "magnet=0d5f13b6c98a2e2d8b1b294a8dbdf1f47ced4bf0"
+        },
+        {
+            "tmdb_id": 137106,
+            "title": "Uma Aventura Lego",
+            "url": "magnet=10e58a1377c62de9c9b61d14ee93ddd065f2013e"
+        },
+        {
+            "tmdb_id": 638449,
+            "title": "A Última Carta de Amor",
+            "url": "magnet=5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5"
+        },
+        {
+            "tmdb_id": 290762,
+            "title": "Ja Estou Com Saudades",
+            "url": "magnet=c9e8add682979e2beefd3cc90562108dc2b8e203"
+        },
+        {
+            "tmdb_id": 242,
+            "title": "O Poderoso Chefão: Parte III",
+            "url": "magnet="
+        },
+        {
+            "tmdb_id": 395991,
+            "title": "Homens de Coragem",
+            "url": "magnet=8efc0d8fa5de0eeecaa34a4e3c4f6f3af56b4257"
+        },
+        {
+            "tmdb_id": 853,
+            "title": "Circulo de Fogo",
+            "url": "magnet=336f061f28a714799e02e3b792e40728fd11a91a"
+        },
+        {
+            "tmdb_id": 5123,
+            "title": "O Som do Coração",
+            "url": "magnet=0a77e56e9226618f080e324bed5bb2718a7ab14f"
+        },
+        {
+            "tmdb_id": 1151534,
+            "title": "Destinos à Deriva",
+            "url": "magnet=4f75022c9acdd5f88795f1b448f7b34633165fcf"
+        },
+        {
+            "tmdb_id": 874300,
+            "title": "South Park: Pos-Covid - A Volta Da Covid",
+            "url": "magnet=97ab66f3985a1cba0de10d1f866e326c0cbc2545"
+        },
+        {
+            "tmdb_id": 516486,
+            "title": "Greyhound - Na Mira do Inimigo",
+            "url": "magnet=5d7427decac26e35e62424d2b4359e04691cfb9a"
+        },
+        {
+            "tmdb_id": 312221,
+            "title": "Creed: Nascido para Lutar",
+            "url": "magnet=2787f7de5bf7dfb4cef21e42ae1a0794c44dd3d1"
+        },
+        {
+            "tmdb_id": 94329,
+            "title": "Operação Invasão",
+            "url": "magnet=cb2af15b0f3b32a1d60c622d7b0ff0bc3121f822"
+        },
+        {
+            "tmdb_id": 432836,
+            "title": "Memoria de um Assassino",
+            "url": "magnet=de9a2361b28678f521467d547f46a5b0fe9ff147"
+        },
+        {
+            "tmdb_id": 11661,
+            "title": "Feliz Natal",
+            "url": "magnet=bb267b2d8beb6813e3a09b10826d7bd5171619d7"
+        },
+        {
+            "tmdb_id": 226,
+            "title": "Meninos Não Choram",
+            "url": "magnet=a574489e082a351595194fd7c53de4c1a238b183"
+        },
+        {
+            "tmdb_id": 447332,
+            "title": "Um Lugar Silencioso",
+            "url": "magnet=247687ee0143a5a87635ff3abcea2a920118f7b7"
+        },
+        {
+            "tmdb_id": 37135,
+            "title": "Tarzan",
+            "url": "magnet=3830cbfecb917cf930c1e7e426504cf27ff4228f"
+        },
+        {
+            "tmdb_id": 463257,
+            "title": "O Falcão Manteiga de Amendoim",
+            "url": "magnet=de123a7c471c0ab2a00c0defa5e0cc5c7aea83fc"
+        },
+        {
+            "tmdb_id": 1359,
+            "title": "Psicopata Americano",
+            "url": "magnet=97d6f22443b48ab794f1c17b01b997b8df1e037c"
+        },
+        {
+            "tmdb_id": 388,
+            "title": "O Plano Perfeito",
+            "url": "magnet=abc4de1d39bb098d94334f68b9535bce02e74197"
+        },
+        {
+            "tmdb_id": 809107,
+            "title": "Z-O-M-B-I-E-S 3",
+            "url": "magnet=a9aa3c6bd247e1e62123bde2d55958cdf54cbe21"
+        },
+        {
+            "tmdb_id": 273895,
+            "title": "Selma: Uma Luta pela Igualdade",
+            "url": "magnet=cb59cd3314c0b0c79ec212bcf6ba61ea476281a3"
+        },
+        {
+            "tmdb_id": 273481,
+            "title": "Sicario: Terra de Ninguem",
+            "url": "magnet=cb3fdd73d318c0ecf00cb29c4114cd64c60947c9"
+        },
+        {
+            "tmdb_id": 87827,
+            "title": "As Aventuras de Pi",
+            "url": "magnet=0377e1536c153d7013b13f025723ec459cab99ea"
+        },
+        {
+            "tmdb_id": 843527,
+            "title": "Uma Ideia de Você",
+            "url": "magnet=2dfbec791e34bb4fa1aa469c2979e2290124303e"
+        },
+        {
+            "tmdb_id": 615777,
+            "title": "Babilônia",
+            "url": "magnet=346345ff9f981efb57b20a209db764aeadd90fac"
+        },
+        {
+            "tmdb_id": 675445,
+            "title": "Patrulha Canina: O Filme",
+            "url": "magnet=7fa99454521a94906431524f2bc2c60d6c92a631"
+        },
+        {
+            "tmdb_id": 10474,
+            "title": "Diario de um Adolescente",
+            "url": "magnet=74c18151c3f64da5e173bcb6dde395a61f045130"
+        },
+        {
+            "tmdb_id": 350,
+            "title": "O Diabo Veste Prada",
+            "url": "magnet=3ef8c8d3cebb18219f768dcd84b85aeebce9970f"
+        },
+        {
+            "tmdb_id": 21542,
+            "title": "Amor de Aluguel",
+            "url": "magnet=c27d92f16ab44f9943bf1089eae81185d77603fb"
+        },
+        {
+            "tmdb_id": 533444,
+            "title": "As Ondas",
+            "url": "magnet=f8e494ffec345fc270fa1ff781ca87fd51b3c0ce"
+        },
+        {
+            "tmdb_id": 8681,
+            "title": "Busca Implacavel",
+            "url": "magnet=d44589f7f79bbbe7f9e3b00d857bcfa7df96f28f"
+        },
+        {
+            "tmdb_id": 484751,
+            "title": "Atraves do Fogo",
+            "url": "magnet=af48739ed633f8737f79f4d880dc6ebebf63da33"
+        },
+        {
+            "tmdb_id": 414425,
+            "title": "Lagrimas Sobre o Mississipi",
+            "url": "magnet=6142703e49cf82e6808c9f875dd2eef7158cab12"
+        },
+        {
+            "tmdb_id": 22803,
+            "title": "Codigo de Conduta",
+            "url": "magnet=ab9ab37aefe8e4ba9354ce25afea557a7f22b37e"
+        },
+        {
+            "tmdb_id": 829280,
+            "title": "Enola Holmes 2",
+            "url": "magnet=d85e550b860c36c08dfe78069a7e84cc7653311e"
+        },
+        {
+            "tmdb_id": 855,
+            "title": "Falcão Negro em Perigo",
+            "url": "magnet=5bad6ab7441379a7893206b10e175c4246960318"
+        },
+        {
+            "tmdb_id": 425909,
+            "title": "Ghostbusters: Mais Alem",
+            "url": "magnet=c647a127ecc08df976d84bc83b4c1528e8cede9e"
+        },
+        {
+            "tmdb_id": 37094,
+            "title": "Um Dia de Fúria",
+            "url": "magnet=50621fa8542baad92b6747cb7ee2a2cf997438c3"
+        },
+        {
+            "tmdb_id": 9361,
+            "title": "O Último dos Moicanos",
+            "url": "magnet="
+        },
+        {
+            "tmdb_id": 1669,
+            "title": "A Caçada ao Outubro Vermelho",
+            "url": "magnet=901aa184a510f5b8a1379f90b7cec55d7c62265a"
+        },
+        {
+            "tmdb_id": 628,
+            "title": "Entrevista com o Vampiro",
+            "url": "magnet=36a74bea3a53fbc2c020a522cfd2e6ab3d544558"
+        },
+        {
+            "tmdb_id": 284054,
+            "title": "Pantera Negra",
+            "url": "magnet=b673098908409d37ca710558d979749078f69da9"
+        },
+        {
+            "tmdb_id": 376867,
+            "title": "Moonlight: Sob a Luz do Luar",
+            "url": "magnet=8bbefafd16b5c5ed18537a5da45eed681b187a9c"
+        },
+        {
+            "tmdb_id": 4011,
+            "title": "Os Fantasmas se Divertem",
+            "url": "magnet=34d534a0c034c17c02f927ec241644ed5f30194e"
+        },
+        {
+            "tmdb_id": 818647,
+            "title": "Atraves da Minha Janela",
+            "url": "magnet=59822c329b060e0cf94fc44cadd7cb4b7db8a0e1"
+        },
+        {
+            "tmdb_id": 476299,
+            "title": "A Casa do Medo - Incidente em Ghostland",
+            "url": "magnet=82b7897ffab94539bdd9cdd1c52cd082abb325d2"
+        },
+        {
+            "tmdb_id": 433247,
+            "title": "Primeiro Mataram Meu Pai",
+            "url": "magnet=9a6e9843918525e2f6bba1c049a004cef7824b54"
+        },
+        {
+            "tmdb_id": 744854,
+            "title": "O Mal que Nos Habita",
+            "url": "magnet=591f1102cca52bf33e2416c730e076737624b898"
+        },
+        {
+            "tmdb_id": 458131,
+            "title": "Raça e Redenção",
+            "url": "magnet=109efdfdac8f6f9a13d5b46ff19fc03044976a84"
+        },
+        {
+            "tmdb_id": 508763,
+            "title": "A Caminho de Casa",
+            "url": "magnet=5ad7cfc510eb98670c96dd112b8bf49feaadcc6c"
+        },
+        {
+            "tmdb_id": 370172,
+            "title": "007: Sem Tempo para Morrer",
+            "url": "magnet=892067dec36944db97d80ec90ebcc0ed456fd22e"
+        },
+        {
+            "tmdb_id": 459151,
+            "title": "O Poderoso Chefinho 2: Negocios da Familia",
+            "url": "magnet=1ceeb0fcc46af65f0175e5140290a08a277e3482"
+        },
+        {
+            "tmdb_id": 1083862,
+            "title": "Resident Evil: Ilha da Morte",
+            "url": "magnet=1e35c4ee74b15d8eed1228439a4dfe6753ef9c91"
+        },
+        {
+            "tmdb_id": 10024,
+            "title": "Uma Prova de Amor",
+            "url": "magnet=7db683c73fd53ff46c8b1258934dc7f45eb33fee"
+        },
+        {
+            "tmdb_id": 508947,
+            "title": "Red: Crescer e Uma Fera",
+            "url": "magnet=04fddcd5303b6f29456967e0fa8120e53a579d76"
+        },
+        {
+            "tmdb_id": 37799,
+            "title": "A Rede Social",
+            "url": "magnet=03703fa39b716ee501a76734748d666de3e1ecf7"
+        },
+        {
+            "tmdb_id": 710356,
+            "title": "2 Corações",
+            "url": "magnet=cd0ceeaf2a7ec92f586a636e22d97d0baaf88a9c"
+        },
+        {
+            "tmdb_id": 603661,
+            "title": "O Jogo de Amor - Odio",
+            "url": "magnet=d2c26c17d680c0832a8a6c41e26c2ae752a6af06"
+        },
+        {
+            "tmdb_id": 451048,
+            "title": "Jungle Cruise",
+            "url": "magnet=0f854edacf87b83699a9f6ed362108aeb2fac9d2"
         }
     ]
 }
