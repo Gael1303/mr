@@ -1,34 +1,774 @@
 {
     "movies": [
         {
+            "title": "Batman: O Cavaleiro das Trevas",
             "tmdb_id": 155,
-            "title": "Batman - O Cavaleiro Das Trevas",
-			"release_date": "2008-07-17",
-            "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1"
+            "url": "magnet=83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923"
         },
-		{
-			"tmdb_id": 122,
-			"title": "O Senhor dos Anéis: O Retorno do Rei",
-			"release_date": "2003-12-17",
-			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet="
-		},
-		{
-			"tmdb_id": 346,
-			"title": "Os Sete Samurais",
-			"release_date": "1954-04-26",
-			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet="
-		},
-		{
-			"tmdb_id": 120,
-			"title": "O Senhor dos Anéis: A Sociedade do Anel",
-			"release_date": "2001-12-18",
-			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed"
-		},
-		{
-			"tmdb_id": 324857,
-			"title": "Homem-Aranha: No Aranhaverso",
-			"release_date": "2018-12-06",
-			"url": "plugin://plugin.video.jacktorr/play_magnet?magnet=36033201da817a92d4e96791e289499f89c73ff0"
-		}
-		]
+        {
+            "title": "Vingadores: Ultimato",
+            "tmdb_id": 299534,
+            "url": "magnet=117fe5b8426f14415561b3383ecd484452ac658c"
+        },
+        {
+            "title": "Vingadores: Guerra Infinita",
+            "tmdb_id": 299536,
+            "url": "magnet=6412fecbd42264a37b3e214d9c860b0a60f85bf0"
+        },
+        {
+            "title": "Gladiador",
+            "tmdb_id": 98,
+            "url": "magnet=5fd5576760be2db1b8faaa7e12874e5834a479cd"
+        },
+        {
+            "title": "Bastardos Inglorios",
+            "tmdb_id": 16869,
+            "url": "magnet=ee309632268d960122be489f312aeab87548d723"
+        },
+        {
+            "title": "Logan",
+            "tmdb_id": 263115,
+            "url": "magnet=ef30ab4cf8ab1ec1f9968755d52e6f50b1fb7657"
+        },
+        {
+            "title": "Matrix",
+            "tmdb_id": 603,
+            "url": "magnet=76949e573ff48aa138f1e06541f3482bb49359c2"
+        },
+        {
+            "title": "Top Gun: Maverick",
+            "tmdb_id": 361743,
+            "url": "magnet=32b37bf92b92028f53c5aedffe9928239a2684d7"
+        },
+        {
+            "tmdb_id": 49026,
+            "title": "Batman: O Cavaleiro das Trevas Ressurge",
+            "url": "magnet=7ad8e85fd5b276f142614c696492901ac38450bf"
+        },
+        {
+            "title": "Som da Liberdade",
+            "tmdb_id": 678512,
+            "url": "magnet=ab6c010e6daf13149ef3dd4b0b83672c536f8046"
+        },
+        {
+            "title": "Os Vingadores: The Avengers",
+            "tmdb_id": 24428,
+            "url": "magnet=1526dd829688f315c4db8241fe658055128fb1af"
+        },
+        {
+            "tmdb_id": 280,
+            "title": "O Exterminador do Futuro 2: O Julgamento Final",
+            "url": "magnet=a74d828b27cd365e4a80bae1cf8fde591f4ffcde"
+        },
+        {
+            "title": "Tropa de Elite",
+            "tmdb_id": 7347,
+            "url": "magnet=e9396cb419ff6b19d3827b41fca8832fad08e5e4"
+        },
+        {
+            "tmdb_id": 140607,
+            "title": "Star Wars: O Despertar da Força",
+            "url": "magnet=f75bb00e9d7dc1d84e6316d6b4f5301b91fffccb"
+        },
+        {
+            "tmdb_id": 6844,
+            "title": "Os Dez Mandamentos",
+            "url": "magnet=6ba0233592e9b7fd74d0d74817752d624586ac51"
+        },
+        {
+            "tmdb_id": 118340,
+            "title": "Guardioes da Galaxia",
+            "url": "magnet=92e8293f9c506a7e0cd3014473bbd8a371e89188"
+        },
+        {
+            "title": "X-Men: Dias de um Futuro Esquecido",
+            "tmdb_id": 127585,
+            "url": "magnet=5e868c0c950b1a06da25ab20e1f216e002fbeb43"
+        },
+        {
+            "tmdb_id": 122,
+            "title": "O Senhor dos Anéis: O Retorno do Rei",
+            "url": "magnet="
+        },
+        {
+            "title": "Piratas do Caribe: A Maldiçao do Perola Negra",
+            "tmdb_id": 22,
+            "url": "magnet=2782e7c161c25f4ffa5eb7afa92c488dbd29a65d"
+        },
+        {
+            "tmdb_id": 100402,
+            "title": "Capitao America 2: O Soldado Invernal",
+            "url": "magnet=f84faa636687e86d2f0cc13019bf602706a329a4"
+        },
+        {
+            "title": "Homem-Aranha: Sem Volta Para Casa",
+            "tmdb_id": 634649,
+            "url": "magnet=afa26f6a979036145055809dd016f25f1c5571a4"
+        },
+        {
+            "tmdb_id": 85,
+            "title": "Indiana Jones e os Caçadores da Arca Perdida",
+            "url": "magnet=c52da55739a2229b4cbad0023d9cf49afa9c5a7c"
+        },
+        {
+            "title": "O Pacto",
+            "tmdb_id": 882569,
+            "url": "magnet=90628fff1f7cc4f330db2850f6ed979c530db222"
+        },
+        {
+            "title": "Furiosa: Uma Saga Mad Max",
+            "tmdb_id": 786892,
+            "url": "magnet=b4799848d6c71253bb4d7f0e759cc055a99def81"
+        },
+        {
+            "title": "Guardioes da Galaxia: Vol. 3",
+            "tmdb_id": 447365,
+            "url": "magnet=ed12cc10da0edbde7d4d6ff96b597210a14bc0f7"
+        },
+        {
+            "title": "Piratas do Caribe: O Bau da Morte",
+            "tmdb_id": 58,
+            "url": "magnet=560f07f7fd6bdc61ff2029f4d48e183e219a864f"
+        },
+        {
+            "tmdb_id": 168259,
+            "title": "Velozes e Furiosos 7",
+            "url": "magnet=4d2f76d264aa82b7507c8d4f8470c75f69ac34bb"
+        },
+        {
+            "title": "Capitao America: Guerra Civil",
+            "tmdb_id": 271110,
+            "url": "magnet=27d2c99a9ecc3f0378999bf293eae41af641971b"
+        },
+        {
+            "title": "Vingadores: Era de Ultron",
+            "tmdb_id": 99861,
+            "url": "magnet=d5f62fb0451c98592b39d2681040823ffa579c24"
+        },
+        {
+            "tmdb_id": 284054,
+            "title": "Pantera Negra",
+            "url": "magnet=a8c8f60cbf5e80f494a53bf7255ea7b754169377"
+        },
+        {
+            "tmdb_id": 324857,
+            "title": "Homem-Aranha: No Aranhaverso",
+            "url": "magnet=36033201da817a92d4e96791e289499f89c73ff0"
+        },
+        {
+            "title": "Deadpool",
+            "tmdb_id": 293660,
+            "url": "magnet=44147456d5aad8c0c026ea0b0ec2f54ec59d8c8f"
+        },
+        {
+            "title": "O Hobbit: A Batalha dos Cinco Exercitos",
+            "tmdb_id": 122917,
+            "url": "magnet=bbeb690be146d9c96a1454146381966bca9e071d"
+        },
+        {
+            "title": "Operaçao Big Hero",
+            "tmdb_id": 177572,
+            "url": "magnet=feefca42e390807152a3e59510822f8abababff9"
+        },
+        {
+            "title": "Homem de Ferro",
+            "tmdb_id": 1726,
+            "url": "magnet=5871a93d9d436d3ebd290c4ac88fb5b684e875c0"
+        },
+        {
+            "tmdb_id": 297762,
+            "title": "Mulher-Maravilha",
+            "url": "magnet=c3e870d3a3d05a6ac2cb6cb1ca24c0f5ef6f671e"
+        },
+        {
+            "title": "Missao: Impossivel - Acerto de Contas Parte 1",
+            "tmdb_id": 575264,
+            "url": "magnet=9a6ddf53745d7c105491ae85214a1dd3716b8532"
+        },
+        {
+            "title": "Liga da Justiça de Zack Snyder",
+            "tmdb_id": 791376,
+            "url": "magnet=8c8cacc0a491342496201d418b47fd98f1cd5934"
+        },
+        {
+            "tmdb_id": 47931,
+            "title": "Tropa de Elite 2: O Inimigo Agora e Outro",
+            "url": "magnet=ca5cfd968723632c797c3b188c3f5f2fc414599e"
+        },
+        {
+            "tmdb_id": 89,
+            "title": "Indiana Jones e a Ultima Cruzada",
+            "url": "magnet=3a3ea9934af8beda99d3af8f842917e418a79a30"
+        },
+        {
+            "title": "Os Incriveis",
+            "tmdb_id": 9806,
+            "url": "magnet=022aa39b9bf5f11f84bd21b6e7da8fdc20c7e0e9"
+        },
+        {
+            "tmdb_id": 283995,
+            "title": "Guardioes da Galaxia - Vol. 2",
+            "url": "magnet=6d1ec7c98427c6cc8120c36fd01290c79d172f3f"
+        },
+        {
+            "title": "Piratas do Caribe: No Fim do Mundo",
+            "tmdb_id": 285,
+            "url": "magnet=78369b8167a2d2b963396a011285db3b2528598f"
+        },
+        {
+            "tmdb_id": 101299,
+            "title": "Jogos Vorazes: Em Chamas",
+            "url": "magnet=fdfe68f6450bd6e938d71463a6a8ecd7de63c303"
+        },
+        {
+            "tmdb_id": 22803,
+            "title": "Codigo de Conduta",
+            "url": "magnet=ab9ab37aefe8e4ba9354ce25afea557a7f22b37e"
+        },
+        {
+            "tmdb_id": 54138,
+            "title": "Star Trek: Alem da Escuridao",
+            "url": "magnet=92a3ba1fb2c696a63765a4bd61a866ba6d9f3e49"
+        },
+        {
+            "tmdb_id": 272,
+            "title": "Batman Begins",
+            "url": "magnet=bdb6c2756149a63ed357382f07aa1148eeebbe89"
+        },
+        {
+            "tmdb_id": 752,
+            "title": "V de Vingança",
+            "url": "magnet=d05a9552e461e35f174f0b60bf16fa95f04127bd"
+        },
+        {
+            "tmdb_id": 652,
+            "title": "Troia",
+            "url": "magnet=91daa0f3bcb380ac92d776ebfc6044f9dd706fd4"
+        },
+        {
+            "tmdb_id": 1895,
+            "title": "Star Wars: Episodio III - A Vingança dos Sith",
+            "url": "magnet=dc19ab0b54085755fe7a6af8fb73cb31d20fad06"
+        },
+        {
+            "tmdb_id": 58574,
+            "title": "Sherlock Holmes: O Jogo de Sombras",
+            "url": "magnet=651a4f10f121f11c6eaa14c639ea7fca27c4e8fe"
+        },
+        {
+            "tmdb_id": 59440,
+            "title": "Guerreiro",
+            "url": "magnet=bad9b37b00ed80533a9293970f3be12a557bf9f0"
+        },
+        {
+            "tmdb_id": 353081,
+            "title": "Missao: Impossivel - Efeito Fallout",
+            "url": "magnet=de51166d838351106de65b42cf148433508e71ac"
+        },
+        {
+            "tmdb_id": 10528,
+            "title": "Sherlock Holmes",
+            "url": "magnet=ae65695c754254c4c063e9599c07939587f32234"
+        },
+        {
+            "tmdb_id": 330459,
+            "title": "Rogue One: Uma Historia Star Wars",
+            "url": "magnet=34161a0ccf73f79ef482bd5b8b187cb92258c2bc"
+        },
+        {
+            "tmdb_id": 9509,
+            "title": "Chamas da Vingança",
+            "url": "magnet=3dfa259958252ff912e17600d5f58006270dc8ed"
+        },
+        {
+            "title": "O Exterminador do Futuro",
+            "tmdb_id": 218,
+            "url": "magnet=98d42994283db329f2aa9c53152083bed2dbeb1b"
+        },
+        {
+            "tmdb_id": 177677,
+            "title": "Missao: Impossivel - Naçao Secreta",
+            "url": "magnet=3b39e8edfb78e0ac0e3ee616b9b4631b961c88a8"
+        },
+        {
+            "tmdb_id": 1924,
+            "title": "Superman: O Filme",
+            "url": "magnet=475d32a01c8a85b2578d06c9f488c87bcbe11498"
+        },
+        {
+            "title": "Jurassic World: O Mundo dos Dinossauros",
+            "tmdb_id": 135397,
+            "url": "magnet=2f41fa5303f244370f2ec3243ca55038b5cb6686"
+        },
+        {
+            "tmdb_id": 149,
+            "title": "Akira",
+            "url": "magnet=0a5f0c603d827f115196fa9f703c9cc48cd57205"
+        },
+        {
+            "title": "Homem-Aranha",
+            "tmdb_id": 557,
+            "url": "magnet=7fa04311bcc10c7b5c53291f5f8097d381a2c8bd"
+        },
+        {
+            "tmdb_id": 37724,
+            "title": "007 Operaçao Skyfall",
+            "url": "magnet="
+        },
+        {
+            "tmdb_id": 13475,
+            "title": "Star Trek",
+            "url": "magnet="
+        },
+        {
+            "title": "Coraçoes de Ferro",
+            "tmdb_id": 228150,
+            "url": "magnet=0030652307b13d07476b6a08bef2930e90900ca6"
+        },
+        {
+            "title": "Kingsman: Serviço Secreto",
+            "tmdb_id": 207703,
+            "url": "magnet=725c74437d19dbccb1bc06d02ab22829b660556b"
+        },
+        {
+            "tmdb_id": 49538,
+            "title": "X-Men: Primeira Classe",
+            "url": "magnet=3f20640c5c8578e45e251817ddd2a7ca31873857"
+        },
+        {
+            "title": "Busca Implacavel",
+            "tmdb_id": 8681,
+            "url": "magnet=d44589f7f79bbbe7f9e3b00d857bcfa7df96f28f"
+        },
+        {
+            "title": "Jogador N° 1",
+            "tmdb_id": 333339,
+            "url": "magnet=36a1e1378fdced36fa38e547cf5bd6583d960afb"
+        },
+        {
+            "tmdb_id": 562,
+            "title": "Duro de Matar",
+            "url": "magnet=b6dbd1631351ad8f675f8232d1b44092492a29dd"
+        },
+        {
+            "tmdb_id": 2503,
+            "title": "O Ultimato Bourne",
+            "url": "magnet=ab2c5136cd3bb0ac98475e2cfbe3745b231f3649"
+        },
+        {
+            "title": "Aliens: O Resgate",
+            "tmdb_id": 679,
+            "url": "magnet=3a897bd47b83f9994bc6a4209a28cb242b4780bd"
+        },
+        {
+            "tmdb_id": 4346,
+            "title": "Anjos da Vida: Mais Bravos que o Mar",
+            "url": "magnet=537f99dd2e5b21d642892058a52dbe29e0ecf6c1"
+        },
+        {
+            "tmdb_id": 56292,
+            "title": "Missao: Impossivel - Protocolo Fantasma",
+            "url": "magnet=4ca8b4380436bff1c82d8c5f284e5d35843414af"
+        },
+        {
+            "tmdb_id": 36557,
+            "title": "007 Cassino Royale",
+            "url": "magnet=48235e052e3c57f931b461fbc13eff1e594e331a"
+        },
+        {
+            "title": "Homem-Aranha: Atraves do Aranhaverso",
+            "tmdb_id": 569094,
+            "url": "magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5"
+        },
+        {
+            "tmdb_id": 558,
+            "title": "Homem-Aranha 2",
+            "url": "magnet=9024fe5f48cddb77e106bbc4e553dbc5e070004d"
+        },
+        {
+            "tmdb_id": 95,
+            "title": "Armageddon",
+            "url": "magnet=3028f68d6da34833d32bff79f2b213a6d946ffe4"
+        },
+        {
+            "tmdb_id": 70160,
+            "title": "Jogos Vorazes",
+            "url": "magnet=015380b6afa40fde80c73e58591dbcf6804cadc1"
+        },
+        {
+            "title": "Planeta dos Macacos: O Confronto",
+            "tmdb_id": 119450,
+            "url": "magnet=6f663bf71220dc8bd5a2e7afd5819930567a6b30"
+        },
+        {
+            "title": "John Wick",
+            "tmdb_id": 245891,
+            "url": "magnet=29dec5ec6302c8521a394a193bfdc3f68d2d8459"
+        },
+        {
+            "tmdb_id": 458156,
+            "title": "John Wick 3: Parabellum",
+            "url": "magnet=f564d1711f5817589a5c7e8ced467f65b9a1d93f"
+        },
+        {
+            "title": "Avatar: O Caminho da Agua",
+            "tmdb_id": 76600,
+            "url": "magnet=73884e1bec0a286dd080c8d4664d05c67f730cf3"
+        },
+        {
+            "tmdb_id": 123025,
+            "title": "Batman: O Cavaleiro das Trevas, Parte 1",
+            "url": "magnet=ca09c8e984079d87257db6a7071160a1e449daad"
+        },
+        {
+            "title": "Constantine",
+            "tmdb_id": 561,
+            "url": "magnet=1b417672b370282b786d46ddcf40b29cec09578b"
+        },
+        {
+            "tmdb_id": 193756,
+            "title": "O Grande Heroi",
+            "url": "magnet=09e76223db9e5d76c013a2fc69dbac9ae049ff5a"
+        },
+        {
+            "tmdb_id": 297802,
+            "title": "Aquaman",
+            "url": "magnet=a5d54259bf67b4337638c917813b9fc0ff81d53d"
+        },
+        {
+            "title": "Kung Fu Panda",
+            "tmdb_id": 9502,
+            "url": "magnet=a5c76ce4981d69e0dd8cac9e6f9df46155abda52"
+        },
+        {
+            "tmdb_id": 181808,
+            "title": "Star Wars: Episodio VIII - Os Últimos Jedi",
+            "url": "magnet=ceb22cadd8dd6e0c74e22409e792c68744bc1b7c"
+        },
+        {
+            "tmdb_id": 480530,
+            "title": "Creed II",
+            "url": "magnet=b15e27f32175a521d62488638ddc2cc60cf1bc36"
+        },
+        {
+            "tmdb_id": 393,
+            "title": "Kill Bill: Volume 2",
+            "url": "magnet=5d30d104f2ca7a4a3bbf90eb3afb27aa027a223b"
+        },
+        {
+            "title": "Maze Runner: Correr ou Morrer",
+            "tmdb_id": 198663,
+            "url": "magnet=5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e"
+        },
+        {
+            "tmdb_id": 9799,
+            "title": "Velozes e Furiosos",
+            "url": "magnet=e90b3bab4055df1c2baab40d6d0bb6a836412fe4"
+        },
+        {
+            "title": "John Wick 4: Baba Yaga",
+            "tmdb_id": 603692,
+            "url": "magnet=655e12bc64229f2345be2258a8080142ba460d68"
+        },
+        {
+            "title": "Godzilla Minus One",
+            "tmdb_id": 940721,
+            "url": "magnet=2391ff0374ae429a76e48325fa9b89890080b355"
+        },
+        {
+            "tmdb_id": 339403,
+            "title": "Em Ritmo de Fuga",
+            "url": "magnet=70b52d5937de3355bfb57138c9d2d8acf3ee0949"
+        },
+        {
+            "tmdb_id": 9476,
+            "title": "Coraçao de Cavaleiro",
+            "url": "magnet=44189aba57a1da9b0602551bdf33da71d6835d55"
+        },
+        {
+            "tmdb_id": 101,
+            "title": "O Profissional",
+            "url": "magnet=8948dba6716b235fbc7d6c096117d005816f128e"
+        },
+        {
+            "tmdb_id": 183011,
+            "title": "Liga da Justiça: Ponto de Igniçao",
+            "url": "magnet=eef2742f1b0807abc3c359f506ab918f34c5963a"
+        },
+        {
+            "tmdb_id": 7485,
+            "title": "Atirador",
+            "url": "magnet=6354428db7ed2246bdcdf5cf2b7985da8ce759d5"
+        },
+        {
+            "tmdb_id": 1271,
+            "title": "300",
+            "url": "magnet=7fa53657cb434e17c18394a9e3c1cab75bba1e53"
+        },
+        {
+            "tmdb_id": 24,
+            "title": "Kill Bill: Volume 1",
+            "url": "magnet=78a53b07396a6e0ca7e0f25c6fdc0386db9bfdaf"
+        },
+        {
+            "title": "O Protetor",
+            "tmdb_id": 156022,
+            "url": "magnet=0549da92dc3af0352f4701aec449b959a655d4ff"
+        },
+        {
+            "tmdb_id": 281338,
+            "title": "Planeta dos Macacos: A Guerra",
+            "url": "magnet=4abb8e837b1478e3edf94328d66fa72cef46078f"
+        },
+        {
+            "title": "O Predador",
+            "tmdb_id": 106,
+            "url": "magnet=05fe57132b71484d8d2e8c5ea3e1610fcc3539e1"
+        },
+        {
+            "tmdb_id": 2024,
+            "title": "O Patriota",
+            "url": "magnet=8b329b16fe8d5740c1b4888f4843b5eb030f662e"
+        },
+        {
+            "tmdb_id": 137113,
+            "title": "No Limite do Amanha",
+            "url": "magnet=822bb22c420c12701ba0573890cbef451cd0ac16"
+        },
+        {
+            "tmdb_id": 604,
+            "title": "Matrix Reloaded",
+            "url": "magnet=498ddeca847fba8ea6bf2bf2279b89c4771742a7"
+        },
+        {
+            "tmdb_id": 1771,
+            "title": "Capitao America: O Primeiro Vingador",
+            "url": "magnet=96238b20df0e1fc9f5af462c530c1f98570a6d78"
+        },
+        {
+            "title": "Watchmen",
+            "tmdb_id": 13183,
+            "url": "magnet=723a77d1fc7ccc304ece262f6db0405a033246ab"
+        },
+        {
+            "tmdb_id": 82992,
+            "title": "Velozes & Furiosos 6",
+            "url": "magnet=ed49a31c1db8173a7d483d479989954d69182555"
+        },
+        {
+            "title": "Beekeeper: Rede de Vingança",
+            "tmdb_id": 866398,
+            "url": "magnet=6f5a85f5a1bd4ca070a96c1773ea9a1e0d42976a"
+        },
+        {
+            "tmdb_id": 2501,
+            "title": "A Identidade Bourne",
+            "url": "magnet=4ef8636d845ad45a4f8bb3605bb99fd2c86619ee"
+        },
+        {
+            "tmdb_id": 284053,
+            "title": "Thor: Ragnarok",
+            "url": "magnet=69a4440c1805f61afc80688505561b136eaed277"
+        },
+        {
+            "tmdb_id": 391,
+            "title": "Por um Punhado de Dolares",
+            "url": "magnet=1c3d705b86e555d651b35a7f450db11426eae9cd"
+        },
+        {
+            "tmdb_id": 9567,
+            "title": "Lagrimas do Sol",
+            "url": "magnet=31e1b18f1c86f6bc3027fe09bb816874edac19f1"
+        },
+        {
+            "tmdb_id": 302946,
+            "title": "O Contador",
+            "url": "magnet=437234314ab269658919c5364b3865d493980b60"
+        },
+        {
+            "tmdb_id": 102899,
+            "title": "Homem-Formiga",
+            "url": "magnet=b051a41f8d19f72d5231b09de791801e16e3d73e"
+        },
+        {
+            "tmdb_id": 90,
+            "title": "Um Tira da Pesada",
+            "url": "magnet=901a12bb7c1feaba9592d6ec07538a6bb596e156"
+        },
+        {
+            "tmdb_id": 949,
+            "title": "Fogo Contra Fogo",
+            "url": "magnet=f6a29c40433798d7100ea06b5289fb4b31ec5d47"
+        },
+        {
+            "tmdb_id": 131631,
+            "title": "Jogos Vorazes: A Esperança - Parte 1",
+            "url": "magnet=aeed632188f2c565c70749ce306593de8c21c64f"
+        },
+        {
+            "tmdb_id": 954,
+            "title": "Missao: Impossível",
+            "url": "magnet=2e0cd2ab948c852ac14d279364df39071de9cd19"
+        },
+        {
+            "title": "Homem de Ferro 2",
+            "tmdb_id": 10138,
+            "url": "magnet=7cfcf41160e5b9427ff668b926c52612e4a6e1db"
+        },
+        {
+            "tmdb_id": 744,
+            "title": "Top Gun - Ases Indomaveis",
+            "url": "magnet=3ba50fb1a71a273ff3d7bd9e21d3e0a34aaffa3d"
+        },
+        {
+            "tmdb_id": 956,
+            "title": "Missao: Impossivel 3",
+            "url": "magnet=f1be1b74dd8b188c3fc201722bf4925ff2e8e45c"
+        },
+        {
+            "tmdb_id": 978592,
+            "title": "A Teia",
+            "url": "magnet=6ee3148bed268d2902eebd84214e46d512c6f140"
+        },
+        {
+            "tmdb_id": 68726,
+            "title": "Circulo de Fogo",
+            "url": "magnet=7bb07916936bfa81d9ce5126609b9f6b75446b3f"
+        },
+        {
+            "tmdb_id": 1572,
+            "title": "Duro de Matar 3: A Vingança",
+            "url": "magnet=02302dce6093b22be1f47368bd2945cb338dde0c"
+        },
+        {
+            "tmdb_id": 11690,
+            "title": "O Grande Dragao Branco",
+            "url": "magnet=69a986129b773449ecba7b6d5e804588a99450c1"
+        },
+        {
+            "tmdb_id": 61791,
+            "title": "Planeta dos Macacos: A Origem",
+            "url": "magnet=44e2c73f1fa53573d175f750308c993d690c7472"
+        },
+        {
+            "title": "Thor: O Mundo Sombrio",
+            "tmdb_id": 76338,
+            "url": "magnet=451ae221e4b54b83ae5ab1818cf8248984898261"
+        },
+        {
+            "title": "Homem-Aranha: De Volta ao Lar",
+            "tmdb_id": 315635,
+            "url": "magnet=24a2b95fce907e19c69b3f1d0a2f0874ec01fa1e"
+        },
+        {
+            "title": "Demon Slayer: Mugen Train - O Filme",
+            "tmdb_id": 635302,
+            "url": "magnet=27844a520eb9cf8363e88c1d9007db179a9dc552"
+        },
+        {
+            "title": "Tubarao",
+            "tmdb_id": 578,
+            "url": "magnet=bbe71e956c11a342fd430cd49eb82008086ae636"
+        },
+        {
+            "tmdb_id": 43064,
+            "title": "Velocidade Maxima",
+            "url": "magnet=d8d660b15c34eba110ca9844f1a69925eb56fb1a"
+        },
+        {
+            "title": "Gigantes de Aço",
+            "tmdb_id": 39254,
+            "url": "magnet=bbdcf202c5198ab957167ce0883cdad2a3baa7c6"
+        },
+        {
+            "tmdb_id": 607,
+            "title": "MIB - Homens de Preto",
+            "url": "magnet=cf7ce7ce589b29ac82432881e38f89b9b2e48e39"
+        },
+        {
+            "tmdb_id": 855,
+            "title": "Falcao Negro em Perigo",
+            "url": "magnet=53452e7d77af7ed9ba861d35b466abc01a5c9adf"
+        },
+        {
+            "tmdb_id": 36657,
+            "title": "X-Men: O Filme",
+            "url": "magnet=5a2d69bb7081a47fd53649453dea25b7fb0ad1f8"
+        },
+        {
+            "tmdb_id": 294254,
+            "title": "Maze Runner: Prova de Fogo",
+            "url": "magnet=1138c2ca99610e1ce4316cbe73665a1362984462"
+        },
+        {
+            "title": "Alita: Anjo de combate",
+            "tmdb_id": 399579,
+            "url": "magnet=a5e6aa5f73607b2cc2517bfe5e3fd8724ef9c484"
+        },
+        {
+            "title": "O Homem de Aço",
+            "tmdb_id": 49521,
+            "url": "magnet=6800c0ec6bbeabbc356f5a42e1ffd5272c164a69"
+        },
+        {
+            "tmdb_id": 59859,
+            "title": "Kick-Ass 2: Agora e a Doer",
+            "url": "magnet=059d0c51bed9caf53873e8e21013a704041f3a27"
+        },
+        {
+            "tmdb_id": 18,
+            "title": "O Quinto Elemento",
+            "url": "magnet=df7ccf674ba3f86680a2f8ec0f2b32e561a444db"
+        },
+        {
+            "tmdb_id": 724495,
+            "title": "A Mulher Rei",
+            "url": "magnet=e34b31c779596e2148b2d26bec59c93b5cbe1eb1"
+        },
+        {
+            "tmdb_id": 8961,
+            "title": "Bad Boys II",
+            "url": "magnet=b26e4547166ca22f3fa0d6777d2eac9c76b2f2ae"
+        },
+        {
+            "tmdb_id": 68721,
+            "title": "Homem de Ferro 3",
+            "url": "magnet=c97a57ab8f0040b9b015887b4cfbb63a602a5f32"
+        },
+        {
+            "tmdb_id": 1830,
+            "title": "O Senhor das Armas",
+            "url": "magnet=883c3d9eace2fa0cc49198d479db9a6459b89f4c"
+        },
+        {
+            "tmdb_id": 107846,
+            "title": "Rota de Fuga",
+            "url": "magnet=df79e4f57eff75d990a02815d4f57d6f83cddbe6"
+        },
+        {
+            "title": "Deadpool 2",
+            "tmdb_id": 383498,
+            "url": "magnet=c91ddb5653219f6f1d11d09726317bb7adbee65a"
+        },
+        {
+            "tmdb_id": 503314,
+            "title": "Dragon Ball Super: Broly",
+            "url": "magnet=1af46eb7388ef2c7486127ee0953c7a0bba50ef0"
+        },
+        {
+            "tmdb_id": 10734,
+            "title": "Alcatraz: Fuga Impossivel",
+            "url": "magnet=b05e3875059d6b9adf65ab8c43ce76d121b909ca"
+        },
+        {
+            "tmdb_id": 1885,
+            "title": "Karate Kid: A Hora da Verdade",
+            "url": "magnet=263092e5bfcf7f5e01e5d58ff332add53164f4d9"
+        },
+        {
+            "tmdb_id": 602,
+            "title": "Independence Day",
+            "url": "magnet=40f7f16f7cd1810678c5830db48ba2fa50833dcc"
+        }
+    ]
 }
