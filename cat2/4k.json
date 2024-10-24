@@ -1,21 +1,15 @@
 {
     "movies": [
-	
-	    {
-		"tmdb_id": 559907,
-		"title": "A Lenda do Cavaleiro Verde",
-		"url": "magnet=fb045c9941dc812ff89b6692063f38320da862c4"
-	},
-	    {
+        {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
             "url": "magnet=0285e57d8af12fd6e040473ce57acd87e06cc696"
-        }, 
-		{ 
-		    "tmdb_id": 1022789,
-		    "title": "Divertida Mente 2",
-		    "url": "magnet=90aaa940f82ed567d30a2eedf5cc9fe8fc5b41de"
-	    }, 
+        },
+        {
+            "tmdb_id": 1022789,
+            "title": "Divertida Mente 2",
+            "url": "magnet=90aaa940f82ed567d30a2eedf5cc9fe8fc5b41de"
+        },
         {
             "tmdb_id": 762441,
             "title": "Um Lugar Silencioso: Dia Um",
@@ -485,6 +479,66 @@
             "title": "Batman",
             "tmdb_id": 414906,
             "url": "magnet=5ce3fbb0e2900fd358dfede59fc738e9f15885b6"
+        },
+        {
+            "tmdb_id": 524434,
+            "title": "Eternos",
+            "url": "magnet=dd07997f3c5db3767711218bba5607e60789acc9"
+        },
+        {
+            "tmdb_id": 335983,
+            "title": "Venom",
+            "url": "magnet=c63a3383d6c7ff0ec07b64fee3ca7131d37f607b"
+        },
+        {
+            "tmdb_id": 624860,
+            "title": "Matrix Resurrections",
+            "url": "magnet=c217179889e060bb11190eaa2f55cd1298ec4a2c"
+        },
+        {
+            "tmdb_id": 425909,
+            "title": "Ghostbusters: Mais Alem",
+            "url": "magnet=02d836011e4b1a10eef090045cdb9ed923fda7c2"
+        },
+        {
+            "tmdb_id": 354912,
+            "title": "Viva: A Vida é uma Festa",
+            "url": "magnet=e148976e09e360a549bfc9512b4e1b5589c37c9a"
+        },
+        {
+            "tmdb_id": 24428,
+            "title": "Os Vingadores",
+            "url": "magnet=d215ff817a31229bf959288583c061ae5830c572"
+        },
+        {
+            "tmdb_id": 460465,
+            "title": "Mortal Kombat",
+            "url": "magnet=54a48d164f856298036dae1ea6108950532eb4d0"
+        },
+        {
+            "tmdb_id": 283366,
+            "title": "O Lar das Crianças Peculiares",
+            "url": "magnet=6ae2c6f2d032287c0fe95ed55672f9c894aebf75"
+        },
+        {
+            "tmdb_id": 603,
+            "title": "Matrix",
+            "url": "magnet=96fdc513d5551feb50b955e542ad3a9acd37f361"
+        },
+        {
+            "tmdb_id": 87827,
+            "title": "As Aventuras de Pi",
+            "url": "magnet=198a0945ca15f4430d36c07f85bf0f23636be071"
+        },
+        {
+            "tmdb_id": 27205,
+            "title": "A Origem",
+            "url": "magnet=b8d2b6a12a152de91d32119c38e81a53918d7d35"
+        },
+        {
+            "tmdb_id": 287947,
+            "title": "Shazam!",
+            "url": "magnet=596cf2a18e254c11aee483a2a3cb4fe3d4f632f4"
         }
     ]
 }
