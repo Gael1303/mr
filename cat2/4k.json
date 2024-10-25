@@ -1,5 +1,11 @@
 {
     "movies": [
+
+        {
+            "title": "Os Horrores do Caddo Lake",
+            "tmdb_id": 863873,
+            "url": "magnet=6660a43c4faf54ba76df18f3e33a3c98c092838d"
+        },
         {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
