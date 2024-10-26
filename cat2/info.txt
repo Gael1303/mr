@@ -2,8 +2,8 @@
 [COLOR green]Versão:[/COLOR] 1.0
 [COLOR green]Desenvolvedor:[/COLOR] Gael
 
-[COLOR yellow]Este addon está em fase de testes![/COLOR]
+[COLOR yellow]A Fase de testes chegou ao fim. Aguardem o Lançamento oficial![/COLOR]
 
-Agradecemos por sua paciência e feedback. Aproveite a experiência!
+
 
 Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
